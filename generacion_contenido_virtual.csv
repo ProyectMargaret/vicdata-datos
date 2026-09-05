@@ -1,0 +1,106 @@
+id,id_grupo,categoria,tipo_producto,titulo,ano,autores,tipologia
+00001,001,Generación de Contenido Virtual,Página web,Quien llegará al top,2019-08-05,"INGRID DURLEY TORRES PARDO, DANIELA RESTREPO ACOSTA, JUAN CAMILO GIRALDO CESPEDES, JUAN PABLO GUTIERREZ LOPEZ, FRANKLIN FERRARO GOMEZ",3
+00002,001,Generación de Contenido Virtual,Página web,El Ingeniero de Hoy,2017-08-01,LINA MARIA MONTOYA SUAREZ,3
+00003,001,Generación de Contenido Virtual,Página web,eserna.com,2014-06-04,"EDGAR SERNA M, ALEXEI SERNA A",3
+00004,002,Generación de Contenido Virtual,Otro,Algunos ejemplos sectoriales de regulación ambiental en Colombia,2020-06-26,JORGE EDUARDO VASQUEZ SANTAMARIA,3
+00005,002,Generación de Contenido Virtual,Otro,"¿Sabías que el estado debe procurar que todos los niños, niñas y adolescentes tengan un entorno seguro que garantice sus derechos?",2020-06-05,"ELVIGIA CARDONA ZULETA, MELISSA HINCAPIE OCHOA",3
+00006,002,Generación de Contenido Virtual,Otro,Tres consejos para divorciarse responsablemente en Colombia,2020-06-05,"ELVIGIA CARDONA ZULETA, MELISSA HINCAPIE OCHOA",3
+00007,002,Generación de Contenido Virtual,Otro,Datos no tan conocidos sobre la licencia de maternidad,2020-06-05,"ELVIGIA CARDONA ZULETA, MELISSA HINCAPIE OCHOA",3
+00008,002,Generación de Contenido Virtual,Otro,Incentivos ambientales en el ordenamiento jurídico colombiano.,2020-06-03,JORGE EDUARDO VASQUEZ SANTAMARIA,3
+00009,002,Generación de Contenido Virtual,Otro,Sistema Nacional de Áreas Protegidas y Sistema de Parques Naturales Nacionales de Colombia.,2020-06-03,JORGE EDUARDO VASQUEZ SANTAMARIA,3
+00010,002,Generación de Contenido Virtual,Otro,Sistema Nacional Ambiental: Institucionalidad y competencias,2020-06-03,JORGE EDUARDO VASQUEZ SANTAMARIA,3
+00011,002,Generación de Contenido Virtual,Otro,Regulaciones tributarias en Colombia.,2020-06-03,JORGE EDUARDO VASQUEZ SANTAMARIA,3
+00012,002,Generación de Contenido Virtual,Otro,Recursos forestales y aprovechamientos en Colombia.,2020-06-03,JORGE EDUARDO VASQUEZ SANTAMARIA,3
+00013,002,Generación de Contenido Virtual,Otro,Marco constitucional del ambiente y la economía en Colombia.,2020-06-03,JORGE EDUARDO VASQUEZ SANTAMARIA,3
+00014,002,Generación de Contenido Virtual,Otro,Casos de Derecho constitucional ambiental colombiano,2020-06-03,JORGE EDUARDO VASQUEZ SANTAMARIA,3
+00015,002,Generación de Contenido Virtual,Otro,Consulta previa y Audiencia Públicas Ambientales,2020-06-03,JORGE EDUARDO VASQUEZ SANTAMARIA,3
+00016,002,Generación de Contenido Virtual,Otro,Corporaciones Autónomas Regionales y entidades territoriales.,2020-06-03,JORGE EDUARDO VASQUEZ SANTAMARIA,3
+00017,002,Generación de Contenido Virtual,Otro,El ordenamiento territorial en el ordenamiento jurídico de Colombia,2020-06-03,JORGE EDUARDO VASQUEZ SANTAMARIA,3
+00018,002,Generación de Contenido Virtual,Otro,La regulación y la reglamentación del suelo: Tipologías a partir de las competencias normativas,2020-06-03,JORGE EDUARDO VASQUEZ SANTAMARIA,3
+00019,002,Generación de Contenido Virtual,Otro,Derechos de los ciudadanos en la normativa ambiental,2020-05-22,JORGE EDUARDO VASQUEZ SANTAMARIA,3
+00020,002,Generación de Contenido Virtual,Otro,El Derecho internacional ambiental en el ordenamiento jurídico de Colombia.,2020-05-03,JORGE EDUARDO VASQUEZ SANTAMARIA,3
+00021,002,Generación de Contenido Virtual,Otro,Principios y política nacional ambiental en Colombia,2020-05-03,JORGE EDUARDO VASQUEZ SANTAMARIA,3
+00022,002,Generación de Contenido Virtual,Página web,Metodología de la Investigación CualitativaModalidad virtual,2019-11-01,JENNY MARCELA ACEVEDO VALENCIA,3
+00023,002,Generación de Contenido Virtual,Página web,Revista Summa Iuris,2018-12-14,EYDER BOLIVAR MOJICA,3
+00024,002,Generación de Contenido Virtual,Página web,Revista Summa Iuris,2018-06-15,EYDER BOLIVAR MOJICA,3
+00025,003,Generación de Contenido Virtual,Página web,Módulo de Emprendimiento,2018-12-21,SANDRA MILENA MALAVERA PINEDA,3
+00026,003,Generación de Contenido Virtual,Aplicativo,"Desarrollo del modulo virtual de la asignatura ""Talento Humano""",2018-12-06,JAMES ALBERTO MARULANDA PATINO,3
+00027,003,Generación de Contenido Virtual,Página web,Módulo Electiva de Gerencia de Mercadeo,2018-11-30,SANDRA MILENA MALAVERA PINEDA,3
+00028,003,Generación de Contenido Virtual,Micrositio,Módulo Talento Humano,2018-11-23,JOSE ANTONIO LOPEZ GIRALDO,3
+00029,003,Generación de Contenido Virtual,Aplicativo,APP RAIS,2018-05-15,UBEIMAR AURELIO OSORIO ATEHORTUA,3
+00030,003,Generación de Contenido Virtual,Página web,Modulo Investigación de Mercados,2018-03-31,SANDRA MILENA MALAVERA PINEDA,3
+00031,003,Generación de Contenido Virtual,Blog,"Clima organizacional para la empresa Industria, calidad y moda",2017-11-23,"LUIS FERNANDO QUINTERO ARANGO, JAMES ALBERTO MARULANDA PATINO",3
+00032,003,Generación de Contenido Virtual,Blog,Manufacturas Puli,2017-11-06,"LUIS FERNANDO QUINTERO ARANGO, JAMES ALBERTO MARULANDA PATINO",3
+00033,003,Generación de Contenido Virtual,Blog,manufacturas puli,2017-11-06,"JAMES ALBERTO MARULANDA PATINO, LUIS FERNANDO QUINTERO ARANGO",3
+00034,003,Generación de Contenido Virtual,Página web,Modulo Fundamentos de Mercadeo,2017-06-30,SANDRA MILENA MALAVERA PINEDA,3
+00035,003,Generación de Contenido Virtual,Aplicativo,"Desarrollo del Módulo virtual de la asignatura ""Pensamiento Administrativo I""",2017-06-10,JAMES ALBERTO MARULANDA PATINO,3
+00036,003,Generación de Contenido Virtual,Micrositio,Módulo de Gerencia Estratégica,2016-08-05,JAIME ALBERTO BELTRAN RIOS,3
+00037,003,Generación de Contenido Virtual,Página web,Módulo de Mercadeo en organizaciones sociales,2016-06-21,LUIS FERNANDO QUINTERO ARANGO,3
+00038,003,Generación de Contenido Virtual,Micrositio,Modelos Gerenciales,2014-06-20,JUAN CARLOS MORALES GAVIRIA,3
+00039,003,Generación de Contenido Virtual,Micrositio,Teorías de la Gerencia del Talento Humano,2014-06-20,JUAN CARLOS MORALES GAVIRIA,3
+00040,003,Generación de Contenido Virtual,Página web,Módulo de Creatividad e Innovación,2014-01-09,MARTHA DEL SOCORRO ALZATE CARDENAS,3
+00041,004,Generación de Contenido Virtual,Página web,La Educación Inclusiva en la Universidad Católica Luis Amigó,2019-07-26,"MARTHA DEL SOCORRO ALZATE CARDENAS, SANDRA ISABEL MEJIA ZAPATA",3
+00042,004,Generación de Contenido Virtual,Página web,Cátedra abierta Beato Fray Melquiades 2018,2018-10-19,OSWALDO ANTONIO SALGADO CANAVERAL,3
+00043,004,Generación de Contenido Virtual,Página web,Presentacion de las seis tradiciones del cooperativismo,2018-06-14,OSWALDO ANTONIO SALGADO CANAVERAL,3
+00044,004,Generación de Contenido Virtual,Página web,Curso básico de Economía Solidaria,2017-12-13,OSWALDO ANTONIO SALGADO CANAVERAL,3
+00045,004,Generación de Contenido Virtual,Página web,Vídeo conferencia internacional sobre Habilidades estratégicas del administrador de empresas,2017-08-23,VICTORIA BLAQUISED RIVERA,3
+00046,004,Generación de Contenido Virtual,Página web,CONFERENCIA INTERNACIONAL HABILIDADES ESTRATÉGICAS DEL ADMINISTRADOR DE EMPRESAS,2017-07-07,VICTORIA BLAQUISED RIVERA,3
+00047,004,Generación de Contenido Virtual,Página web,Políticas Públicas para la Economía Social y Solidaria,2017-06-29,OSWALDO ANTONIO SALGADO CANAVERAL,3
+00048,004,Generación de Contenido Virtual,Página web,"Principios ontológicos, epistemológicos, praxeológicos y metodológicos del enfoque cualitativo",2017-03-10,VICTORIA BLAQUISED RIVERA,3
+00049,004,Generación de Contenido Virtual,Página web,Proceso administrativo organización,2017-03-08,VICTORIA BLAQUISED RIVERA,3
+00050,004,Generación de Contenido Virtual,Página web,Habilidades directivas,2017-02-22,VICTORIA BLAQUISED RIVERA,3
+00051,004,Generación de Contenido Virtual,Página web,Pensamiento estratégico,2017-02-22,VICTORIA BLAQUISED RIVERA,3
+00052,004,Generación de Contenido Virtual,Página web,Planeación - proceso administrativo,2017-02-18,VICTORIA BLAQUISED RIVERA,3
+00053,004,Generación de Contenido Virtual,Página web,Diagnostico organizacional,2017-02-07,VICTORIA BLAQUISED RIVERA,3
+00054,004,Generación de Contenido Virtual,Página web,Procesos administrativos,2017-02-04,VICTORIA BLAQUISED RIVERA,3
+00055,004,Generación de Contenido Virtual,Página web,Mapa conceptual - HABILIDADES GERENCIALES,2017-01-31,VICTORIA BLAQUISED RIVERA,3
+00056,004,Generación de Contenido Virtual,Micrositio,educacion cooperativa-la cooperativa,2016-12-01,ELIAS ALEXANDER VALLEJO MONTOYA,3
+00057,004,Generación de Contenido Virtual,Página web,Monitorias estratégicas,2016-11-19,VICTORIA BLAQUISED RIVERA,3
+00058,004,Generación de Contenido Virtual,Página web,Indicadores de gestión,2016-11-12,VICTORIA BLAQUISED RIVERA,3
+00059,004,Generación de Contenido Virtual,Página web,Direccionamiento estratégico,2016-11-12,VICTORIA BLAQUISED RIVERA,3
+00060,004,Generación de Contenido Virtual,Página web,Balaced scorecard,2016-11-11,VICTORIA BLAQUISED RIVERA,3
+00061,004,Generación de Contenido Virtual,Página web,Matriz de Posición Estratégica y Evaluación de la Acción - PEYEA,2016-11-02,VICTORIA BLAQUISED RIVERA,3
+00062,004,Generación de Contenido Virtual,Página web,Opciones estratégicas,2016-10-26,VICTORIA BLAQUISED RIVERA,3
+00063,004,Generación de Contenido Virtual,Página web,Estrategias financieras,2016-09-26,VICTORIA BLAQUISED RIVERA,3
+00064,004,Generación de Contenido Virtual,Página web,Paradigmas de la investigación desde un enfoque cuantitativo,2016-09-16,VICTORIA BLAQUISED RIVERA,3
+00065,004,Generación de Contenido Virtual,Página web,Paradigma de la investigación des de un enfoque cualitativo,2016-09-16,VICTORIA BLAQUISED RIVERA,3
+00066,004,Generación de Contenido Virtual,Página web,La entrevista y el grupo focal,2016-07-25,VICTORIA BLAQUISED RIVERA,3
+00067,004,Generación de Contenido Virtual,Página web,Definición del objeto de investigación y etapas del proceso de investigación cualitativa,2016-07-25,VICTORIA BLAQUISED RIVERA,3
+00068,004,Generación de Contenido Virtual,Página web,Aspectos objetivos y subjetivos de la realidad y las formas de conocimiento de la realidad social,2016-07-25,VICTORIA BLAQUISED RIVERA,3
+00069,005,Generación de Contenido Virtual,,,,,3
+00070,006,Generación de Contenido Virtual,Página web,"La pluralidad: Rasgo de la subjetividad política y condición para construir el sentido del ""entre-nos""",2014-06-30,ANGELA MARIA URREGO TOVAR,3
+00071,006,Generación de Contenido Virtual,Página web,Epistemología de la pedagogía,2014-06-11,JOSE FEDERICO AGUDELO TORRES,3
+00072,006,Generación de Contenido Virtual,Página web,"Estudio Educación, violencia urbana, afectaciones al derecho a la educación. Un análisis comparado entre Colombia, Chile y México.",2013-08-06,MARY LUZ MARIN POSADA,3
+00073,007,Generación de Contenido Virtual,Página web,¿Qué es una familia tóxica y qué puede hacer estando en ella?,2018-02-21,ALEXANDER RODRIGUEZ BUSTAMANTE,3
+00074,007,Generación de Contenido Virtual,Página web,Viveros Edison divulgación de artículos,2016-12-20,EDISON FRANCISCO VIVEROS CHAVARRIA,3
+00075,008,Generación de Contenido Virtual,Otro,Plan de curso y guía didáctica del curso Psicología Ciclo Vital,2019-04-28,JOHN JAIRO GARCIA PENA,3
+00076,008,Generación de Contenido Virtual,Otro,Plan de curso y guía didáctica del curso Psicología crítico social,2019-04-05,JOHN JAIRO GARCIA PENA,3
+00077,008,Generación de Contenido Virtual,Blog,Sonata de cine,2017-07-20,SONIA NATALIA COGOLLO OSPINA,3
+00078,008,Generación de Contenido Virtual,Página web,Diplomado en Salud Mental en Emergencias y Desastres,2016-10-03,JOHN JAIRO GARCIA PENA,3
+00079,008,Generación de Contenido Virtual,Página web,Formación de profesionales para la reconciliación social en medio del conflicto,2016-06-01,MONICA ALZATE GARCIA,3
+00080,008,Generación de Contenido Virtual,Micrositio,Desencuentros entre Ley y Agro en el Valle de San Nicolás,2016-04-15,"NICOLASA MARIA DURAN PALACIO, SONIA NATALIA COGOLLO OSPINA, NORMAN DARIO MORENO CARMONA",3
+00081,008,Generación de Contenido Virtual,Página web,Construcción de paz en las 8 grades áreas propuestas por Naciones Unidas,2016-03-01,MONICA ALZATE GARCIA,3
+00082,008,Generación de Contenido Virtual,Página web,Impacto Psicosocial de la violencia,2016-03-01,MONICA ALZATE GARCIA,3
+00083,008,Generación de Contenido Virtual,Página web,Papel de la aproximación histórica para el posicionamiento personal ante la realidad,2016-03-01,MONICA ALZATE GARCIA,3
+00084,008,Generación de Contenido Virtual,Página web,Utilidad del modelo ecológico y del modelo psicosocial para el análisis de la violencia,2016-03-01,MONICA ALZATE GARCIA,3
+00085,008,Generación de Contenido Virtual,Página web,Superando los efectos de la violencia,2016-03-01,MONICA ALZATE GARCIA,3
+00086,008,Generación de Contenido Virtual,Página web,Curso virtual Generalidades del proceso de investigación,2016-02-11,DAMIEN LE GAL FRANCOIS,3
+00087,008,Generación de Contenido Virtual,Micrositio,Curso virtual Fundamentos y corrientes de la Psicología dinámica,2016-01-20,SONIA NATALIA COGOLLO OSPINA,3
+00088,009,Generación de Contenido Virtual,Blog,¡Qué chéveres somos los seres vivos!,2009-04-15,FRANCISCO WILLIAM MERCADO MERCADO,3
+00089,010,Generación de Contenido Virtual,,,,,3
+00090,011,Generación de Contenido Virtual,Página web,Praxis de nuestros docentes y formadores de docentes. Teoría crítica presente,2019-09-13,ALEXANDER RODRIGUEZ BUSTAMANTE,3
+00091,012,Generación de Contenido Virtual,Página web,CURSO COMPORTAMIENTO DEL CONSUMIDOR,2020-04-01,LINA MARIA MARTINEZ GUTIERREZ,3
+00092,012,Generación de Contenido Virtual,Portal,Fanpage ebookcamp,2016-09-07,CARLOS SUAREZ QUICENO,3
+00093,012,Generación de Contenido Virtual,Página web,Significado de Futuro en la Prospectiva,2014-11-02,ANCIZAR VARGAS LEON,3
+00094,012,Generación de Contenido Virtual,Blog,Proyecto eBooks interactivos,2012-03-01,EDWIN ANDRES SEPULVEDA CARDONA,3
+00095,013,Generación de Contenido Virtual,Página web,La infancia de Jesús en dos pinturas de Rembrandt,2019-12-01,JUAN ESTEBAN LONDONO BETANCUR,3
+00096,013,Generación de Contenido Virtual,Página web,Marcella Althaus-Reid: el olor sexual de la teología,2019-11-25,JUAN ESTEBAN LONDONO BETANCUR,3
+00097,013,Generación de Contenido Virtual,Página web,Dorothee Sölle: Teología de la muerte de Dios,2019-08-03,JUAN ESTEBAN LONDONO BETANCUR,3
+00098,013,Generación de Contenido Virtual,Página web,Religión y política en América Latina: una reflexión desde Alemania,2019-07-16,JUAN ESTEBAN LONDONO BETANCUR,3
+00099,013,Generación de Contenido Virtual,Página web,Dietrich Bonhoeffer: una fe mundana,2019-06-05,JUAN ESTEBAN LONDONO BETANCUR,3
+00100,013,Generación de Contenido Virtual,Página web,Paul Tillich: Teología existencial y diálogo con la cultura,2019-04-28,JUAN ESTEBAN LONDONO BETANCUR,3
+00101,013,Generación de Contenido Virtual,Página web,Rudolf Bultmann: una reinterpretación de los símbolos cristianos,2019-03-12,JUAN ESTEBAN LONDONO BETANCUR,3
+00102,013,Generación de Contenido Virtual,Página web,Karl Barth: la contradicción y la Gracia,2019-02-01,JUAN ESTEBAN LONDONO BETANCUR,3
+00103,013,Generación de Contenido Virtual,Blog,Audiolibros libres,2018-10-12,PALOMA MARIN ESCOBAR,3
+00104,014,Generación de Contenido Virtual,Blog,I FORO HISTORIA Y PERSPECTIVAS DE LA CONTABILIDAD DEL COMPORTAMIENTO: RETOS DE LA CONVERGENCIA ENTRE PSICOLOGÍA Y CONTABILIDAD.,2018-02-27,"CARLOS ALBERTO MUNOZ RESTREPO, EDILGARDO DE JESUS LOAIZA BETANCUR",3
+00105,014,Generación de Contenido Virtual,Blog,TEORÍAS USUARIOS EN INFORMES DE LA RESPONSABILIDAD SOCIAL EMPRESARIAL,2016-04-13,CARLOS ALBERTO MUNOZ RESTREPO,3

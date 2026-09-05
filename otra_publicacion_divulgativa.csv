@@ -1,0 +1,144 @@
+id,id_grupo,categoria,tipo_producto,titulo,pais,ano,autores,tipologia
+00001,001,Otra publicación divulgativa,Otra,Revista Lámpsakos 10,Colombia,2013,GABRIEL JAIME CORREA HENAO,3
+00002,001,Otra publicación divulgativa,Otra,Editorial Lampsakos 5,Colombia,2011,EDGAR SERNA M,3
+00003,001,Otra publicación divulgativa,Otra,Editorial,Colombia,2010,EDGAR SERNA M,3
+00004,001,Otra publicación divulgativa,Otra,Editorial,Colombia,2010,EDGAR SERNA M,3
+00005,001,Otra publicación divulgativa,Otra,Editorial,Colombia,2009,EDGAR SERNA M,3
+00006,001,Otra publicación divulgativa,Otra,Editorial,Colombia,2009,EDGAR SERNA M,3
+00007,002,Otra publicación divulgativa,Prólogo,El abogado para el futuro,Colombia,2017,RODRIGO ORLANDO OSORIO MONTOYA,3
+00008,002,Otra publicación divulgativa,Prólogo,El Estado colombiano en el Modelo Teórico de Thomas Hobbes,Colombia,2015,MONICA LUCIA GRANDA VIVEROS,3
+00009,003,Otra publicación divulgativa,Otra,Aprendizaje en innovación social ligado al emprendimiento de estudiantes de educación primaria,Colombia,2020,"JUAN SANTIAGO CALLE PIEDRAHITA, GLORIA MARIA ISAZA ZAPATA",3
+00010,003,Otra publicación divulgativa,Otra,"Creatividad y Flexibilidad Cognitiva en una Muestra de Reclusos Beneficiarios del Posacuerdo Colombiano en la Cárcel de Bellavista en Medellín, Colombia.",Colombia,2018,"SINDY YULIANA GALLEGO TAVERA, NICOLAS PARRA BOLANOS, JUAN SEBASTIAN BENJUMEA GARCES",3
+00011,004,Otra publicación divulgativa,Otra,Potenciando los negocios internacionales con la inteligencia artificial: innovación y desarrollo en la optimización de la cadena de suministros,,2026,JUAN JOSE ESPINAL PIEDRAHITA,3
+00012,004,Otra publicación divulgativa,Otra,"Pobreza, microfinanzas y género: Estudio de caso entre Medellín-Colombia y Culiacan-México",,2025,"DAVID SALVADOR CISNEROS ZEPEDA, MARTHA DEL SOCORRO ALZATE CARDENAS",3
+00013,004,Otra publicación divulgativa,Otra,La Desigualdad en el Tratado de Libre Comercio (TLC) entre Estados Unidos y Colombia: Caso de estudio del sector minero,Colombia,2024,JUAN JOSE ESPINAL PIEDRAHITA,3
+00014,004,Otra publicación divulgativa,Epílogo,Las microfinanzas como alternativa de empoderamiento femenino: un estudio comparado entre México y Colombia,Colombia,2024,MARTHA DEL SOCORRO ALZATE CARDENAS,3
+00015,004,Otra publicación divulgativa,Otra,Impacto de la crisis de los contenedores en las importaciones de Colombia,Colombia,2022,JUAN JOSE ESPINAL PIEDRAHITA,3
+00016,004,Otra publicación divulgativa,Otra,Análisis de impacto y probabilidad de ocurrencia sobre el nivel de cultura organizacional en la implementación de las NIIF en las pymes de la ciudad de Medellín,Colombia,2022,JUAN JOSE ESPINAL PIEDRAHITA,3
+00017,004,Otra publicación divulgativa,Otra,IMPACTO DEL SISTEMA TRIBUTARIO COLOMBIANO: UN ANÁLISIS COMPARATIVO DEL RECAUDO Y LAS TRANSFERENCIAS A PARTIR DE LAS ALTERNATIVAS Y LECCIONES APRENDIDAS DE LAS REFORMAS TRIBUTARIAS 2000-2019.,Colombia,2021,JUAN JOSE ESPINAL PIEDRAHITA,3
+00018,004,Otra publicación divulgativa,Otra,La empleabilidad de personas con diversidad funcional (discapacidad),Colombia,2018,MARTHA DEL SOCORRO ALZATE CARDENAS,3
+00019,004,Otra publicación divulgativa,Otra,MEMORIAS PROSPECTA COLOMBIA - Los principios de constricción y de variedad como barrera natural para la comprensión de la naturaleza compleja de las organizaciones,Colombia,2017,"NELSON MARIN LATORRE ARIAS, ALEJANDRA MARIN BETANCUR, TANIA PAOLA ORTIZ GONZALEZ, ELKIN ORLANDO VELEZ SANCHEZ, GUILLERMO GIRALDO VARGAS, NELSON OCTAVIO CASAS ATEHORTUA",3
+00020,004,Otra publicación divulgativa,Epílogo,"MEMORIAS PROSPECTA COLOMBIA - Modelamiento prospectivo de la tendencia de adquirir casa propia o usada, aplicando series de tiempo como método de pronóstico a partir de datos suministrados por la herramienta google trends",Colombia,2017,"NELSON MARIN LATORRE ARIAS, NELSON OCTAVIO CASAS ATEHORTUA, ANGELA MAYELLIS MELO HIDALGO, TANIA PAOLA ORTIZ GONZALEZ, GUILLERMO GIRALDO VARGAS, ALEJANDRA MARIN BETANCUR",3
+00021,004,Otra publicación divulgativa,Epílogo,MEMORIAS PROSPECTA COLOMBIA - Relación entre la capacidad de absorción y el desempeño innovador: estudio multicaso en un grupo de empresas vinculadas al centro de investigación y desarrollo tecnológico del sector eléctrico ¿ cidet,Colombia,2017,"NELSON MARIN LATORRE ARIAS, NELSON OCTAVIO CASAS ATEHORTUA, ANGELA MAYELLIS MELO HIDALGO, TANIA PAOLA ORTIZ GONZALEZ, ELKIN ORLANDO VELEZ SANCHEZ, GUILLERMO GIRALDO VARGAS",3
+00022,004,Otra publicación divulgativa,Otra,MEMORIAS PROSPECTA COLOMBIA - Desafíos del estudiante de administración de empresas de la UNAD frente al emprendimiento. Visión 2025.,Colombia,2017,"NELSON MARIN LATORRE ARIAS, NELSON OCTAVIO CASAS ATEHORTUA, ANGELA MAYELLIS MELO HIDALGO, ELKIN ORLANDO VELEZ SANCHEZ, GUILLERMO GIRALDO VARGAS, ALEJANDRA MARIN BETANCUR",3
+00023,004,Otra publicación divulgativa,Otra,Periódico el indicador  -  Alianzas Globales salvan Líneas Navieras,Colombia,2017,ROSA JANNET RESTEPO RESTREPO,3
+00024,004,Otra publicación divulgativa,Otra,MEMORIAS XIX ENCUENTRO NACIONAL DE INVESTIGACIÓN,Colombia,2016,"MARTHA DEL SOCORRO ALZATE CARDENAS, OLGA LUCIA ARBOLEDA ALVAREZ, OSWALDO ANTONIO SALGADO CANAVERAL",3
+00025,004,Otra publicación divulgativa,Otra,"Legislación cooperativa colombiana, vigencia y constitucionalidad",Colombia,2005,HERNANDO EMILIO ZABALA SALAZAR,3
+00026,004,Otra publicación divulgativa,Otra,"Fundamentación teórica, metodológica y operativa de la línea de investigación en organizaciones",Colombia,2004,"OLGA LUCIA ARBOLEDA ALVAREZ, CLARA INES ORREGO CORREA, YOMAR JAVIER SANCHEZ CAICEDO",3
+00027,004,Otra publicación divulgativa,Otra,Objetos de conocimiento,Colombia,2002,"OLGA LUCIA ARBOLEDA ALVAREZ, LUZ DOLLY LOPERA GARCIA",3
+00028,004,Otra publicación divulgativa,Otra,Fundamentos para la construcción de la economía solidaria: lo incluyente en el contexto de la globalización,Colombia,2002,"OLGA LUCIA ARBOLEDA ALVAREZ, LUZ DOLLY LOPERA GARCIA, CLARA INES ORREGO CORREA",3
+00029,004,Otra publicación divulgativa,Otra,Aproximaciones al concepto de línea de investigación y campos del saber: Una convocatoria para pensar la investigación en la Funlam,Colombia,2002,"OLGA LUCIA ARBOLEDA ALVAREZ, SANTIAGO ALBERTO MORALES, PATRICIA ELENA RAMIREZ ARBOLEDA, CARLOS SANDOVAL C",3
+00030,005,Otra publicación divulgativa,Otra,Ciencia y Academia: un nuevo contexto para el diálogo de saberes,Colombia,2020,JUAN DIEGO BETANCUR ARIAS,3
+00031,005,Otra publicación divulgativa,Otra,Alimentación y química cerebral: un análisis relacional,Colombia,2018,"VICTOR DANIEL GIL VERA, JUAN DIEGO BETANCUR ARIAS",3
+00032,005,Otra publicación divulgativa,Prólogo,"Feminicidio. Poder, desigualdad, subordinación e impunidad: no más invisibilidad",Colombia,2017,"JUAN DIEGO BETANCUR ARIAS, RODRIGO ORLANDO OSORIO MONTOYA",3
+00033,005,Otra publicación divulgativa,Otra,Quan allò moral és emocional: aproximació dimensional a la naturalesa afectiva dels dilemes morals.,Colombia,2016,JULIO ANTONIO OLIVERA LA ROSA,3
+00034,005,Otra publicación divulgativa,Prólogo,Deconstruyendo la mente moral: Cuando la evidencia habla.,Colombia,2014,JULIO ANTONIO OLIVERA LA ROSA,3
+00035,006,Otra publicación divulgativa,Otra,Encuentro de Experiencias Exitosas de Aula Transformando la educación: Relatos inspiradores de docentes universitarios,Colombia,2024,SANDRA MILENA BOTERO BEDOYA,3
+00036,006,Otra publicación divulgativa,Epílogo,Graduation Paper Manual. Guidelines for Research Monograph (6th ed.),Colombia,2023,"JOSE VICENTE ABAD OLAYA, EDISON FERNEY CASTRILLON ANGEL",3
+00037,006,Otra publicación divulgativa,Otra,Maestría en Neuropsicopedagogía,Colombia,2015,SANDRA JULIET CLAVIJO ZAPATA,3
+00038,006,Otra publicación divulgativa,Otra,Factores y Estrategias que inciden en la Preparación para la Evaluación en inglés en la Funlam,Colombia,2014,MARTHA ISABEL MEDINA,3
+00039,006,Otra publicación divulgativa,Otra,El afecto en el mejoramiento del aprendizaje. Capítulo de memoria,Colombia,2014,SONIA RUTH QUINTERO ARRUBLA,3
+00040,006,Otra publicación divulgativa,Otra,Propuesta Didáctica con Base en el Juego y la Expresión Artística,Colombia,2014,MARIA FERNANDA ARBOLEDA POSADA,3
+00041,006,Otra publicación divulgativa,Otra,Especialización En Neuropsicopedagogía Infantil Registro Calificado - Código SNIES 101820,Colombia,2012,SANDRA JULIET CLAVIJO ZAPATA,3
+00042,007,Otra publicación divulgativa,Otra,Memorias II Seminario Intervención Social. Un abordaje interdisciplinario para la planificación territorial y la gestión socio ambiental,Colombia,2020,GLORIS ROCIO TOBAR CARRENO,3
+00043,007,Otra publicación divulgativa,Otra,XXIII ENCUENRO NACIONAL DE INVESTIGACIÓN UNVIERSIDAD CATÓLICA LUIS AMIGÓ,Colombia,2020,"OVIDIO HERRERA RIVERA, LEDY MARYORY BEDOYA CARDONA",3
+00044,007,Otra publicación divulgativa,Prólogo,Prólogo,Colombia,2013,EDISON FRANCISCO VIVEROS CHAVARRIA,3
+00045,008,Otra publicación divulgativa,Otra,Representaciones sociales del minero en el Bajo Cauca Antioqueño: construcciones subjetivas de un lugar en disputa,Colombia,2019,"HEIDI SMITH PULIDO VARON, NICOLASA MARIA DURAN PALACIO",3
+00046,008,Otra publicación divulgativa,Epílogo,"Cuidadores, función inhibidora o autodeterminada de la sexualidad en la diversidad funcional",Colombia,2019,SANDRA ISABEL MEJIA ZAPATA,3
+00047,008,Otra publicación divulgativa,Otra,Fortalecimiento de capacidades comunitarias para la paz,Colombia,2018,"NICOLASA MARIA DURAN PALACIO, HEIDI SMITH PULIDO VARON",3
+00048,008,Otra publicación divulgativa,Otra,Una mirada del habitante de calle más allá del estigma social. Aportes a la política pública social,Colombia,2017,"MAGDA VICTORIA DIAZ ALZATE, SANDRA MILENA RESTREPO ESCOBAR",3
+00049,008,Otra publicación divulgativa,Otra,Miradas críticas y constructivas para la educabilidad del ser,Colombia,2017,PAULA VANESSA SANCHEZ AGUDELO,3
+00050,008,Otra publicación divulgativa,Otra,Percepción de legalidad en la población rural del Altiplano del Oriente Antioqueño,Colombia,2016,"NICOLASA MARIA DURAN PALACIO, NORMAN DARIO MORENO CARMONA, SONIA NATALIA COGOLLO OSPINA",3
+00051,008,Otra publicación divulgativa,Otra,"Entrevista Periódico El Colombiano En Medellín, conductores que reinciden en infracciones son profesionales",Colombia,2016,NICOLASA MARIA DURAN PALACIO,3
+00052,008,Otra publicación divulgativa,Otra,Desencuentros entre Ley y Agro en el Valle de San Nicolás,Colombia,2016,"NICOLASA MARIA DURAN PALACIO, NORMAN DARIO MORENO CARMONA, SONIA NATALIA COGOLLO OSPINA",3
+00053,008,Otra publicación divulgativa,Introducción,Imaginar la paz en Colombia. Cavilaciones desde la academia,Colombia,2015,SONIA NATALIA COGOLLO OSPINA,3
+00054,008,Otra publicación divulgativa,Introducción,Presentación. Desafíos de las revistas científicas latinoamericanas,Colombia,2015,SONIA NATALIA COGOLLO OSPINA,3
+00055,008,Otra publicación divulgativa,Prólogo,Presentación. La ética en las publicaciones científicas,Colombia,2015,SONIA NATALIA COGOLLO OSPINA,3
+00056,008,Otra publicación divulgativa,Prólogo,Presentación: el papel relevante de los árbitros,Colombia,2014,SONIA NATALIA COGOLLO OSPINA,3
+00057,008,Otra publicación divulgativa,Otra,"""Presentación"". Revista Colombiana de Ciencias Sociales Vol. 5 No. 1",Colombia,2014,SONIA NATALIA COGOLLO OSPINA,3
+00058,008,Otra publicación divulgativa,Otra,"""Presentation"". Revista Colombiana de Ciencias Sociales Vol. 5 No. 1",Colombia,2014,SONIA NATALIA COGOLLO OSPINA,3
+00059,008,Otra publicación divulgativa,Otra,Documento Maestro de la Especialización en Intervenciones Psicosociales,Colombia,2006,JAIME ALBERTO CARMONA PARRA,3
+00060,009,Otra publicación divulgativa,Otra,Edu-entretenimiento: estrategia comunicativa para la intervención de la drogadicción en los estudiantes de la Institución Educativa El Carito mediante una ruta metodológica para la construcción de Documentales Sociales Participativos (D.S.P.),Colombia,2017,HUBER YECID CASTRO ESCOBAR,3
+00061,009,Otra publicación divulgativa,Otra,LA FUNLAM AL SERVICIOS DE LA FORMACION INTEGRAL DEL SER HUMANO EN LA REGIÓN DE CORDOBA,Colombia,2011,VICTOR TERAN REALES,3
+00062,009,Otra publicación divulgativa,Otra,CATALOGO DE INVESTIGACIONES Y PUBLICACIONES,Colombia,2011,VICTOR TERAN REALES,3
+00063,009,Otra publicación divulgativa,Otra,Evaluación de procesos y proyectos sobre apropiación y uso de TIC en la escuela,Colombia,2009,GLENIS BIBIANA ALVAREZ QUIROZ,3
+00064,009,Otra publicación divulgativa,Otra,Comunidades de aprendizaje,Colombia,2009,GLENIS BIBIANA ALVAREZ QUIROZ,3
+00065,009,Otra publicación divulgativa,Otra,Las TIC al campo,Colombia,2008,GLENIS BIBIANA ALVAREZ QUIROZ,3
+00066,010,Otra publicación divulgativa,Otra,Aportes al estudio de la violencia filio-parental en Colombia,Colombia,2021,"VIVIANA CARMENZA AVILA NAVARRETE, JUAN JOSE CALDERON",3
+00067,010,Otra publicación divulgativa,Otra,Noticias Sede Bogotà: Estudio sobre Tendencia a la violencia filioparental en adolescentes colombianos vinculados al Sistema de Responsabilidad Penal,Colombia,2018,VIVIANA CARMENZA AVILA NAVARRETE,3
+00068,010,Otra publicación divulgativa,Otra,"Suicidio, Vínculos en estudiantes universitarias",Colombia,2014,BENILDA LAYNE BERNAL,3
+00069,010,Otra publicación divulgativa,Otra,Intento de suicidio y otros comportamientos autodestructivos en estudiantes universitarios colombianos,Colombia,2013,BENILDA LAYNE BERNAL,3
+00070,011,Otra publicación divulgativa,Epílogo,"Desigualdades, Desafíos a las democracias, memorias y Re-existencia. Memorias III Bienal Latinoamericana y Caribeña de Infancias y Juventudes",Colombia,2018,MARICELLY GOMEZ VARGAS,3
+00071,011,Otra publicación divulgativa,Introducción,Revista Poiesis,Colombia,2018,SANDRA MILENA RESTREPO ESCOBAR,3
+00072,011,Otra publicación divulgativa,Otra,Hacia una Prevencion con sentido,Colombia,2006,GUILLERMO ALONSO CASTANO PEREZ,3
+00073,012,Otra publicación divulgativa,Otra,Festival Nacional de Cultura como Patrimonio Inmaterial de Colombia - Revista Porro y Folclor,Colombia,2024,MARCOS VEGA SENA,3
+00074,012,Otra publicación divulgativa,Epílogo,La herencia que deja Miguel Durán Jr. en la música Caribe - Revista Porro y Folclor,Colombia,2021,MARCOS VEGA SENA,3
+00075,012,Otra publicación divulgativa,Epílogo,"Máximo, el juglar de las causas sociales -Revista Porro y Folclor",Colombia,2021,MARCOS VEGA SENA,3
+00076,012,Otra publicación divulgativa,Otra,El ideal de la marca verde. Una meta que pasa por varios colores,Colombia,2020,JUAN DIEGO LOPEZ MEDINA,3
+00077,012,Otra publicación divulgativa,Otra,Módulo Gestión del Diseño,Colombia,2020,JUAN DIEGO LOPEZ MEDINA,3
+00078,012,Otra publicación divulgativa,Otra,"Narrativas transmedia, el vino y la botella",Colombia,2019,EDWIN ANDRES SEPULVEDA CARDONA,3
+00079,012,Otra publicación divulgativa,Otra,"eBooks interactivos, maquetación digital y las fases de producción",Colombia,2019,EDWIN ANDRES SEPULVEDA CARDONA,3
+00080,012,Otra publicación divulgativa,Epílogo,Los 80 de la Gota fría - Revista Porro y Folclor,Colombia,2018,MARCOS VEGA SENA,3
+00081,012,Otra publicación divulgativa,Otra,Importaculismo mediáitico y colectivo,Colombia,2018,MARCOS VEGA SENA,3
+00082,012,Otra publicación divulgativa,Otra,La sombra de un presidente,Colombia,2018,MARCOS VEGA SENA,3
+00083,012,Otra publicación divulgativa,Otra,Débora Arango y la hipocresía nacional,Colombia,2018,MARCOS VEGA SENA,3
+00084,012,Otra publicación divulgativa,Otra,Colombia al filo de la Oportunidad,Colombia,2018,MARCOS VEGA SENA,3
+00085,012,Otra publicación divulgativa,Otra,Los cínicos no sirven para este oficio,Colombia,2018,MARCOS VEGA SENA,3
+00086,012,Otra publicación divulgativa,Otra,Boletín informativo Mesa de Bibliotecas Instituciones de Educación Superior de Antioquia,Colombia,2018,CARLOS SUAREZ QUICENO,3
+00087,012,Otra publicación divulgativa,Otra,"Buitrago, una víspera de 70 - Revista Porro y Folclor",Colombia,2017,MARCOS VEGA SENA,3
+00088,012,Otra publicación divulgativa,Otra,"Asesinato de líderes, líos de balas",Colombia,2017,MARCOS VEGA SENA,3
+00089,012,Otra publicación divulgativa,Otra,"Máximo Jiménez, cuando el vallenato le cantaba al pueblo",Colombia,2017,MARCOS VEGA SENA,3
+00090,012,Otra publicación divulgativa,Epílogo,Fajardo el gaseoso,Colombia,2017,MARCOS VEGA SENA,3
+00091,012,Otra publicación divulgativa,Otra,Los falsos profetas y nuestra conciencia política,Colombia,2017,MARCOS VEGA SENA,3
+00092,012,Otra publicación divulgativa,Otra,"Maluma, el traductor",Colombia,2017,MARCOS VEGA SENA,3
+00093,012,Otra publicación divulgativa,Epílogo,Las rosquillas de Sahagún,Colombia,2017,MARCOS VEGA SENA,3
+00094,012,Otra publicación divulgativa,Epílogo,El vallenato y los narcos,Colombia,2017,MARCOS VEGA SENA,3
+00095,012,Otra publicación divulgativa,Otra,Los traidores de la buena fe,Colombia,2017,MARCOS VEGA SENA,3
+00096,012,Otra publicación divulgativa,Otra,Ciudad fragmentada - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00097,012,Otra publicación divulgativa,Otra,La sexualidad - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00098,012,Otra publicación divulgativa,Otra,Derechos de los Niños - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00099,012,Otra publicación divulgativa,Otra,El esoterismo,Colombia,2006,ANCIZAR VARGAS LEON,3
+00100,012,Otra publicación divulgativa,Otra,Cooperativismo,Colombia,2006,ANCIZAR VARGAS LEON,3
+00101,012,Otra publicación divulgativa,Otra,El matrimonio - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00102,012,Otra publicación divulgativa,Otra,Cine y sicología - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00103,012,Otra publicación divulgativa,Otra,Testamento - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00104,012,Otra publicación divulgativa,Otra,Comunicación en la televisión - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00105,012,Otra publicación divulgativa,Otra,Hipocondrías - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00106,012,Otra publicación divulgativa,Otra,Sexualidad en los adultos - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00107,012,Otra publicación divulgativa,Otra,El TLC - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00108,012,Otra publicación divulgativa,Otra,Proyecto Acoger - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00109,012,Otra publicación divulgativa,Otra,Especial Víctor Gaviria - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00110,012,Otra publicación divulgativa,Otra,La vida secreta de un bebé - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00111,012,Otra publicación divulgativa,Otra,El satanismo - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00112,012,Otra publicación divulgativa,Otra,Las chiquitecas - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00113,012,Otra publicación divulgativa,Otra,Especial padre Marino Martínez Pérez - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00114,012,Otra publicación divulgativa,Otra,Las ludopatías - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00115,012,Otra publicación divulgativa,Otra,El rebusque: ventas informales,Colombia,2006,ANCIZAR VARGAS LEON,3
+00116,012,Otra publicación divulgativa,Otra,Nuevos fármacos en nuevos espacios juveniles,Colombia,2006,ANCIZAR VARGAS LEON,3
+00117,012,Otra publicación divulgativa,Otra,Cirugías plásticas,Colombia,2006,ANCIZAR VARGAS LEON,3
+00118,012,Otra publicación divulgativa,Otra,Violencia intrafamiliar - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00119,012,Otra publicación divulgativa,Otra,Fármaco dependencia . Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00120,012,Otra publicación divulgativa,Otra,Comunicación en la familia - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00121,012,Otra publicación divulgativa,Otra,Micro empresas - Hora de Consultar,Colombia,2006,ANCIZAR VARGAS LEON,3
+00122,013,Otra publicación divulgativa,Otra,Inmediaciones Coloquio Internacional de Poesía & Filosofía,Colombia,2025,PALOMA MARIN ESCOBAR,3
+00123,013,Otra publicación divulgativa,Otra,XXVII Encuentro Nacional de Investigación (Universidad Católica Luis Amigó),Colombia,2024,"SANTIAGO RUIZ IDARRAGA, ANDRES ALFREDO CASTRILLON CASTRILLON",3
+00124,013,Otra publicación divulgativa,Otra,XXVI Encuentro Nacional de Investigación (Universidad Católica Luis Amigó),Colombia,2024,"YULIETH ESTEFANIA RUIZ PULGARIN, ANDRES ALFREDO CASTRILLON CASTRILLON",3
+00125,013,Otra publicación divulgativa,Otra,Una mirada crítica al espacio autobiográfico en el decir poético de Clarice Lispector y Chantal Maillard,Colombia,2024,PALOMA MARIN ESCOBAR,3
+00126,013,Otra publicación divulgativa,Otra,XXIV Encuentro Nacional de Investigación,Colombia,2022,"ANDRES ALFREDO CASTRILLON CASTRILLON, ANDRES FELIPE AGUDELO ZORRILLA",3
+00127,013,Otra publicación divulgativa,Otra,Podcast 1. Presentación de la investigación.,Colombia,2021,"ANDRES ALFREDO CASTRILLON CASTRILLON, YULIETH ESTEFANIA RUIZ PULGARIN",3
+00128,013,Otra publicación divulgativa,Epílogo,Sobre la historia y teología de los evangelios canónicos. En: Teocotidiana,Colombia,2021,JUAN SEBASTIAN HERNANDEZ VALENCIA,3
+00129,013,Otra publicación divulgativa,Otra,Ciencia y religión: apuntes sobre dos cosmolenguajes. En: Teocotidiana.,Colombia,2021,JUAN SEBASTIAN HERNANDEZ VALENCIA,3
+00130,013,Otra publicación divulgativa,Otra,La visión esquílea y euripideana de la democracia ateniense,Colombia,2015,JHOANA ANDREA GUTIERREZ CADAVID,3
+00131,013,Otra publicación divulgativa,Prólogo,"Moral y deporte: Vicios, valores y virtudes cardioespirituales",Colombia,2014,JONATHAN ANDRES RUA PENAGOS,3
+00132,013,Otra publicación divulgativa,Otra,Revista Perseitas,Colombia,2013,JESUS DAVID GIRADO SIERRA,3
+00133,013,Otra publicación divulgativa,Otra,"Hibridación y violencia: una mirada a la estructura de familia, ciudad y país en Colombia",Colombia,2012,"ANDRES FELIPE AGUDELO ZORRILLA, SUSANA KATALINA TORRES SUAREZ, WILFRIDO ZUNIGA RODRIGUEZ",3
+00134,013,Otra publicación divulgativa,Otra,"""Ay de mi si no anuncio el Evangelio""",Colombia,2009,JANNETH MUNOZ RENDON,3
+00135,013,Otra publicación divulgativa,Otra,Qué es la Renovación Carismática? Elementos característicos.,Colombia,2009,JANNETH MUNOZ RENDON,3
+00136,013,Otra publicación divulgativa,Otra,El Discipulado y la Misión de los Servidores de la RCC,Colombia,2007,JANNETH MUNOZ RENDON,3
+00137,013,Otra publicación divulgativa,Otra,"El seguimiento, esencia del discipulado",Colombia,2007,JANNETH MUNOZ RENDON,3
+00138,013,Otra publicación divulgativa,Otra,"""La Comunitá Gesú Risorto e la Fondazione Pane e Paradiso"" .""Gesú Risorto. Rivista Trimestrale della Comunitá Gesu´Risorto del Rinnovamento Carismatico Cattolico""",Italia,2007,JANNETH MUNOZ RENDON,3
+00139,013,Otra publicación divulgativa,Otra,"El Bautismo en el Espíritu Santo, experiencia fundamental en la Renovación Católica Carismática",Colombia,2007,JANNETH MUNOZ RENDON,3
+00140,013,Otra publicación divulgativa,Otra,El Espiritu Santo en la Obra Lucana,Colombia,2007,JANNETH MUNOZ RENDON,3
+00141,013,Otra publicación divulgativa,Otra,Antropología y Pedagogía.,Colombia,2007,FREDY DE JESUS FERNANDEZ MARQUEZ,3
+00142,014,Otra publicación divulgativa,Otra,Video You tube,Colombia,2017,ALBA LUCIA GOMEZ RAMIREZ,3
+00143,014,Otra publicación divulgativa,Otra,Prólogo,Colombia,2006,ELKIN HORACIO QUIROS LIZARAZO,3
