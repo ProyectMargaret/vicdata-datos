@@ -1,0 +1,138 @@
+id,id_grupo,categoria,tipo_producto,titulo,pais,ano,autores,tipologia
+00001,001,Ediciones,Revista,Edición 24: Semestre II de 2020,Colombia,2020,INGRID DURLEY TORRES PARDO,1
+00002,001,Ediciones,Revista,Edición 23: Semestre I de 2020,Colombia,2020,INGRID DURLEY TORRES PARDO,1
+00003,001,Ediciones,Revista,Edición 21: Semestre II de 2019,Colombia,2019,INGRID DURLEY TORRES PARDO,1
+00004,001,Ediciones,Revista,Lámpsakos - NÚM. 20 (2018): INGENIERÍA Y DESARROLLO,Colombia,2019,JORGE ANDRES COCK RAMIREZ,1
+00005,001,Ediciones,Revista,Lámpsakos - NÚM. 19 (2018): INVESTIGACIÓN EN INGENIERÍA,Colombia,2018,JORGE ANDRES COCK RAMIREZ,1
+00006,001,Ediciones,Revista,Lámpsakos - NÚM. 18 (2017): INGENIERÍA Y RESPONSABILIDAD SOCIAL,Colombia,2018,JORGE ANDRES COCK RAMIREZ,1
+00007,001,Ediciones,Revista,Lámpsakos - NÚM. 17 (2017): NOTAS INGENIERILES,Colombia,2017,JORGE ANDRES COCK RAMIREZ,1
+00008,001,Ediciones,Revista,Lámpsakos - NÚM. 16 (2016): APUNTES DE INGENIERÍA,Colombia,2016,JORGE ANDRES COCK RAMIREZ,1
+00009,001,Ediciones,Revista,Revista Lámpsakos 5,Colombia,2011,EDGAR SERNA M,1
+00010,001,Ediciones,Revista,Revista Lámpsakos 4,Colombia,2010,EDGAR SERNA M,1
+00011,001,Ediciones,Revista,Revista Lámpsakos 3,Colombia,2010,EDGAR SERNA M,1
+00012,001,Ediciones,Revista,Revista Lámpsakos 2,Colombia,2009,EDGAR SERNA M,1
+00013,001,Ediciones,Revista,Revista Lámpsakos 1,Colombia,2009,EDGAR SERNA M,1
+00014,002,Ediciones,Libro,Convergencias del derecho: pluralismo jurídico y derechos humanos,Colombia,2026,ROBERTO MAURICIO ROMERO CARDENAS,1
+00015,002,Ediciones,Libro,"Investigación sociojurídica: políticas públicas, clínicas jurídicas y litigio estratégico",Colombia,2024,ANA MARIA ROLDAN VILLA,1
+00016,002,Ediciones,Libro,"Reflexiones y desafíos del derecho ambiental latinoamericano¿,",Colombia,2023,ANA MARIA ROLDAN VILLA,1
+00017,002,Ediciones,Compilación,"Debates contemporáneos en derecho de familias, de infancias y de adolescencias. Miradas interdisciplinarias",Colombia,2023,ANA MARIA ROLDAN VILLA,1
+00018,002,Ediciones,Compilación,"Perspectivas actuales sobre sociedad, conflicto y derechos humanos en Colombia",Colombia,2023,ANA MARIA ROLDAN VILLA,1
+00019,002,Ediciones,Compilación,"Debates contemporáneos en derecho de familias, de infancias y de adolescencias. Retos y oportunidades",Colombia,2022,ANA MARIA ROLDAN VILLA,1
+00020,002,Ediciones,Compilación,"Debates contemporáneos en derecho de familias, de infancias y de adolescencias. Desafíos y realidades",Colombia,2021,ANA MARIA ROLDAN VILLA,1
+00021,002,Ediciones,Compilación,Debates contemporáneos del proceso en un mundo que se transforma,Colombia,2020,"JORGE EDUARDO VASQUEZ SANTAMARIA, DIANA MARIA RAMIREZ CARVAJAL",1
+00022,002,Ediciones,Revista,SUMMA IURIS,Colombia,2018,EYDER BOLIVAR MOJICA,1
+00023,002,Ediciones,Revista,SUMMA IURIS,Colombia,2018,EYDER BOLIVAR MOJICA,1
+00024,002,Ediciones,Libro,Aproximación A La Informática Forense Y El Derecho Informático: Ámbito Colombiano,Colombia,2013,ANA MARIA MESA ELNESER,1
+00025,002,Ediciones,Libro,Guia práctica para leer la Constitución,Colombia,2008,JORGE EDUARDO VASQUEZ SANTAMARIA,1
+00026,003,Ediciones,Compilación,Formación docente en investigación cualitativa: relatos y reflexiones,Colombia,2024,"CESAR ANDRES CARMONA CARDONA, LUIS FERNANDO QUINTERO ARANGO",1
+00027,003,Ediciones,Revista,APORTES SIGNIFICATIVOS DE LA INVESTIGACION FORMATIVA EN INSTITUCIONES UNIVERSITARIAS,Colombia,2009,CARLOS ANDRES ARISTIZABAL BOTERO,1
+00028,004,Ediciones,Libro,Hechos y emprendimientos cooperativos de transformación,Colombia,2020,HERNANDO EMILIO ZABALA SALAZAR,1
+00029,004,Ediciones,Otro,Curso avanzado de economía solidaria,Colombia,2013,OSWALDO ANTONIO SALGADO CANAVERAL,1
+00030,004,Ediciones,Otro,Curso básico de economía solidaria,Colombia,2013,OSWALDO ANTONIO SALGADO CANAVERAL,1
+00031,004,Ediciones,Otro,Curso medio de economía solidaria,Colombia,2013,OSWALDO ANTONIO SALGADO CANAVERAL,1
+00032,005,Ediciones,Compilación,Estudios en neurociencias cognitivas aplicadas,Colombia,2026,"DUBIS MARCELA RINCON BARRETO, CESAR ANDRES CARMONA CARDONA",1
+00033,005,Ediciones,Revista,Revista Ciencia y Academia Edición 1 Enero-Diciembre de 2020,Colombia,2020,JUAN DIEGO BETANCUR ARIAS,1
+00034,005,Ediciones,Revista,Funlam Journal of Students' Research No. 4 enero-diciembre de 2019,Colombia,2019,JUAN DIEGO BETANCUR ARIAS,1
+00035,005,Ediciones,Libro,Situaciones y retos de la investigación en Latinoamérica,Colombia,2018,"PAULA ANDREA MONTOYA ZULUAGA, SONIA NATALIA COGOLLO OSPINA",1
+00036,005,Ediciones,Revista,Funlam Journal of Students' Research No. 3 enero-diciembre de 2018,Colombia,2018,JUAN DIEGO BETANCUR ARIAS,1
+00037,005,Ediciones,Libro,Hacia un concepto multifactorial del aprendizaje y la memoria. Aplicaciones tendientes a una visión neuropsicopedagógica (Vol. II),Colombia,2017,"PAULA ANDREA MONTOYA ZULUAGA, JUAN DIEGO BETANCUR ARIAS",1
+00038,005,Ediciones,Libro,Hacia un concepto multifactorial del aprendizaje y la memoria. Aproximaciones neuropsicopedagógicas (Vol. I),Colombia,2017,"PAULA ANDREA MONTOYA ZULUAGA, JUAN DIEGO BETANCUR ARIAS",1
+00039,005,Ediciones,Revista,Funlam Journal of Students' Research No. 2 enero-diciembre de 2017,Colombia,2017,JUAN DIEGO BETANCUR ARIAS,1
+00040,005,Ediciones,Revista,Funlam Journal of Students¿ Research,Colombia,2016,JUAN DIEGO BETANCUR ARIAS,1
+00041,005,Ediciones,Libro,"Ética Profesional Y Responsabilidad Social Universitaria : Universidad, Sociedad Y Sujeto",Colombia,2016,OLBER EDUARDO ARANGO TOBON,1
+00042,006,Ediciones,Compilación,La ciencia como escritura. Encuentro de centros y programas de escritura,Colombia,2023,JAIRO GUTIERREZ AVENDANO,1
+00043,006,Ediciones,Libro,Research on Language Teaching and Learning: Advances and Projection,Colombia,2021,JOSE VICENTE ABAD OLAYA,1
+00044,006,Ediciones,Revista,Los Perfiles Docentes en Contextos de Educación Bilingüe Prestigiosos y Minoritarios en Argentina,Colombia,2015,DAMIEN LE GAL FRANCOIS,1
+00045,006,Ediciones,Revista,"ARTICULATION LANGUES NATIONALES FRANÇAIS : CAS DES ÉTUDIANTS, LOCUTEURS TAMASHEQ",Colombia,2014,DAMIEN LE GAL FRANCOIS,1
+00046,006,Ediciones,Libro,Reflexiones sobre infancia,Colombia,2013,ADRIANA MARIA GALLEGO HENAO,1
+00047,006,Ediciones,Compilación,Infancia hoy: Desde una perspectiva investigativa,Colombia,2012,ADRIANA MARIA GALLEGO HENAO,1
+00048,007,Ediciones,Compilación,Seminario intervención social. un abordaje interdisciplinario para la planificación territorial y la gestión socio ambiental,Colombia,2020,GLORIS ROCIO TOBAR CARRENO,1
+00049,008,Ediciones,Libro,"Psicología ambiental, volumen II. Experiencias, diálogos y perspectivas de investigación",Colombia,2022,"WILLIAN SIERRA BARON, KATY LUZ MILLAN OTERO, OSCAR EDUARDO NAVARRO CARRASCAL",1
+00050,008,Ediciones,Libro,"Psicología ambiental, volumen I. Experiencias, diálogos y perspectivas académicas",Colombia,2022,"WILLIAN SIERRA BARON, KATY LUZ MILLAN OTERO, OSCAR EDUARDO NAVARRO CARRASCAL",1
+00051,008,Ediciones,Revista,"Vol. 8 N° 1 (enero-junio, 2017)",Colombia,2017,SONIA NATALIA COGOLLO OSPINA,1
+00052,008,Ediciones,Revista,Revista de Psicología Social,España,2016,MONICA ALZATE GARCIA,1
+00053,008,Ediciones,Revista,Revista de Psicología Social International Journal of Social Psychology. Vol 31 (3) 2016,Colombia,2016,MONICA ALZATE GARCIA,1
+00054,008,Ediciones,Revista,"Vol. 7 N° 2 (julio-diciembre, 2016)",Colombia,2016,SONIA NATALIA COGOLLO OSPINA,1
+00055,008,Ediciones,Revista,"Vol. 7 N° 1 (enero-junio, 2016)",Colombia,2016,SONIA NATALIA COGOLLO OSPINA,1
+00056,008,Ediciones,Revista,Revista de Psicología Social: International Journal of Social Psychology. Vol 31 (1) 2016,España,2016,MONICA ALZATE GARCIA,1
+00057,008,Ediciones,Revista,Revista de Psicología Social International Journal of Social Psychology. Vol 31 (2) 2016,España,2016,MONICA ALZATE GARCIA,1
+00058,008,Ediciones,Revista,"Revista de Psicología Social: International Journal of Social Psychology Vol 30 (3), 2015",Colombia,2015,MONICA ALZATE GARCIA,1
+00059,008,Ediciones,Libro,Imaginar la paz en Colombia. Cavilaciones desde la academia,Colombia,2015,SONIA NATALIA COGOLLO OSPINA,1
+00060,008,Ediciones,Revista,"Vol. 6 N° 2 (julio-diciembre, 2015)",Colombia,2015,SONIA NATALIA COGOLLO OSPINA,1
+00061,008,Ediciones,Compilación,Responsabilidad social : perspectivas para la acción en Colombia,Colombia,2015,SONIA NATALIA COGOLLO OSPINA,1
+00062,008,Ediciones,Revista,"Revista de Psicología Social: International Journal of Social Psychology Vol 30 (2), 2015",España,2015,"JOSE MANUEL SABUCEDO CAMESELLE, MONICA ALZATE GARCIA",1
+00063,008,Ediciones,Revista,"Revista de Psicología Social: International Journal of Social Psychology Vol 30 (1), 2015",Colombia,2015,MONICA ALZATE GARCIA,1
+00064,008,Ediciones,Revista,"Vol. 6 N° 1 (enero-junio, 2015)",Colombia,2015,SONIA NATALIA COGOLLO OSPINA,1
+00065,008,Ediciones,Revista,Revista de Psicología Social: International Journal of Social Psychology Vol 29 (3) 2014,Colombia,2014,MONICA ALZATE GARCIA,1
+00066,008,Ediciones,Revista,"Vol. 5 N° 2 (julio-diciembre, 2014)",Colombia,2014,SONIA NATALIA COGOLLO OSPINA,1
+00067,008,Ediciones,Revista,"Vol. 5 No. 1 (enero-junio, 2014)",Colombia,2014,SONIA NATALIA COGOLLO OSPINA,1
+00068,008,Ediciones,Revista,"Poiésis, revista electrónica de psicología social",Colombia,2000,HERNANDO ALBERTO BERNAL ZULUAGA,1
+00069,009,Ediciones,Revista,Una sociología de la sinuanidad,Colombia,2011,JOAQUIN JOSE ROJANO DE LA HOZ,1
+00070,010,Ediciones,,,,,,1
+00071,011,Ediciones,Compilación,Estudios en neurociencias cognitivas aplicadas,Colombia,2026,"DUBIS MARCELA RINCON BARRETO, CESAR ANDRES CARMONA CARDONA",1
+00072,011,Ediciones,Revista,Volumen 4 Número 2,Colombia,2019,SANDRA MILENA RESTREPO ESCOBAR,1
+00073,011,Ediciones,Revista,Volumen 4 Número 1,Colombia,2019,SANDRA MILENA RESTREPO ESCOBAR,1
+00074,011,Ediciones,Revista,Volumen 3 Número 2,Colombia,2018,SANDRA MILENA RESTREPO ESCOBAR,1
+00075,011,Ediciones,Revista,Volumen 3 Número 1,Colombia,2018,SANDRA MILENA RESTREPO ESCOBAR,1
+00076,011,Ediciones,Revista,Volumen 2 Número 2,Colombia,2017,SANDRA MILENA RESTREPO ESCOBAR,1
+00077,011,Ediciones,Revista,Volumen 2 Número 1,Colombia,2017,SANDRA MILENA RESTREPO ESCOBAR,1
+00078,011,Ediciones,Revista,Volumen 1 Número 2,Colombia,2016,SANDRA MILENA RESTREPO ESCOBAR,1
+00079,011,Ediciones,Revista,Volumen 1 Número 1,Colombia,2016,SANDRA MILENA RESTREPO ESCOBAR,1
+00080,012,Ediciones,Revista,Del estigma al perreo. Imagen de MEdellín a través del reguetón,Colombia,2026,"CARLOS MARIO BERRIO MENESES, JHON ESTEBAN MORALES QUINTERO, JOHNY GALVIS MEJIA",1
+00081,012,Ediciones,Revista,El uso de la publicidad en la promoción de la sostenibilidad,Colombia,2026,"AURA MARIA FLORIAN MORALES, CARLOS MARIO BERRIO MENESES",1
+00082,012,Ediciones,Revista,Big data y Branding desde la perspectiva de la estrategia de negocio,Colombia,2024,"CARLOS MARIO BERRIO MENESES, VANESA MARGARETH SANGUINO GARCIA, JIMENA ISAZA ALVAREZ",1
+00083,012,Ediciones,Libro,Estrategias de publicidad social. Coyunturas sociales como oportunidad de mejoramiento de valor responsable.,Colombia,2019,"JUAN DIEGO LOPEZ MEDINA, OMAR MUNOZ SANCHEZ, JAIME ALBERTO OROZCO TORO, DIEGO ANDRES DORIA GOMEZ, JOHN FREDY CANO GUTIERREZ, DAVID ALEJANDRO RESTREPO DIAZ, CLAUDIA INES VELEZ OCHOA, RAFAEL VARGAS CANO, JORGE IVAN GAVIRIA MESA, MONICA LUCIA GRANDA VIVEROS",1
+00084,012,Ediciones,Libro,La responsabilidad social desde una perspectiva crítica e interdisciplinaria. ISBN 9789588399928,Colombia,2015,GABRIEL JAIME LOTERO ECHEVERRI,1
+00085,012,Ediciones,Libro,Investigación en comunicación-educación y publicidad. ISBN: 978-958-8399-73-7,Colombia,2014,GABRIEL JAIME LOTERO ECHEVERRI,1
+00086,013,Ediciones,Revista,Revista Colombiana de Ciencias Sociales,Colombia,2025,PALOMA MARIN ESCOBAR,1
+00087,013,Ediciones,Revista,Revista Colombiana de Ciencias Sociales,Colombia,2025,PALOMA MARIN ESCOBAR,1
+00088,013,Ediciones,Revista,Revista Colombiana de Ciencias Sociales,Colombia,2024,PALOMA MARIN ESCOBAR,1
+00089,013,Ediciones,Revista,Perseitas,Colombia,2024,ANDRES ALFREDO CASTRILLON CASTRILLON,1
+00090,013,Ediciones,Revista,Revista Colombiana de Ciencias Sociales,Colombia,2024,ANDRES ALFREDO CASTRILLON CASTRILLON,1
+00091,013,Ediciones,Revista,Revista Colombiana de Ciencias Sociales,Colombia,2023,ANDRES ALFREDO CASTRILLON CASTRILLON,1
+00092,013,Ediciones,Revista,Revista Colombiana de Ciencias Sociales,Colombia,2023,ANDRES ALFREDO CASTRILLON CASTRILLON,1
+00093,013,Ediciones,Revista,Revista Colombiana de Ciencias Sociales,Colombia,2022,ANDRES ALFREDO CASTRILLON CASTRILLON,1
+00094,013,Ediciones,Revista,Revista Colombiana de Ciencias Sociales,Colombia,2022,ANDRES ALFREDO CASTRILLON CASTRILLON,1
+00095,013,Ediciones,Revista,Revista Colombiana de Ciencias Sociales,Colombia,2021,ANDRES ALFREDO CASTRILLON CASTRILLON,1
+00096,013,Ediciones,Revista,Revista Colombiana de Ciencias Sociales,Colombia,2021,ANDRES ALFREDO CASTRILLON CASTRILLON,1
+00097,013,Ediciones,Revista,Perseitas,Colombia,2021,DAVID ESTEBAN ZULUAGA MESA,1
+00098,013,Ediciones,Revista,Revista Colombiana de Ciencias Sociales,Colombia,2020,ANDRES ALFREDO CASTRILLON CASTRILLON,1
+00099,013,Ediciones,Revista,Perseitas,Colombia,2020,DAVID ESTEBAN ZULUAGA MESA,1
+00100,013,Ediciones,Revista,Revista Colombiana de Ciencias Sociales,Colombia,2020,ANDRES ALFREDO CASTRILLON CASTRILLON,1
+00101,013,Ediciones,Revista,Perseitas,Colombia,2019,DAVID ESTEBAN ZULUAGA MESA,1
+00102,013,Ediciones,Revista,Perseitas,Colombia,2019,DAVID ESTEBAN ZULUAGA MESA,1
+00103,013,Ediciones,Revista,Revista Colombiana de Ciencias Sociales,Colombia,2019,LINA MARCELA DE LA MILAGROSA CADAVID RAMIREZ,1
+00104,013,Ediciones,Revista,Perseitas,Colombia,2018,DAVID ESTEBAN ZULUAGA MESA,1
+00105,013,Ediciones,Revista,Revista Colombiana de Ciencias Sociales,Colombia,2018,LINA MARCELA DE LA MILAGROSA CADAVID RAMIREZ,1
+00106,013,Ediciones,Revista,Perseitas,Colombia,2018,DAVID ESTEBAN ZULUAGA MESA,1
+00107,013,Ediciones,Compilación,Jornadas de reflexión filosófica y teológica. Memorias,Colombia,2017,ANDRES ALFREDO CASTRILLON CASTRILLON,1
+00108,013,Ediciones,Revista,Perseitas,Colombia,2017,DAVID ESTEBAN ZULUAGA MESA,1
+00109,013,Ediciones,Revista,Perseitas,Colombia,2017,DAVID ESTEBAN ZULUAGA MESA,1
+00110,013,Ediciones,Compilación,Jornadas de reflexión filosófica y teológica. Pensar la actualidad,Colombia,2016,ANDRES ALFREDO CASTRILLON CASTRILLON,1
+00111,013,Ediciones,Revista,Jornadas de reflexión filosófica y teológica,Colombia,2016,DAVID ESTEBAN ZULUAGA MESA,1
+00112,013,Ediciones,Revista,Perseitas,Colombia,2016,DAVID ESTEBAN ZULUAGA MESA,1
+00113,013,Ediciones,Revista,Perseitas,Colombia,2015,DAVID ESTEBAN ZULUAGA MESA,1
+00114,013,Ediciones,Revista,Perseitas,Colombia,2015,DAVID ESTEBAN ZULUAGA MESA,1
+00115,013,Ediciones,Revista,Versiones Revista de Estudiantes de Filosofía,Colombia,2015,PALOMA MARIN ESCOBAR,1
+00116,013,Ediciones,Libro,La Filosofía hoy,Colombia,2015,DAVID ESTEBAN ZULUAGA MESA,1
+00117,013,Ediciones,Compilación,La filosofía hoy,Colombia,2015,ANDRES ALFREDO CASTRILLON CASTRILLON,1
+00118,013,Ediciones,Revista,Versiones Revista de Estudiantes de Filosofía,Colombia,2015,PALOMA MARIN ESCOBAR,1
+00119,013,Ediciones,Revista,Perseitas,Colombia,2015,DAVID ESTEBAN ZULUAGA MESA,1
+00120,013,Ediciones,Revista,Perseitas,Colombia,2014,DAVID ESTEBAN ZULUAGA MESA,1
+00121,013,Ediciones,Revista,Versiones Revista de Estudiantes de Filosofía,Colombia,2014,PALOMA MARIN ESCOBAR,1
+00122,013,Ediciones,Revista,Versiones Revista de Estudiantes de Filosofía,Colombia,2014,PALOMA MARIN ESCOBAR,1
+00123,013,Ediciones,Revista,Perseitas,Colombia,2014,DAVID ESTEBAN ZULUAGA MESA,1
+00124,014,Ediciones,Otro,Boletín Ágora Contable #18,Colombia,2023,CANDY LORENA CHAMORRO GONZALEZ,1
+00125,014,Ediciones,Otro,Boletín Ágora Contable #17,Colombia,2022,CANDY LORENA CHAMORRO GONZALEZ,1
+00126,014,Ediciones,Otro,Boletín Ágora Contable #16,Colombia,2022,CANDY LORENA CHAMORRO GONZALEZ,1
+00127,014,Ediciones,Otro,Boletín Ágora Contable #15,Colombia,2021,CANDY LORENA CHAMORRO GONZALEZ,1
+00128,014,Ediciones,Otro,Boletín Ágora Contable #14,Colombia,2021,CANDY LORENA CHAMORRO GONZALEZ,1
+00129,014,Ediciones,Otro,Boletin Ágora Contable #13,Colombia,2020,CANDY LORENA CHAMORRO GONZALEZ,1
+00130,014,Ediciones,Revista,Science of Human Action,Colombia,2019,FARLEY SARY ROJAS RESTREPO,1
+00131,014,Ediciones,Revista,Science of Human Action,Colombia,2019,FARLEY SARY ROJAS RESTREPO,1
+00132,014,Ediciones,Otro,Boletin Ágora Contable #12,Colombia,2019,CANDY LORENA CHAMORRO GONZALEZ,1
+00133,014,Ediciones,Revista,Science of Human Action,Colombia,2018,FARLEY SARY ROJAS RESTREPO,1
+00134,014,Ediciones,Revista,Science of Human Action,Colombia,2018,FARLEY SARY ROJAS RESTREPO,1
+00135,014,Ediciones,Revista,Science of Human Action,Colombia,2017,FARLEY SARY ROJAS RESTREPO,1
+00136,014,Ediciones,Revista,Science of Human Action,Colombia,2016,FARLEY SARY ROJAS RESTREPO,1
+00137,014,Ediciones,Revista,Science of Human Action,Colombia,2016,FARLEY SARY ROJAS RESTREPO,1
