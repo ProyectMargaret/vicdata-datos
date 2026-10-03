@@ -1,0 +1,565 @@
+id,id_grupo,categoria,tipo_producto,titulo,pais,ano,institucion,autores,tipologia
+00001,001,Curso de Corta Duración Dictados,Extensión extracurricular,Introducción a los sistemas de información geográfica software QGIS,Colombia,2023,UNIVERSIDAD CATOLICA LUIS AMIGO,VICTOR JOSE SAAVEDRA MEJIA,4
+00002,001,Curso de Corta Duración Dictados,Extensión extracurricular,Taller de modelación de la marea con Delft3d,Colombia,2023,UNIVERSIDAD CATOLICA LUIS AMIGO,VICTOR JOSE SAAVEDRA MEJIA,4
+00003,001,Curso de Corta Duración Dictados,Extensión extracurricular,Introducción a la programación con Python,Colombia,2023,UNIVERSIDAD CATOLICA LUIS AMIGO,VICTOR JOSE SAAVEDRA MEJIA,4
+00004,001,Curso de Corta Duración Dictados,Extensión extracurricular,Diplomado en Analitica Institucional del Sector Público,Colombia,2022,GOBERNACION DE ANTIOQUIA,"INGRID DURLEY TORRES PARDO, JAIME ALBERTO GUZMAN LUNA, JUAN SEBASTIAN PARRA SANCHEZ",4
+00005,001,Curso de Corta Duración Dictados,Especialización,Metodología de Investigación Cuantitativa,Colombia,2015,UNIVERSIDAD DE MEDELLIN,GABRIEL JAIME CORREA HENAO,4
+00006,001,Curso de Corta Duración Dictados,Extensión extracurricular,Energías Renovables y Aplicaciones Agropecuarias,Colombia,2014,INNOVA,GABRIEL JAIME CORREA HENAO,4
+00007,001,Curso de Corta Duración Dictados,Perfeccionamiento,Curso de Servicios de la Red Avanzada RENATA,Colombia,2014,UNIVERSIDAD CATOLICA LUIS AMIGO,WALTER HUGO ARBOLEDA MAZO,4
+00008,001,Curso de Corta Duración Dictados,Perfeccionamiento,Curso de Servicios de la Red Avanzada RENATA,Colombia,2014,Corporación Universitaria Adventista,WALTER HUGO ARBOLEDA MAZO,4
+00009,001,Curso de Corta Duración Dictados,Extensión extracurricular,Curso Básico Virtual en Linux,Colombia,2013,,EDER ALONSO ACEVEDO MARIN,4
+00010,001,Curso de Corta Duración Dictados,Perfeccionamiento,Curso Incorporación de las TIC en la docencia,Colombia,2013,,JUAN CARLOS MONSALVE GOMEZ,4
+00011,001,Curso de Corta Duración Dictados,Perfeccionamiento,Diplomado en Pedagogía de la Virtualidad,Colombia,2013,,JUAN CARLOS MONSALVE GOMEZ,4
+00012,001,Curso de Corta Duración Dictados,Extensión extracurricular,Seminario Gestión de servicios de TI en el marco de las mejores prácticas para el control de la información,Colombia,2012,UNIVERSIDAD COOPERATIVA DE COLOMBIA,EDER ALONSO ACEVEDO MARIN,4
+00013,001,Curso de Corta Duración Dictados,Extensión extracurricular,Curso de Tecnología VoIP para la Institución Técnica Fe y Alegría,Colombia,2012,UNIVERSIDAD CATOLICA LUIS AMIGO,EDER ALONSO ACEVEDO MARIN,4
+00014,001,Curso de Corta Duración Dictados,Perfeccionamiento,Diplomado en ambientes virtuales de aprendizaje,Colombia,2012,UNIVERSIDAD DE SAN BUENAVENTURA - SEDE MEDELLÍN,JUAN CARLOS MONSALVE GOMEZ,4
+00015,001,Curso de Corta Duración Dictados,Extensión extracurricular,Curso de Linux para la Institución Técnica Fe y Alegría,Colombia,2012,UNIVERSIDAD CATOLICA LUIS AMIGO,EDER ALONSO ACEVEDO MARIN,4
+00016,001,Curso de Corta Duración Dictados,Perfeccionamiento,Educación presencial con TIC,Colombia,2011,UNIVERSIDAD CATOLICA LUIS AMIGO,JUAN CARLOS MONSALVE GOMEZ,4
+00017,002,Curso de Corta Duración Dictados,Extensión extracurricular,"Clase espejo, programa de colaboración virtual Conexión Global durante el periodo 02-2025 en la asignatura Procesos Judiciales ante lo Contencioso Administrativo, en conjunto con la Universidad César Vallejo.",Colombia,2025,UNIVERSIDAD CATOLICA LUIS AMIGO,DANY STEVEN GOMEZ AGUDELO,4
+00018,002,Curso de Corta Duración Dictados,Otro,"Clase espejo, programa de colaboración virtual Conexión Global durante el periodo 02-2024 en la asignatura Derecho Constitucional Colombiano, en conjunto con la Universidad Autónoma de Chiapas.",Colombia,2024,UNIVERSIDAD CATOLICA LUIS AMIGO,DANY STEVEN GOMEZ AGUDELO,4
+00019,002,Curso de Corta Duración Dictados,Otro,"Clase espejo, Programa de colaboración virtual Conexión Global durante el periodo 01-2024 en la asignatura Derecho Constitucional Colombiano, en conjunto con la Universidad César Vallejo.",Colombia,2024,UNIVERSIDAD CATOLICA LUIS AMIGO,DANY STEVEN GOMEZ AGUDELO,4
+00020,002,Curso de Corta Duración Dictados,Extensión extracurricular,Control difuso de convencionalidad,México,2023,AGUSTIN DE HIPONA CENTRO DE ESTUDIOS DE POSGRADO,ELVIGIA CARDONA ZULETA,4
+00021,002,Curso de Corta Duración Dictados,Extensión extracurricular,Cátedra de Competencias Interculturales para la Ciudadanía Global,Colombia,2023,Programa Delfín,ROBERTO MAURICIO ROMERO CARDENAS,4
+00022,002,Curso de Corta Duración Dictados,Extensión extracurricular,VII Seminario internacional sobre el proceso y la justicia,Colombia,2021,UNIVERSIDAD CATOLICA LUIS AMIGO,DANY STEVEN GOMEZ AGUDELO,4
+00023,002,Curso de Corta Duración Dictados,Extensión extracurricular,Introducción al Derecho Ambiental y Fundamentación Paradigmática,Colombia,2021,Institución Universitaria Visión de las Américas,JORGE EDUARDO VASQUEZ SANTAMARIA,4
+00024,002,Curso de Corta Duración Dictados,Extensión extracurricular,Curso de Derecho Urbano,Colombia,2020,Universidad Autónoma Latinoamericana - Unaula,JORGE EDUARDO VASQUEZ SANTAMARIA,4
+00025,002,Curso de Corta Duración Dictados,Extensión extracurricular,"SINA, PERMISOS Y SANCIONES AMBIENTALES",Colombia,2020,Instituto Social de Vivienda y Hábitat de Medellín,JORGE EDUARDO VASQUEZ SANTAMARIA,4
+00026,002,Curso de Corta Duración Dictados,Extensión extracurricular,Taller de escritura a varias manos,Colombia,2020,UNIVERSIDAD CATOLICA LUIS AMIGO,PAOLA ANDREA CARMONA TORO,4
+00027,002,Curso de Corta Duración Dictados,Extensión extracurricular,"Ponencia en seminario internacional virtual ¿el derecho frente a la emergencia sanitaria covid ¿ 19 y sus consecuencias¿, sobre Justicia Digital en Colombia",Colombia,2020,,DANY STEVEN GOMEZ AGUDELO,4
+00028,002,Curso de Corta Duración Dictados,Extensión extracurricular,Planes de Ordenamiento Territorial,Colombia,2020,UNIVERSIDAD CATOLICA DE ORIENTE,JORGE EDUARDO VASQUEZ SANTAMARIA,4
+00029,002,Curso de Corta Duración Dictados,Extensión extracurricular,Métodos de la investigación cualitativa,Colombia,2020,UNIVERSIDAD CATOLICA DE ORIENTE,JORGE EDUARDO VASQUEZ SANTAMARIA,4
+00030,002,Curso de Corta Duración Dictados,Extensión extracurricular,"¿Modernización del Proceso Penal en Tiempos de COVID 19"", en Diplomado Virtual del Colegio de Abogados de Lima - Perú, denominado",Colombia,2020,UNIVERSIDAD CATOLICA LUIS AMIGO,DANY STEVEN GOMEZ AGUDELO,4
+00031,002,Curso de Corta Duración Dictados,Extensión extracurricular,Diplomado en Educación Superior - Aprendizaje mediado por TIC Módulo 3. Recursos educativos digitales,Colombia,2020,UNIVERSIDAD CATOLICA LUIS AMIGO,"MAURICIO MEJIA LOBO, ANDRES MAURICIO GRISALES AGUIRRE",4
+00032,002,Curso de Corta Duración Dictados,Extensión extracurricular,V Coloquio de Investigación en Derecho. Promoviendo la cultura investigativa.,Colombia,2019,,DANY STEVEN GOMEZ AGUDELO,4
+00033,002,Curso de Corta Duración Dictados,Extensión extracurricular,Diálogos regionales,Colombia,2019,,DANY STEVEN GOMEZ AGUDELO,4
+00034,002,Curso de Corta Duración Dictados,Extensión extracurricular,Congreso Internacional de Derecho Penal y Política Criminal.,Colombia,2019,,DANY STEVEN GOMEZ AGUDELO,4
+00035,002,Curso de Corta Duración Dictados,Extensión extracurricular,Barra académica en Derecho y Nuevas Tecnologías,Colombia,2019,,DANY STEVEN GOMEZ AGUDELO,4
+00036,002,Curso de Corta Duración Dictados,Extensión extracurricular,Seminario,Colombia,2019,,DANY STEVEN GOMEZ AGUDELO,4
+00037,002,Curso de Corta Duración Dictados,Extensión extracurricular,Incidencias del Derecho y las Nuevas Tecnologías,Colombia,2019,,DANY STEVEN GOMEZ AGUDELO,4
+00038,002,Curso de Corta Duración Dictados,Extensión extracurricular,El ambiente y la participación en los planes de ordenamiento Territorial.,Colombia,2019,SABANETA,JORGE EDUARDO VASQUEZ SANTAMARIA,4
+00039,002,Curso de Corta Duración Dictados,Extensión extracurricular,La participación ciudadana y los mecanismos constitucionales,Colombia,2019,SABANETA,JORGE EDUARDO VASQUEZ SANTAMARIA,4
+00040,002,Curso de Corta Duración Dictados,Extensión extracurricular,La participación ciudadana y los mecanismos constitucionales,Colombia,2019,SABANETA,JORGE EDUARDO VASQUEZ SANTAMARIA,4
+00041,002,Curso de Corta Duración Dictados,Extensión extracurricular,Participación judicial para la protección del ambiente,Colombia,2019,SABANETA,JORGE EDUARDO VASQUEZ SANTAMARIA,4
+00042,002,Curso de Corta Duración Dictados,Extensión extracurricular,Delitos informáticos en las empresas,Colombia,2019,,DANY STEVEN GOMEZ AGUDELO,4
+00043,002,Curso de Corta Duración Dictados,Otro,Sensibilización sobre problemáticas y necesidades de las mesas ambientales del municipio de Sabaneta - proyecto articulador Prestación de servicios para la implementación de estrategias propias del plan de desarrollo 2016 - 2019 Plan municipal de aguas,Colombia,2019,SABANETA,JORGE EDUARDO VASQUEZ SANTAMARIA,4
+00044,002,Curso de Corta Duración Dictados,Extensión extracurricular,DIPLOMADO EN ACTIALIDAD UNIVERSITARIA,Colombia,2018,ASOSCIACION DE INSTITUCIONES DE EDUCACION SUPERIOR DE ANTIOQUIA,RODRIGO ORLANDO OSORIO MONTOYA,4
+00045,002,Curso de Corta Duración Dictados,Extensión extracurricular,CURSO VIRTUAL DE PEDAGOGÍA Y DIDACTICA NIVEL I,Colombia,2015,UNIVERSIDAD CATOLICA LUIS AMIGO,RODRIGO ORLANDO OSORIO MONTOYA,4
+00046,002,Curso de Corta Duración Dictados,Otro,Delitos informáticos de menores de edad,Colombia,2012,ASOCIACIÓN COLOMBIANA DE DEFENSORES DE FAMILIA,ANA MARIA MESA ELNESER,4
+00047,002,Curso de Corta Duración Dictados,Extensión extracurricular,"Derechos, deberes, prohibiciones, incompatibilidades, impedimentos, inhabilidades y conflictos de intereses del servidor público.",Colombia,2010,INSTITUCIÓN UNIVERSITARIA DE ENVIGADO,JORGE EDUARDO VASQUEZ SANTAMARIA,4
+00048,002,Curso de Corta Duración Dictados,Extensión extracurricular,"Formulación y presentación de proyectos de grado, teniendo como eje explicativo el Derecho Público.",Colombia,2010,INSTITUCIÓN UNIVERSITARIA DE ENVIGADO,JORGE EDUARDO VASQUEZ SANTAMARIA,4
+00049,002,Curso de Corta Duración Dictados,Extensión extracurricular,Semillero de Investigación en Derecho,Colombia,2008,UNIVERSIDAD CATOLICA LUIS AMIGO,JORGE EDUARDO VASQUEZ SANTAMARIA,4
+00050,003,Curso de Corta Duración Dictados,Especialización,RELACIÓN ENTRE LOS ESTILOS DE LIDERAZGO Y LA VIOLENCIA OCUPACIONAL EN LAS PYMES DE LA COMUNA 11 DE LA CIUDAD DE MEDELLÍN,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ANTONIO LOPEZ GIRALDO,4
+00051,003,Curso de Corta Duración Dictados,Especialización,BENEFICIOS FLEXIBLES EN LA TRANSFORMACIÓN DE GESTIÓN HUMANA,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ANTONIO LOPEZ GIRALDO,4
+00052,003,Curso de Corta Duración Dictados,Especialización,"ANÁLISIS DEL CLIMA ORGANIZACIONAL EN EL CENTRO DE EMPLEO DE LA CAJA DE COMPENSACIÓN FAMILIAR DEL DEPARTAMENTO DE CÓRDOBA, 2018",Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ANTONIO LOPEZ GIRALDO,4
+00053,003,Curso de Corta Duración Dictados,Especialización,LA GESTIÓN TECNOLÓGICA COMO ESTRATEGIA DE FORTALECIMIENTO DE LA GESTIÓN DE TALENTO HUMANO EN LAS INSTITUCIONES EDUCATIVAS PRIVADAS DEL MUNICIPIO DE MONTERÍA,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ANTONIO LOPEZ GIRALDO,4
+00054,003,Curso de Corta Duración Dictados,Especialización,¿Concienciación,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ANTONIO LOPEZ GIRALDO,4
+00055,003,Curso de Corta Duración Dictados,Especialización,PROPUESTA DE INTERVENCIÓN EN CLIMA ORGANIZACIONAL AL PERSONAL DE LA FINCA DOÑA FRANCIA.,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ANTONIO LOPEZ GIRALDO,4
+00056,003,Curso de Corta Duración Dictados,Especialización,Influencia de las relaciones interpersonales entre los equipos de trabajo en la productividad laboral en la empresa Chakipi Colombia Armenia Quindío,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ANTONIO LOPEZ GIRALDO,4
+00057,003,Curso de Corta Duración Dictados,Especialización,PROPUESTA DE PREVENCIÓN DE LA FARMACODEPENDENCIA EN LAS FAMILIAS DE LA EMPRESA PRIVADA GRIFFITH FOODS S.A.S,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ANTONIO LOPEZ GIRALDO,4
+00058,003,Curso de Corta Duración Dictados,Especialización,Estudios de las técnicas de reclutamiento y selección de personal para mejorar el desempeño organizacional de la Corporación Social ¿Coredas¿,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ANTONIO LOPEZ GIRALDO,4
+00059,003,Curso de Corta Duración Dictados,Extensión extracurricular,OPERACIONES BURSATILES,Colombia,2018,,ALEJANDRA MARIA LUJAN JARAMILLO,4
+00060,003,Curso de Corta Duración Dictados,Especialización,"MODELO DE GESTION POR COMPETENCIAS EN LA SELECCIÓN, INDUCCIÓN Y EVALUACIÓN DE DESEMPEÑO DEL PERSONAL DE LA FUNDACIÓN LA MANO DE DIOS",Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ANTONIO LOPEZ GIRALDO,4
+00061,003,Curso de Corta Duración Dictados,Especialización,ESTUDIO DEL IMPACTO PRODUCTIVO FRENTE AL BIENESTAR LABORAL QUE OFRECEN LAS EMPRESAS NACIONALES A LOS TRABAJADORES DESDE LA GERENCIA DEL TALENTO HUMANO,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ANTONIO LOPEZ GIRALDO,4
+00062,003,Curso de Corta Duración Dictados,Especialización,"Propuesta pedagógica para motivar la participación de las Mujeres Negra y/o Afrocolombianas del Consejo Comunitario de Comunidad Negra la Playa Renaciente del Corregimiento de Navarro en el Desarrollo de Acciones Socio-Culturales del Municipio de Santiago de Cali, Departamento del Valle",Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ANTONIO LOPEZ GIRALDO,4
+00063,003,Curso de Corta Duración Dictados,Especialización,LA COMUNICACIÓN COMO HERRAMIENTA PARA UN BUEN ENTORNO LABORAL,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ANTONIO LOPEZ GIRALDO,4
+00064,003,Curso de Corta Duración Dictados,Especialización,FACTORES QUE INCIDEN EN LA ROTACION DE PERSONAL EN LA EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN SEBASTIAN DE URABA DEL MUNICIPIO DE NECOCLI ANTIOQUA DURANTE EL AÑO 2018.,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ANTONIO LOPEZ GIRALDO,4
+00065,003,Curso de Corta Duración Dictados,Especialización,ANÁLISIS DE LOS PROCESOS DE LA GESTIÓN DEL TALENTO HUMANO PARA EL MEJORAMIENTO DE LA GESTIÓN HUMANA EN LA EMPRESA MATERIALES EL SINUANO S.A,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ANTONIO LOPEZ GIRALDO,4
+00066,003,Curso de Corta Duración Dictados,Especialización,Protocolo de servicio al cliente Certicar el poblado,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JAIME ALBERTO BELTRAN RIOS,4
+00067,003,Curso de Corta Duración Dictados,Especialización,Relación Entre Los Estilos De Liderazgo y La Violencia Ocupacional En Las Pymes De La Comuna 11 De La Ciudad De Medellín,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JAIME ALBERTO BELTRAN RIOS,4
+00068,003,Curso de Corta Duración Dictados,Especialización,Nuevo Modelo de Apertura de Convenios para el Ramo Afines Empresarial de la Compañía Seguros Bolívar en Antioquia,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JAIME ALBERTO BELTRAN RIOS,4
+00069,003,Curso de Corta Duración Dictados,Especialización,Estrategias Para Generar Nuevas Formas De Consumo Del Té Hatsu,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JAIME ALBERTO BELTRAN RIOS,4
+00070,003,Curso de Corta Duración Dictados,Especialización,Nuevo Modelo de Servicio al Cliente para Compañía Viajes y Viajes S.A.S,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JAIME ALBERTO BELTRAN RIOS,4
+00071,003,Curso de Corta Duración Dictados,Especialización,Plan de mercadeo SAJOS S.A.S,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JAIME ALBERTO BELTRAN RIOS,4
+00072,003,Curso de Corta Duración Dictados,Extensión extracurricular,ECONOMETRIA FINANCIERA,Colombia,2018,,ALEJANDRA MARIA LUJAN JARAMILLO,4
+00073,003,Curso de Corta Duración Dictados,Extensión extracurricular,"Generación de Valor, un enfoque administrativo, financiero y de responsabilidad social",Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00074,003,Curso de Corta Duración Dictados,Extensión extracurricular,Seminario de Grado - Evaluación financiera de Proyectos,Colombia,2018,CORPORACIÓN UNIVERSITARIA REMINGTON,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00075,003,Curso de Corta Duración Dictados,Especialización,¿Dos Almas¿ y la creación de estrategias de mercadeo para incursionar en el mercado de fotografía de bodas en la ciudad de Medellín,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,JAIME ALBERTO BELTRAN RIOS,4
+00076,003,Curso de Corta Duración Dictados,Extensión extracurricular,curso Trabajo de Grado I,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00077,003,Curso de Corta Duración Dictados,Extensión extracurricular,Encuentro de academia - Las neurociencias aplicadas en las organizaciones,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00078,003,Curso de Corta Duración Dictados,Especialización,Modulo de mercadeo social,Colombia,2018,,LUIS FERNANDO QUINTERO ARANGO,4
+00079,003,Curso de Corta Duración Dictados,Extensión extracurricular,Taller Internacional en Creatividad e Innovación en las Organizaciones,México,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,SANDRA MILENA MALAVERA PINEDA,4
+00080,003,Curso de Corta Duración Dictados,Extensión extracurricular,Cátedra abierta,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00081,003,Curso de Corta Duración Dictados,Otro,Conferencia Innovación organizacional y social,Colombia,2018,CORPORACIÓN UNIVERSITARIA MINUTO DE DIOS - UNIMINUTO,LUIS FERNANDO QUINTERO ARANGO,4
+00082,003,Curso de Corta Duración Dictados,Extensión extracurricular,Catedra abierta La gerencia del Valor como Inductor en las Organizaciones,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00083,003,Curso de Corta Duración Dictados,Extensión extracurricular,FORMADOR DE FORMADORES BVC,Colombia,2018,,ALEJANDRA MARIA LUJAN JARAMILLO,4
+00084,003,Curso de Corta Duración Dictados,Especialización,Curso Trabajo de Grado 1,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,JAMES ALBERTO MARULANDA PATINO,4
+00085,003,Curso de Corta Duración Dictados,Especialización,Curso Habilidades Gerenciales,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,JAMES ALBERTO MARULANDA PATINO,4
+00086,003,Curso de Corta Duración Dictados,Especialización,Diseño de estrategias de mercadeo social para mejorar el posicionamiento de asperla,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,JAIME ALBERTO BELTRAN RIOS,4
+00087,003,Curso de Corta Duración Dictados,Especialización,Propuesta de cambio del sistema de atención preventiva a televenta,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,JAIME ALBERTO BELTRAN RIOS,4
+00088,003,Curso de Corta Duración Dictados,Especialización,Como crear marcas con exito . Medellín,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,JAIME ALBERTO BELTRAN RIOS,4
+00089,003,Curso de Corta Duración Dictados,Especialización,Planteamiento del plan de mercadeo para la dirección comercial de el bureau de medellín enfocada en el desarrollo del plan trabajo estrategico 2017 con los miembros adherentes de la fundación . Medellín,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,JAIME ALBERTO BELTRAN RIOS,4
+00090,003,Curso de Corta Duración Dictados,Especialización,Estrategia de marketing para la empresa Think It S.A.S . Medellín,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,JAIME ALBERTO BELTRAN RIOS,4
+00091,003,Curso de Corta Duración Dictados,Especialización,"Desiciones de compra de marcas a partir de los sentidos desde el neuromarketing, caso de estudio almacen Exito del este",Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,JAIME ALBERTO BELTRAN RIOS,4
+00092,003,Curso de Corta Duración Dictados,Especialización,Formulación de estrategias de mercadeo para el restaurante Angus Brangus,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,JAIME ALBERTO BELTRAN RIOS,4
+00093,003,Curso de Corta Duración Dictados,Extensión extracurricular,Conferencia Estrategia del sector Retail,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,LUIS FERNANDO QUINTERO ARANGO,4
+00094,003,Curso de Corta Duración Dictados,Especialización,Estándares Internacionales de Información Financiera,Colombia,2015,,JOSE ANTONIO LOPEZ GIRALDO,4
+00095,003,Curso de Corta Duración Dictados,Extensión extracurricular,Modelos Gerenciales,Colombia,2014,,MARTHA ELENA QUINTERO MUNOZ,4
+00096,003,Curso de Corta Duración Dictados,Otro,Habilidades Gerenciales,Colombia,2014,,MARTHA ELENA QUINTERO MUNOZ,4
+00097,003,Curso de Corta Duración Dictados,Perfeccionamiento,Inducción Vendedor,Colombia,2013,,JUAN CARLOS MORALES GAVIRIA,4
+00098,003,Curso de Corta Duración Dictados,Perfeccionamiento,Diplomatura en liderazgo Cooperativo -Balance Social-,Colombia,2011,UNIVERSIDAD CATOLICA LUIS AMIGO,ALEXANDER MARIN LOPEZ,4
+00099,003,Curso de Corta Duración Dictados,Extensión extracurricular,Aplicación y uso de herramientas de Gestión Tecnológica,Colombia,2010,"Ministerio de Ciencia, Tecnología e Innovación.",CARLOS MARIO DURANGO YEPES,4
+00100,003,Curso de Corta Duración Dictados,Especialización,Sistematización y análisis de datos cualitativos,Colombia,2009,UNIVERSIDAD DE CORDOBA,CARLOS ANDRES ARISTIZABAL BOTERO,4
+00101,003,Curso de Corta Duración Dictados,Especialización,Investigación Cualitativa,Colombia,2009,UNIVERSIDAD PONTIFICIA BOLIVARIANA,CARLOS ANDRES ARISTIZABAL BOTERO,4
+00102,003,Curso de Corta Duración Dictados,Especialización,Sistematización y análisis de datos cualitativos,Colombia,2009,UNIVERSIDAD DE CORDOBA,CARLOS ANDRES ARISTIZABAL BOTERO,4
+00103,003,Curso de Corta Duración Dictados,Especialización,Curso Atlas.ti,Colombia,2009,FUNDACIÓN CENTRO INTERNACIONAL DE EDUCACIÓN Y DESARROLLO HUMANO-CINDE,CARLOS ANDRES ARISTIZABAL BOTERO,4
+00104,003,Curso de Corta Duración Dictados,Especialización,Sistematización y análisis de datos cualitativos,Colombia,2009,UNIVERSIDAD DE CORDOBA,CARLOS ANDRES ARISTIZABAL BOTERO,4
+00105,003,Curso de Corta Duración Dictados,Especialización,Trabajo de grado,Colombia,2009,UNIVERSIDAD CATOLICA LUIS AMIGO,CARLOS ANDRES ARISTIZABAL BOTERO,4
+00106,003,Curso de Corta Duración Dictados,Especialización,Curso Atlas.ti,Colombia,2009,FUNDACIÓN CENTRO INTERNACIONAL DE EDUCACIÓN Y DESARROLLO HUMANO-CINDE,CARLOS ANDRES ARISTIZABAL BOTERO,4
+00107,003,Curso de Corta Duración Dictados,Especialización,Sistematización y analisis de datos cualitativos,Colombia,2009,UNIVERSIDAD DE CORDOBA,CARLOS ANDRES ARISTIZABAL BOTERO,4
+00108,003,Curso de Corta Duración Dictados,Perfeccionamiento,Analisis de datos cualitativos,Colombia,2009,Epm Telecomunicaciones S.A. E.S.P. - Epm. Telco S.A.,CARLOS ANDRES ARISTIZABAL BOTERO,4
+00109,004,Curso de Corta Duración Dictados,Extensión extracurricular,Diplomado en Pedagogía,Colombia,2021,,YASMIN ALEXANDRA VASQUEZ SUAREZ,4
+00110,004,Curso de Corta Duración Dictados,Extensión extracurricular,Negocios Internacionales en la nueva normalidad,Colombia,2021,,YASMIN ALEXANDRA VASQUEZ SUAREZ,4
+00111,004,Curso de Corta Duración Dictados,Extensión extracurricular,Similación Modelo ONU entre la U. Católica Luis Amigó y la Universidad Politécnica de Guanajuato México,Colombia,2020,Universidad Politécnica de Guanajuato,MARIA ISABEL GUERRERO MOLINA,4
+00112,004,Curso de Corta Duración Dictados,Extensión extracurricular,INCOTERMS 2020,Colombia,2020,UNIVERSIDAD CATOLICA LUIS AMIGO,YASMIN ALEXANDRA VASQUEZ SUAREZ,4
+00113,004,Curso de Corta Duración Dictados,Extensión extracurricular,Tenencias del nuevo retail en el contexto de la contingencia por COVID 19,México,2020,,MARIA ISABEL GUERRERO MOLINA,4
+00114,004,Curso de Corta Duración Dictados,Extensión extracurricular,Modelos de organizaciones de economía solidaria y social,Colombia,2019,UNIVERSIDAD CATOLICA LUIS AMIGO,OLGA LUCIA ARBOLEDA ALVAREZ,4
+00115,004,Curso de Corta Duración Dictados,Extensión extracurricular,Historia y filosofía de organizaciones de economía social y solidaria,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,OLGA LUCIA ARBOLEDA ALVAREZ,4
+00116,004,Curso de Corta Duración Dictados,Extensión extracurricular,FORMACION TECNOPEDAGOGICA EN AMBIENTES VIRTUALES DE APRENDIZAJE BLACKBOARD 9.1,Colombia,2018,,YASMIN ALEXANDRA VASQUEZ SUAREZ,4
+00117,004,Curso de Corta Duración Dictados,Extensión extracurricular,Curso de Excel Avanzado en la Gestión de los Negocios,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,ROSA JANNET RESTEPO RESTREPO,4
+00118,004,Curso de Corta Duración Dictados,Extensión extracurricular,1er Encuentro Nacional de Semilleros de Investigación del Programa de Negocios Internacionales,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,"MARIA ISABEL GUERRERO MOLINA, NELSON MARIN LATORRE ARIAS",4
+00119,004,Curso de Corta Duración Dictados,Extensión extracurricular,Curso de Exportaciones e Importaciones,Colombia,2018,,YASMIN ALEXANDRA VASQUEZ SUAREZ,4
+00120,004,Curso de Corta Duración Dictados,Extensión extracurricular,Diagnóstico de las estrategias digitales como resultado de la gestión de innovación empresarial para las Mypimes en la ciudad de Medellin.,Colombia,2018,,MARIA ISABEL GUERRERO MOLINA,4
+00121,004,Curso de Corta Duración Dictados,Extensión extracurricular,Marketing Green. ¿Realidad o tendencia?,Colombia,2018,Universidad Benito Juárez G,MARIA ISABEL GUERRERO MOLINA,4
+00122,004,Curso de Corta Duración Dictados,Extensión extracurricular,Generalidades de la Logística,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,ROSA JANNET RESTEPO RESTREPO,4
+00123,004,Curso de Corta Duración Dictados,Extensión extracurricular,Gestión de organizaciones de economía solidaria y social,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,OLGA LUCIA ARBOLEDA ALVAREZ,4
+00124,004,Curso de Corta Duración Dictados,Extensión extracurricular,Curso competencias ciudadanas,Colombia,2017,,OLGA LUCIA ARBOLEDA ALVAREZ,4
+00125,004,Curso de Corta Duración Dictados,Perfeccionamiento,Sensibilización en procesos de internacionalización,Colombia,2017,ALCALDIA DE MEDELLIN,ROSA JANNET RESTEPO RESTREPO,4
+00126,004,Curso de Corta Duración Dictados,Otro,Conferencia con cinco mexícanos exítosos,México,2017,Univerdad Benito Juarez,VICTORIA BLAQUISED RIVERA,4
+00127,004,Curso de Corta Duración Dictados,Extensión extracurricular,Curso dirigido cooperativismo Cooperen,Colombia,2017,,OLGA LUCIA ARBOLEDA ALVAREZ,4
+00128,004,Curso de Corta Duración Dictados,Extensión extracurricular,Curso Básico de Cooperativismo,Colombia,2015,Cooperativa J.F Kennedy,MARIA EUGENIA PALACIO JARAMILLO,4
+00129,004,Curso de Corta Duración Dictados,Otro,Curso Economía solidaria y del trabajo,Colombia,2014,UNIVERSIDAD CATOLICA LUIS AMIGO,OLGA LUCIA ARBOLEDA ALVAREZ,4
+00130,004,Curso de Corta Duración Dictados,Otro,Curso Desarrollo comunitario,Colombia,2014,UNIVERSIDAD CATOLICA LUIS AMIGO,OLGA LUCIA ARBOLEDA ALVAREZ,4
+00131,004,Curso de Corta Duración Dictados,Extensión extracurricular,SEMINARIO GESTION DE EMPRESAS COOPERATIVAS,Colombia,2014,Cooperativa Coopensura,OSWALDO ANTONIO SALGADO CANAVERAL,4
+00132,005,Curso de Corta Duración Dictados,Otro,Síndromes Neuropsicológicos,Colombia,2017,UNIVERSIDAD DE SAN BUENAVENTURA - SEDE MEDELLÍN,CLAUDIA MARCELA ARANA MEDINA,4
+00133,005,Curso de Corta Duración Dictados,Especialización,Etiologia y psicologia criminal,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,JUAN DIEGO BETANCUR ARIAS,4
+00134,005,Curso de Corta Duración Dictados,Otro,Neuropsicologia,Colombia,2017,,JUAN DIEGO BETANCUR ARIAS,4
+00135,005,Curso de Corta Duración Dictados,Extensión extracurricular,Psicologia cognitiva,Colombia,2017,,JUAN DIEGO BETANCUR ARIAS,4
+00136,005,Curso de Corta Duración Dictados,Extensión extracurricular,Neuropsicologia,Colombia,2016,,JUAN DIEGO BETANCUR ARIAS,4
+00137,005,Curso de Corta Duración Dictados,Otro,Psicología Cognitiva,Colombia,2016,,JUAN DIEGO BETANCUR ARIAS,4
+00138,005,Curso de Corta Duración Dictados,Extensión extracurricular,Neuropsicologia,Colombia,2016,,JUAN DIEGO BETANCUR ARIAS,4
+00139,005,Curso de Corta Duración Dictados,Extensión extracurricular,Construcción Teórica en Procesos de Investigación,Colombia,2016,,JUAN DIEGO BETANCUR ARIAS,4
+00140,005,Curso de Corta Duración Dictados,Extensión extracurricular,Generalidades del Proceso de Investigación y Construcción de Objetos de Estudio,Colombia,2016,,JUAN DIEGO BETANCUR ARIAS,4
+00141,005,Curso de Corta Duración Dictados,Extensión extracurricular,Cerebro y aprendizaje,Colombia,2015,UNIVERSIDAD CATOLICA LUIS AMIGO,PAULA ANDREA MONTOYA ZULUAGA,4
+00142,005,Curso de Corta Duración Dictados,Extensión extracurricular,Pruebas psicológicas más utilizadas en el medio laboral,Colombia,2015,UNIVERSIDAD CATOLICA LUIS AMIGO,CLAUDIA MARCELA ARANA MEDINA,4
+00143,005,Curso de Corta Duración Dictados,Extensión extracurricular,Seminario de metodologías de investigación cuantitativa,Colombia,2015,,JUAN DIEGO BETANCUR ARIAS,4
+00144,005,Curso de Corta Duración Dictados,Extensión extracurricular,Curso Habilidades para la vida,Colombia,2015,,JUAN DIEGO BETANCUR ARIAS,4
+00145,005,Curso de Corta Duración Dictados,Otro,Seminario en paradigmas de investigación cuantitativa,Colombia,2015,TECNOLOGICO DE ANTIOQUIA INSTITUCION UNIVERSITARIA,JUAN DIEGO BETANCUR ARIAS,4
+00146,005,Curso de Corta Duración Dictados,Extensión extracurricular,Generalidades del Proceso de Investigación y Construcción de Objetos de Estudio,Colombia,2015,,JUAN DIEGO BETANCUR ARIAS,4
+00147,005,Curso de Corta Duración Dictados,Extensión extracurricular,Construcción Teórica en Procesos de Investigación,Colombia,2015,,JUAN DIEGO BETANCUR ARIAS,4
+00148,005,Curso de Corta Duración Dictados,Extensión extracurricular,Cursos comunes de investigación,Colombia,2015,,JUAN DIEGO BETANCUR ARIAS,4
+00149,005,Curso de Corta Duración Dictados,Extensión extracurricular,Neuropsicología y aprendizaje,Colombia,2013,,PAULA ANDREA MONTOYA ZULUAGA,4
+00150,005,Curso de Corta Duración Dictados,Otro,Curso Optativo de Evaluación Neuropsicológica interventiva.,Colombia,2013,,MONICA GOMEZ BOTERO,4
+00151,005,Curso de Corta Duración Dictados,Extensión extracurricular,Investigación cuantitativa,Colombia,2011,,PAULA ANDREA MONTOYA ZULUAGA,4
+00152,005,Curso de Corta Duración Dictados,Extensión extracurricular,Pensamiento socal y soeciedad,Colombia,2011,UNIVERSIDAD CATOLICA LUIS AMIGO,CLAUDIA MARCELA ARANA MEDINA,4
+00153,005,Curso de Corta Duración Dictados,Extensión extracurricular,Generalidades de la investigación cuantitativa,Colombia,2011,,PAULA ANDREA MONTOYA ZULUAGA,4
+00154,006,Curso de Corta Duración Dictados,Extensión extracurricular,Misión TIC,Colombia,2021,UNIVERSIDAD PONTIFICIA BOLIVARIANA,JUAN SEBASTIAN PARRA SANCHEZ,4
+00155,006,Curso de Corta Duración Dictados,Extensión extracurricular,Misión TIC,Colombia,2021,UNIVERSIDAD PONTIFICIA BOLIVARIANA,JUAN SEBASTIAN PARRA SANCHEZ,4
+00156,006,Curso de Corta Duración Dictados,Extensión extracurricular,Taller Escritura a Varias Manos,Colombia,2020,UNIVERSIDAD CATOLICA LUIS AMIGO,DIANA MARCELA GARCIA MUNOZ,4
+00157,006,Curso de Corta Duración Dictados,Extensión extracurricular,Técnicas y Metodologías para la Mediación y Prácticas Restaurativas en la Escuela¿,Colombia,2020,UNIVERSIDAD CATOLICA LUIS AMIGO,DIANA MARCELA GARCIA MUNOZ,4
+00158,006,Curso de Corta Duración Dictados,Extensión extracurricular,Investigación educativa,Colombia,2019,Gobernación De Antioquia - Secretaria De Educación,JOSE FEDERICO AGUDELO TORRES,4
+00159,006,Curso de Corta Duración Dictados,Otro,Desarrollo Socioafectivo,Colombia,2019,UNIVERSIDAD DE ANTIOQUIA,YUSTY CAROLINA RESTREPO SEGURA,4
+00160,006,Curso de Corta Duración Dictados,Especialización,Seminario Caracterización y Diagnóstico psicosocial,Colombia,2019,UNIVERSIDAD CATOLICA DE PEREIRA,DIANA MARCELA GARCIA MUNOZ,4
+00161,006,Curso de Corta Duración Dictados,Extensión extracurricular,Módulo Evaluación en Diplomado de docencia universitaria,Colombia,2019,UNIVERSIDAD PONTIFICIA BOLIVARIANA,YUSTY CAROLINA RESTREPO SEGURA,4
+00162,006,Curso de Corta Duración Dictados,Otro,Práctica profesional I,Colombia,2019,TECNOLOGICO DE ANTIOQUIA INSTITUCION UNIVERSITARIA,YUSTY CAROLINA RESTREPO SEGURA,4
+00163,006,Curso de Corta Duración Dictados,Otro,Práctica profesional II,Colombia,2019,TECNOLOGICO DE ANTIOQUIA INSTITUCION UNIVERSITARIA,YUSTY CAROLINA RESTREPO SEGURA,4
+00164,006,Curso de Corta Duración Dictados,Otro,Desarrollo socioafectivo,Colombia,2019,Universidad De Antioquia - Sede Caucasia,YUSTY CAROLINA RESTREPO SEGURA,4
+00165,006,Curso de Corta Duración Dictados,Perfeccionamiento,Seminario de línea I Maestría en Intervenciones Psicosociales,Colombia,2019,UNIVERSIDAD CATOLICA LUIS AMIGO,"YUSTY CAROLINA RESTREPO SEGURA, LEISY MAGDALI ARROYAVE TABORDA, LUISA FERNANDA CORREA PEREZ",4
+00166,006,Curso de Corta Duración Dictados,Extensión extracurricular,Investigación educativa,Colombia,2018,Gobernación De Antioquia - Secretaria De Educación,JOSE FEDERICO AGUDELO TORRES,4
+00167,006,Curso de Corta Duración Dictados,Especialización,Problematización y Líneas de Investigación,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE VICENTE ABAD OLAYA,4
+00168,006,Curso de Corta Duración Dictados,Extensión extracurricular,Crianza Respetuosa - Rompiendo paradigmas sobre el acompañamiento a la infancia,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,MONICA MARIA ALVAREZ GALLEGO,4
+00169,006,Curso de Corta Duración Dictados,Extensión extracurricular,laboratorio Pedagógico,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,MONICA MARIA ALVAREZ GALLEGO,4
+00170,006,Curso de Corta Duración Dictados,Extensión extracurricular,Laboratorio pedagógico,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,MONICA MARIA ALVAREZ GALLEGO,4
+00171,006,Curso de Corta Duración Dictados,Extensión extracurricular,Didáctica de trabajo con niños y familias,Colombia,2015,,SONIA RUTH QUINTERO ARRUBLA,4
+00172,006,Curso de Corta Duración Dictados,Extensión extracurricular,The Sounds of English,Colombia,2014,UNIVERSIDAD EAFIT,JOSE VICENTE ABAD OLAYA,4
+00173,006,Curso de Corta Duración Dictados,Extensión extracurricular,Recursos didácticos,Colombia,2014,FUNDACIÓN CENTRO INTERNACIONAL DE EDUCACIÓN Y DESARROLLO HUMANO-CINDE,MICHELLE BETANCUR ZULUAGA,4
+00174,006,Curso de Corta Duración Dictados,Perfeccionamiento,"Semillero Emoción, Cerebro y Aprendizaje",Colombia,2014,UNIVERSIDAD CATOLICA LUIS AMIGO,PAULA ANDREA CUERVO OCAMPO,4
+00175,006,Curso de Corta Duración Dictados,Otro,Programas y proyectos psicopedagógicos,Colombia,2014,Clínica Universitaria Bolivariana - Universidad Pontificia Bolivariana,MARY LUZ MARIN POSADA,4
+00176,006,Curso de Corta Duración Dictados,Extensión extracurricular,Perspectiva Pedagógica de lo Psicosocial,Colombia,2014,UNIVERSIDAD CATOLICA LUIS AMIGO,GLORIA MARIA LOPEZ ARBOLEDA,4
+00177,006,Curso de Corta Duración Dictados,Extensión extracurricular,DIPLOMADO,Colombia,2013,Fundacion Saldarriaga Concha,ADRIANA MARIA GALLEGO HENAO,4
+00178,006,Curso de Corta Duración Dictados,Extensión extracurricular,Perspectiva Pedagógica de lo Psicosocial,Colombia,2013,,GLORIA MARIA LOPEZ ARBOLEDA,4
+00179,006,Curso de Corta Duración Dictados,Extensión extracurricular,DIPLOMADO EN PREVENCION DEL ACOSO ESCOLAR Y MANEJO DE BULLYING AL INTERIOR DE LAS INSTITUCIONES EDUCATIVAS,Colombia,2013,INSTITUCIÓN UNIVERSITARIA DE ENVIGADO,ADRIANA MARIA GALLEGO HENAO,4
+00180,006,Curso de Corta Duración Dictados,Extensión extracurricular,IDENTIDAD AMIGONIANA,Colombia,2013,UNIVERSIDAD CATOLICA LUIS AMIGO,SONIA RUTH QUINTERO ARRUBLA,4
+00181,006,Curso de Corta Duración Dictados,Otro,PROYECTO DE VIDA,Colombia,2013,UNIVERSIDAD CATOLICA LUIS AMIGO,SONIA RUTH QUINTERO ARRUBLA,4
+00182,006,Curso de Corta Duración Dictados,Extensión extracurricular,ETICA Y DESARROLLO HUMANO,Colombia,2013,UNIVERSIDAD CATOLICA LUIS AMIGO,SONIA RUTH QUINTERO ARRUBLA,4
+00183,006,Curso de Corta Duración Dictados,Extensión extracurricular,Curso,Colombia,2011,Centro de servicios a la Comunidad-funlam,ADRIANA MARIA GALLEGO HENAO,4
+00184,007,Curso de Corta Duración Dictados,Extensión extracurricular,Curso,Colombia,2024,Centro de servicios psicológicos Sentido & Realidad,ZONAIKA MAIRA POSADA LOPEZ,4
+00185,007,Curso de Corta Duración Dictados,Extensión extracurricular,Curso,Colombia,2024,Centro de servicios psicológicos Sentido & Realidad,ZONAIKA MAIRA POSADA LOPEZ,4
+00186,007,Curso de Corta Duración Dictados,Extensión extracurricular,Primeros auxilios psicológicos en deporte,Colombia,2024,INSTITUCIÓN UNIVERSITARIA DE ENVIGADO,ZONAIKA MAIRA POSADA LOPEZ,4
+00187,007,Curso de Corta Duración Dictados,Extensión extracurricular,Curso Polo a tierra herramientas para pensar la vida,Colombia,2024,TECNOLOGICO DE ANTIOQUIA INSTITUCION UNIVERSITARIA,ANGELA MARITZA LOPERA JARAMILLO,4
+00188,007,Curso de Corta Duración Dictados,Especialización,Intervención con familias (Especialización en intervenciones psicosociales),Colombia,2024,,OVIDIO HERRERA RIVERA,4
+00189,007,Curso de Corta Duración Dictados,Extensión extracurricular,TRABAJO DE GRADO MODALIDAD INVESTIGACION I Y II,Colombia,2024,,"OVIDIO HERRERA RIVERA, DARLIN NATALIA DUQUE GOMEZ",4
+00190,007,Curso de Corta Duración Dictados,Extensión extracurricular,Desarrollo humano,Colombia,2024,,OVIDIO HERRERA RIVERA,4
+00191,007,Curso de Corta Duración Dictados,Extensión extracurricular,Pensamiento sistémico,Colombia,2024,,OVIDIO HERRERA RIVERA,4
+00192,007,Curso de Corta Duración Dictados,Otro,Redes de Apoyo y Desarrollo Social. Análisis de Política Socia (Maestría en intervenciones psicosociales),Colombia,2024,,OVIDIO HERRERA RIVERA,4
+00193,007,Curso de Corta Duración Dictados,Extensión extracurricular,TRABAJO DE GRADO MODALIDAD INVESTIGACION I Y II,Colombia,2023,,"OVIDIO HERRERA RIVERA, DARLIN NATALIA DUQUE GOMEZ",4
+00194,007,Curso de Corta Duración Dictados,Extensión extracurricular,Redes de apoyo y desarrollo social de política social,Colombia,2023,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00195,007,Curso de Corta Duración Dictados,Extensión extracurricular,Seminarios de profundización elegibles,Colombia,2023,,OVIDIO HERRERA RIVERA,4
+00196,007,Curso de Corta Duración Dictados,Otro,Socioantropología de la familia,Colombia,2022,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00197,007,Curso de Corta Duración Dictados,Extensión extracurricular,Familias Multiproblemáticas,Colombia,2022,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00198,007,Curso de Corta Duración Dictados,Extensión extracurricular,Resiliencia familiar,Colombia,2022,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00199,007,Curso de Corta Duración Dictados,Extensión extracurricular,Socioantropología de la familia,Colombia,2022,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00200,007,Curso de Corta Duración Dictados,Extensión extracurricular,Enfoques y Modelos de Intervención,Colombia,2021,,OVIDIO HERRERA RIVERA,4
+00201,007,Curso de Corta Duración Dictados,Extensión extracurricular,Familia y resiliencia,Colombia,2021,,OVIDIO HERRERA RIVERA,4
+00202,007,Curso de Corta Duración Dictados,Extensión extracurricular,Familias Multiproblemticas,Colombia,2021,,OVIDIO HERRERA RIVERA,4
+00203,007,Curso de Corta Duración Dictados,Extensión extracurricular,Tesis doctoral 1,Colombia,2021,,OVIDIO HERRERA RIVERA,4
+00204,007,Curso de Corta Duración Dictados,Extensión extracurricular,Seminario de Violencia Intrafamiliar,Colombia,2021,,OVIDIO HERRERA RIVERA,4
+00205,007,Curso de Corta Duración Dictados,Otro,Prospectiva familiar,Colombia,2020,,OVIDIO HERRERA RIVERA,4
+00206,007,Curso de Corta Duración Dictados,Extensión extracurricular,Trabajo de Grado II,Colombia,2019,,OVIDIO HERRERA RIVERA,4
+00207,007,Curso de Corta Duración Dictados,Extensión extracurricular,Trabajo de grado I,Colombia,2018,,OVIDIO HERRERA RIVERA,4
+00208,007,Curso de Corta Duración Dictados,Perfeccionamiento,Primer pasantía nacional en terapia e intervención familiar. Universidad de Caldas-Universidad Católica Luis Amigó 2018.,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,ALEXANDER RODRIGUEZ BUSTAMANTE,4
+00209,007,Curso de Corta Duración Dictados,Especialización,Intervención con familias,Colombia,2016,,OVIDIO HERRERA RIVERA,4
+00210,007,Curso de Corta Duración Dictados,Extensión extracurricular,Fundamentos conceptuales y epistemológicos del desarrollo familiar,Colombia,2016,,OVIDIO HERRERA RIVERA,4
+00211,007,Curso de Corta Duración Dictados,Perfeccionamiento,CURSO INTERNACIONAL EN TERAPIA BREVE,Colombia,2015,UNIVERSIDAD CATOLICA LUIS AMIGO,ALEXANDER RODRIGUEZ BUSTAMANTE,4
+00212,007,Curso de Corta Duración Dictados,Otro,Familia y política social,Colombia,2014,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00213,007,Curso de Corta Duración Dictados,Otro,"Universidad Vital, contexto de movilidad humana",Colombia,2014,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00214,007,Curso de Corta Duración Dictados,Otro,Familias multiproblemáticas,Colombia,2014,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00215,007,Curso de Corta Duración Dictados,Otro,Socioantropología de la familia,Colombia,2014,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00216,007,Curso de Corta Duración Dictados,Otro,PROSPECTIVA FAMILIAR,Colombia,2013,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00217,007,Curso de Corta Duración Dictados,Otro,Prospectiva Familiar,Colombia,2013,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00218,007,Curso de Corta Duración Dictados,Extensión extracurricular,Teorías del Desarrollo Individual,Colombia,2013,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00219,007,Curso de Corta Duración Dictados,Extensión extracurricular,Técnicas Interactivas,Colombia,2013,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00220,007,Curso de Corta Duración Dictados,Extensión extracurricular,Teorias del aprendizaje,Colombia,2013,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00221,007,Curso de Corta Duración Dictados,Otro,"Paradigmas, modelos y enfoques de investigación familiar",Colombia,2013,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00222,007,Curso de Corta Duración Dictados,Otro,Enfoques de intervención,Colombia,2013,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00223,007,Curso de Corta Duración Dictados,Otro,Modelos de Intervención,Colombia,2013,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00224,007,Curso de Corta Duración Dictados,Otro,Enfoques de intervención,Colombia,2012,,OVIDIO HERRERA RIVERA,4
+00225,007,Curso de Corta Duración Dictados,Extensión extracurricular,Desarrollo sostenible y convivencia ciudadana,Colombia,2012,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00226,007,Curso de Corta Duración Dictados,Otro,Familia y resiliencia,Colombia,2012,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00227,007,Curso de Corta Duración Dictados,Otro,Seminario de violencia intrafamiliar,Colombia,2011,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00228,007,Curso de Corta Duración Dictados,Extensión extracurricular,Familia y resiliencia,Colombia,2011,UNIVERSIDAD CATOLICA LUIS AMIGO,OVIDIO HERRERA RIVERA,4
+00229,008,Curso de Corta Duración Dictados,Extensión extracurricular,Curso de Verano,Colombia,2023,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ALCIDES CASTRO ACEVEDO,4
+00230,008,Curso de Corta Duración Dictados,Extensión extracurricular,Curso de Verano,Colombia,2022,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ALCIDES CASTRO ACEVEDO,4
+00231,008,Curso de Corta Duración Dictados,Extensión extracurricular,Curso de Verano,Colombia,2021,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ALCIDES CASTRO ACEVEDO,4
+00232,008,Curso de Corta Duración Dictados,Extensión extracurricular,Fundamentos éticos y políticos de la psicologia social comunitaria,Colombia,2021,,PAULA VANESSA SANCHEZ AGUDELO,4
+00233,008,Curso de Corta Duración Dictados,Extensión extracurricular,"Redes de apoyo y desarrollo social, análisis de política social",Colombia,2021,UNIVERSIDAD CATOLICA LUIS AMIGO,HEIDI SMITH PULIDO VARON,4
+00234,008,Curso de Corta Duración Dictados,Extensión extracurricular,síntomas psicosociales contemporáneo (seminario de línea IV),Colombia,2021,UNIVERSIDAD CATOLICA LUIS AMIGO,HEIDI SMITH PULIDO VARON,4
+00235,008,Curso de Corta Duración Dictados,Extensión extracurricular,Curso de Verano,Colombia,2020,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ALCIDES CASTRO ACEVEDO,4
+00236,008,Curso de Corta Duración Dictados,Extensión extracurricular,Curso de Verano,Colombia,2020,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ALCIDES CASTRO ACEVEDO,4
+00237,008,Curso de Corta Duración Dictados,Otro,Perspectiva Pedagógica Social,Colombia,2020,UNIVERSIDAD CATOLICA LUIS AMIGO,MAGDA VICTORIA DIAZ ALZATE,4
+00238,008,Curso de Corta Duración Dictados,Otro,Seminario de investigación II,Colombia,2020,UNIVERSIDAD PONTIFICIA BOLIVARIANA,MAGDA VICTORIA DIAZ ALZATE,4
+00239,008,Curso de Corta Duración Dictados,Extensión extracurricular,síntomas psicosociales contemporáneo (seminario de línea III),Colombia,2020,,HEIDI SMITH PULIDO VARON,4
+00240,008,Curso de Corta Duración Dictados,Extensión extracurricular,Curso de Verano,Colombia,2020,UNIVERSIDAD CATOLICA LUIS AMIGO,JOSE ALCIDES CASTRO ACEVEDO,4
+00241,008,Curso de Corta Duración Dictados,Extensión extracurricular,Análisis de la realidad psicosocial contemporánea,Colombia,2020,,HEIDI SMITH PULIDO VARON,4
+00242,008,Curso de Corta Duración Dictados,Otro,Psicopedagogía y Contextos Sociales,Colombia,2020,UNIVERSIDAD PONTIFICIA BOLIVARIANA,MAGDA VICTORIA DIAZ ALZATE,4
+00243,008,Curso de Corta Duración Dictados,Extensión extracurricular,Fundamentos éticos y políticos de la psicología social comunitaria,Colombia,2020,,PAULA VANESSA SANCHEZ AGUDELO,4
+00244,008,Curso de Corta Duración Dictados,Extensión extracurricular,síntomas psicosociales contemporáneo (seminario de línea IV),Colombia,2020,,HEIDI SMITH PULIDO VARON,4
+00245,008,Curso de Corta Duración Dictados,Extensión extracurricular,síntomas psicosociales contemporáneo (seminario de línea II),Colombia,2020,,HEIDI SMITH PULIDO VARON,4
+00246,008,Curso de Corta Duración Dictados,Especialización,Fundamentos éticos y políticos de la psicologia social comunitaria,Colombia,2019,,PAULA VANESSA SANCHEZ AGUDELO,4
+00247,008,Curso de Corta Duración Dictados,Extensión extracurricular,síntomas psicosociales contemporáneo (seminario de línea IV),Colombia,2019,,HEIDI SMITH PULIDO VARON,4
+00248,008,Curso de Corta Duración Dictados,Extensión extracurricular,síntomas psicosociales contemporáneo (seminario de línea III),Colombia,2019,,HEIDI SMITH PULIDO VARON,4
+00249,008,Curso de Corta Duración Dictados,Extensión extracurricular,síntomas psicosociales contemporáneo (seminario de línea I),Colombia,2019,,HEIDI SMITH PULIDO VARON,4
+00250,008,Curso de Corta Duración Dictados,Extensión extracurricular,síntomas psicosociales contemporáneo (seminario de línea III),Colombia,2019,,HEIDI SMITH PULIDO VARON,4
+00251,008,Curso de Corta Duración Dictados,Extensión extracurricular,síntomas psicosociales contemporáneo (seminario de línea II),Colombia,2019,UNIVERSIDAD CATOLICA LUIS AMIGO,HEIDI SMITH PULIDO VARON,4
+00252,008,Curso de Corta Duración Dictados,Especialización,"Reparación, restauración y reconciliación social",Colombia,2018,,PAULA VANESSA SANCHEZ AGUDELO,4
+00253,008,Curso de Corta Duración Dictados,Extensión extracurricular,síntomas psicosociales contemporáneo (seminario de línea I),Colombia,2018,,HEIDI SMITH PULIDO VARON,4
+00254,008,Curso de Corta Duración Dictados,Extensión extracurricular,síntomas psicosociales contemporáneo (seminario de línea II),Colombia,2018,,HEIDI SMITH PULIDO VARON,4
+00255,008,Curso de Corta Duración Dictados,Perfeccionamiento,Actualización en técnicas de intervención psicosocial,Colombia,2018,Universidad De Antioquia - Sede Caucasia,HEIDI SMITH PULIDO VARON,4
+00256,008,Curso de Corta Duración Dictados,Perfeccionamiento,MÉTODOS CUALITATIVOS DE INVESTIGACIÓN SOCIAL,Colombia,2018,,KATY LUZ MILLAN OTERO,4
+00257,008,Curso de Corta Duración Dictados,Otro,Psicología Latinoamericana y fenómenos contemporáneos,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,KATY LUZ MILLAN OTERO,4
+00258,008,Curso de Corta Duración Dictados,Otro,Psicología Ambiental,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,KATY LUZ MILLAN OTERO,4
+00259,008,Curso de Corta Duración Dictados,Otro,Técnicas de Entrevista,Colombia,2018,CORPORACIÓN UNIVERSITARIA MINUTO DE DIOS - UNIMINUTO,KATY LUZ MILLAN OTERO,4
+00260,008,Curso de Corta Duración Dictados,Especialización,Seminario de Trabajo de Grado Especialización en Intervenciones Psicosociales,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,KATY LUZ MILLAN OTERO,4
+00261,008,Curso de Corta Duración Dictados,Extensión extracurricular,síntomas psicosociales contemporáneo (seminario de línea I),Colombia,2018,,HEIDI SMITH PULIDO VARON,4
+00262,008,Curso de Corta Duración Dictados,Especialización,Investigación y Trabajo de grado II,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,MAGDA VICTORIA DIAZ ALZATE,4
+00263,008,Curso de Corta Duración Dictados,Perfeccionamiento,Métodos Cualitativos de Investigación Social. Maestría en Intervenciones Psicosociales,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,KATY LUZ MILLAN OTERO,4
+00264,008,Curso de Corta Duración Dictados,Otro,Teoría y Dinámica de Grupo,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,KATY LUZ MILLAN OTERO,4
+00265,008,Curso de Corta Duración Dictados,Otro,Escuelas de la Psicología Social,Colombia,2017,,KATY LUZ MILLAN OTERO,4
+00266,008,Curso de Corta Duración Dictados,Especialización,Seminario de Trabajo de Grado Especialización en Intervenciones Psicosociales,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,KATY LUZ MILLAN OTERO,4
+00267,008,Curso de Corta Duración Dictados,Otro,Proyectos Sociales I,Colombia,2017,FUNDACION UNIVERSITARIA CLARETIANA,KATY LUZ MILLAN OTERO,4
+00268,008,Curso de Corta Duración Dictados,Perfeccionamiento,La clínica Dinámica.,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,JOHN JAIRO GARCIA PENA,4
+00269,008,Curso de Corta Duración Dictados,Especialización,Metodologías de la Intervención Participativa,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,MAGDA VICTORIA DIAZ ALZATE,4
+00270,008,Curso de Corta Duración Dictados,Especialización,Seminario de trabajo de grado. Especialización en Derecho Penal,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,KATY LUZ MILLAN OTERO,4
+00271,008,Curso de Corta Duración Dictados,Especialización,Investigación y Trabajo de Grado I,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,MAGDA VICTORIA DIAZ ALZATE,4
+00272,008,Curso de Corta Duración Dictados,Otro,Procesos Psicológicos Sociales,Colombia,2017,CORPORACIÓN UNIVERSITARIA MINUTO DE DIOS - UNIMINUTO,KATY LUZ MILLAN OTERO,4
+00273,008,Curso de Corta Duración Dictados,Otro,Modelos de Intervención Psicosocial,Colombia,2017,CORPORACIÓN UNIVERSITARIA MINUTO DE DIOS - UNIMINUTO,KATY LUZ MILLAN OTERO,4
+00274,008,Curso de Corta Duración Dictados,Extensión extracurricular,Seminario de Formación Investigativa,Colombia,2017,UNIVERSIDAD PONTIFICIA BOLIVARIANA,HEIDI SMITH PULIDO VARON,4
+00275,008,Curso de Corta Duración Dictados,Especialización,Seminario de Formación Investigativa 2,Colombia,2017,UNIVERSIDAD PONTIFICIA BOLIVARIANA,HEIDI SMITH PULIDO VARON,4
+00276,008,Curso de Corta Duración Dictados,Extensión extracurricular,Seminario de Formación Investigativa 2,Colombia,2017,UNIVERSIDAD PONTIFICIA BOLIVARIANA,HEIDI SMITH PULIDO VARON,4
+00277,008,Curso de Corta Duración Dictados,Otro,Proyectos Sociales II,Colombia,2017,FUNDACION UNIVERSITARIA CLARETIANA,KATY LUZ MILLAN OTERO,4
+00278,008,Curso de Corta Duración Dictados,Especialización,Trabajo de grado,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,SONIA NATALIA COGOLLO OSPINA,4
+00279,008,Curso de Corta Duración Dictados,Extensión extracurricular,Salud Mental en Emergencias y Desastres.,Colombia,2016,UNIVERSIDAD DE ANTIOQUIA,JOHN JAIRO GARCIA PENA,4
+00280,008,Curso de Corta Duración Dictados,Especialización,Seminario de Formación Investigativa,Colombia,2016,UNIVERSIDAD PONTIFICIA BOLIVARIANA,HEIDI SMITH PULIDO VARON,4
+00281,008,Curso de Corta Duración Dictados,Otro,Proyectos Sociales II,Colombia,2016,FUNDACION UNIVERSITARIA CLARETIANA,KATY LUZ MILLAN OTERO,4
+00282,008,Curso de Corta Duración Dictados,Especialización,Seminario de Formación Investigativa 2,Colombia,2016,UNIVERSIDAD PONTIFICIA BOLIVARIANA,HEIDI SMITH PULIDO VARON,4
+00283,008,Curso de Corta Duración Dictados,Extensión extracurricular,Seminario de Formación Investigativa 2,Colombia,2016,UNIVERSIDAD PONTIFICIA BOLIVARIANA,HEIDI SMITH PULIDO VARON,4
+00284,008,Curso de Corta Duración Dictados,Especialización,Trabajo de grado,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,SONIA NATALIA COGOLLO OSPINA,4
+00285,008,Curso de Corta Duración Dictados,Extensión extracurricular,Individuo y Desarrollo Social.,Colombia,2016,FUNDACIÓN UNIVERSIDAD DEL NORTE,JOHN JAIRO GARCIA PENA,4
+00286,008,Curso de Corta Duración Dictados,Extensión extracurricular,Seminario de Formación Investgiativa,Colombia,2016,UNIVERSIDAD PONTIFICIA BOLIVARIANA,HEIDI SMITH PULIDO VARON,4
+00287,008,Curso de Corta Duración Dictados,Especialización,Semianrio de Formación Investigativa,Colombia,2016,UNIVERSIDAD PONTIFICIA BOLIVARIANA,HEIDI SMITH PULIDO VARON,4
+00288,008,Curso de Corta Duración Dictados,Especialización,Introducción a la Epistemología de la Psicología Social,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,NICOLASA MARIA DURAN PALACIO,4
+00289,008,Curso de Corta Duración Dictados,Perfeccionamiento,Curso Una mirada crítica al enfoque de habilidades para la vida,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,MAGDA VICTORIA DIAZ ALZATE,4
+00290,008,Curso de Corta Duración Dictados,Especialización,Seminario de Formación Investigativa,Colombia,2016,UNIVERSIDAD PONTIFICIA BOLIVARIANA,HEIDI SMITH PULIDO VARON,4
+00291,008,Curso de Corta Duración Dictados,Especialización,Seminario de Formación Investigativa,Colombia,2016,UNIVERSIDAD PONTIFICIA BOLIVARIANA,HEIDI SMITH PULIDO VARON,4
+00292,008,Curso de Corta Duración Dictados,Especialización,Escribir para publicar,Colombia,2015,TECNOLOGICO DE ANTIOQUIA INSTITUCION UNIVERSITARIA,SONIA NATALIA COGOLLO OSPINA,4
+00293,008,Curso de Corta Duración Dictados,Otro,Seminario de énfasis de línea II,Colombia,2015,UNIVERSIDAD DE SAN BUENAVENTURA - SEDE MEDELLÍN,MONICA ALZATE GARCIA,4
+00294,008,Curso de Corta Duración Dictados,Otro,Curso de Investigación Avanzada II,Colombia,2015,UNIVERSIDAD DE SAN BUENAVENTURA - SEDE MEDELLÍN,MONICA ALZATE GARCIA,4
+00295,008,Curso de Corta Duración Dictados,Otro,Módulo Perspectivas teóricas de análisis de conflictos desde los movimientos populares,Colombia,2015,,MONICA ALZATE GARCIA,4
+00296,008,Curso de Corta Duración Dictados,Perfeccionamiento,Psicoética y Deontología de la Psicología,Colombia,2014,UNIVERSIDAD DE ANTIOQUIA,NICOLASA MARIA DURAN PALACIO,4
+00297,008,Curso de Corta Duración Dictados,Especialización,Metodología de Intervención,Colombia,2014,,PAULA VANESSA SANCHEZ AGUDELO,4
+00298,008,Curso de Corta Duración Dictados,Otro,Teoría de las Ciencias Sociales,Colombia,2014,UNIVERSIDAD DE ANTIOQUIA,NICOLASA MARIA DURAN PALACIO,4
+00299,008,Curso de Corta Duración Dictados,Extensión extracurricular,Epistemología de las Ciencias Sociales,Colombia,2014,UNIVERSIDAD CATOLICA LUIS AMIGO,NICOLASA MARIA DURAN PALACIO,4
+00300,008,Curso de Corta Duración Dictados,Otro,Conceptos psicológicos y problemáticas sociales.,Colombia,2013,FUNDACION HOGARES CLARET,JOHN JAIRO GARCIA PENA,4
+00301,008,Curso de Corta Duración Dictados,Extensión extracurricular,Ética Profesional,Colombia,2013,,NICOLASA MARIA DURAN PALACIO,4
+00302,008,Curso de Corta Duración Dictados,Extensión extracurricular,Seminario Perspectiva Psicológica de lo Psicosocial,Colombia,2013,,NICOLASA MARIA DURAN PALACIO,4
+00303,008,Curso de Corta Duración Dictados,Especialización,Epistemología de la Psicología Social,Colombia,2013,,JAIME ALBERTO CARMONA PARRA,4
+00304,008,Curso de Corta Duración Dictados,Otro,Seminario teórico Historia de la Psicología,Colombia,2013,,NICOLASA MARIA DURAN PALACIO,4
+00305,008,Curso de Corta Duración Dictados,Extensión extracurricular,Seminario de Comunicación pensamiento y lenguaje,Colombia,2013,,JAIME ALBERTO CARMONA PARRA,4
+00306,008,Curso de Corta Duración Dictados,Especialización,Estrategias y Evaluación de programas de Prevención.,Colombia,2012,UNIVERSIDAD CATOLICA LUIS AMIGO,JOHN JAIRO GARCIA PENA,4
+00307,008,Curso de Corta Duración Dictados,Especialización,Psicología social latinoamericana,Colombia,2012,,JAIME ALBERTO CARMONA PARRA,4
+00308,008,Curso de Corta Duración Dictados,Extensión extracurricular,La prevención del suicidio en el escenario escolar,Puerto Rico,2012,Pontificia Universidad Católica de Puerto Rico,JAIME ALBERTO CARMONA PARRA,4
+00309,008,Curso de Corta Duración Dictados,Otro,El interaccionismo Simbólico como fundamento de la teoría fundamentada,Colombia,2011,UNIVERSIDAD DE ANTIOQUIA,JAIME ALBERTO CARMONA PARRA,4
+00310,008,Curso de Corta Duración Dictados,Extensión extracurricular,El suicidio en el escenario universitario a la luz de la psicología social,Argentina,2010,,JAIME ALBERTO CARMONA PARRA,4
+00311,008,Curso de Corta Duración Dictados,Extensión extracurricular,El suicidio en la pubertad y la adolescencia,Argentina,2010,Asociación Argentina de Prevención del Suicidio,JAIME ALBERTO CARMONA PARRA,4
+00312,008,Curso de Corta Duración Dictados,Extensión extracurricular,Experiencias significativas de intervención psicosocial en Medellín,Argentina,2010,,JAIME ALBERTO CARMONA PARRA,4
+00313,008,Curso de Corta Duración Dictados,Especialización,Experiencias de contexto de Intervenciones Psicosociales.,Colombia,2010,UNIVERSIDAD CATOLICA LUIS AMIGO,JOHN JAIRO GARCIA PENA,4
+00314,008,Curso de Corta Duración Dictados,Extensión extracurricular,Introducción a la psicología social,Colombia,2010,FUNDACION UNIVERSITARIA CLARETIANA,JAIME ALBERTO CARMONA PARRA,4
+00315,008,Curso de Corta Duración Dictados,Extensión extracurricular,Niñez y conflicto armado,Colombia,2007,Personería De Medellín,JOHN FELIPE TOBON HOYOS,4
+00316,009,Curso de Corta Duración Dictados,Extensión extracurricular,PROCESAMIENTO DE LA INFORMACIÓN,Colombia,2020,UNIVERSIDAD CATOLICA LUIS AMIGO,HUBER YECID CASTRO ESCOBAR,4
+00317,009,Curso de Corta Duración Dictados,Otro,"Intervenciones psicosociales con individuos, familias y comunidades",Colombia,2019,Universidad del Sinú - Elías Bechara Zainum,LIVIA DIAZ GONZALEZ,4
+00318,009,Curso de Corta Duración Dictados,Otro,Reflexiones éticas en la intervención psicosocial,Colombia,2019,Universidad del Sinú - Elías Bechara Zainum,LIVIA DIAZ GONZALEZ,4
+00319,009,Curso de Corta Duración Dictados,Otro,"Problemas sociales, contexto y desarrollos teóricos para la intervención psicosocial.",Colombia,2019,Universidad del Sinú - Elías Bechara Zainum,LIVIA DIAZ GONZALEZ,4
+00320,009,Curso de Corta Duración Dictados,Otro,Proyectos y programas de intervención psicosocial.,Colombia,2019,Universidad del Sinú - Elías Bechara Zainum,LIVIA DIAZ GONZALEZ,4
+00321,009,Curso de Corta Duración Dictados,Otro,La intervención psicosocial epistemología y características.,Colombia,2019,Universidad del Sinú - Elías Bechara Zainum,LIVIA DIAZ GONZALEZ,4
+00322,009,Curso de Corta Duración Dictados,Extensión extracurricular,Teoría Epistemológica y técnicas del Derecho Legislado Colombiano II,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,CARLOS RODRIGUEZ SANTOS,4
+00323,009,Curso de Corta Duración Dictados,Extensión extracurricular,Teoría Epistemológica y técnicas del Derecho Legislado Colombiano,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,CARLOS RODRIGUEZ SANTOS,4
+00324,009,Curso de Corta Duración Dictados,Extensión extracurricular,INVESTIGACIÓN EDUCATIVA,Colombia,2018,,VICTOR TERAN REALES,4
+00325,009,Curso de Corta Duración Dictados,Extensión extracurricular,Semillero - Camino a la Libertad,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,LUISA FERNANDA MADRID BOTERO,4
+00326,009,Curso de Corta Duración Dictados,Otro,DERECHO INTERDISCIPLINARIO,Colombia,2017,,FABIO PATINO NAVAS,4
+00327,009,Curso de Corta Duración Dictados,Extensión extracurricular,Semillero - Problemáticas Socio jurídicas Contemporáneas,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,EDGARDO HIRAM SANTIS CABALLERO,4
+00328,009,Curso de Corta Duración Dictados,Extensión extracurricular,NORMALIDAD Y PSICOPATOLOGIA,Colombia,2017,UNIVERSIDAD COOPERATIVA DE COLOMBIA,PAULJAVIER BEDOYA PASTRANA,4
+00329,009,Curso de Corta Duración Dictados,Extensión extracurricular,Software Infantil,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,HUBER YECID CASTRO ESCOBAR,4
+00330,009,Curso de Corta Duración Dictados,Especialización,GERENCIA AMBIENTAL,Colombia,2017,,FABIO PATINO NAVAS,4
+00331,009,Curso de Corta Duración Dictados,Extensión extracurricular,CLINICA COGNITIVO CONDUCTUAL,Colombia,2017,,PAULJAVIER BEDOYA PASTRANA,4
+00332,009,Curso de Corta Duración Dictados,Extensión extracurricular,SEMINARIO DE PRACTICAS CLINICA,Colombia,2017,,PAULJAVIER BEDOYA PASTRANA,4
+00333,009,Curso de Corta Duración Dictados,Extensión extracurricular,NOVEDADES U CRITERIOS DIAGNOSTICOS DEL DSM 5,Colombia,2017,,PAULJAVIER BEDOYA PASTRANA,4
+00334,009,Curso de Corta Duración Dictados,Extensión extracurricular,PRACTICA PSICOLOGIA CLINICA,Colombia,2016,,PAULJAVIER BEDOYA PASTRANA,4
+00335,009,Curso de Corta Duración Dictados,Extensión extracurricular,Teoría y modelos pedagógicos y didacticos,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,HUBER YECID CASTRO ESCOBAR,4
+00336,009,Curso de Corta Duración Dictados,Extensión extracurricular,INVESTIGACION EDUCATIVA EN LA UNIVERSIDAD,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,VICTOR TERAN REALES,4
+00337,009,Curso de Corta Duración Dictados,Extensión extracurricular,Herramientas para el análisis de la Información,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,HUBER YECID CASTRO ESCOBAR,4
+00338,009,Curso de Corta Duración Dictados,Extensión extracurricular,Competencias Fundamentales en TIC en Derecho,Colombia,2016,,HUBER YECID CASTRO ESCOBAR,4
+00339,009,Curso de Corta Duración Dictados,Extensión extracurricular,Trabajo de Grado,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,HUBER YECID CASTRO ESCOBAR,4
+00340,009,Curso de Corta Duración Dictados,Extensión extracurricular,TECNICAS COGNITIVO CONDUCTUALES,Colombia,2016,,PAULJAVIER BEDOYA PASTRANA,4
+00341,009,Curso de Corta Duración Dictados,Extensión extracurricular,PROBLEMAS DE APRENDIZAJE,Colombia,2016,,PAULJAVIER BEDOYA PASTRANA,4
+00342,009,Curso de Corta Duración Dictados,Extensión extracurricular,INVESTIGACIÓN EDUCATIVA EN EL PROGRAMA DE FORMACIÓN PEDAGÓGICA A PROFESIONALES NO LICENCIADOS,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,VICTOR TERAN REALES,4
+00343,009,Curso de Corta Duración Dictados,Extensión extracurricular,INVESTIGACION EDUCATIVA EN EL PROGRAMA DE FORMACIÓN PEDAGÓGICA PARA PROFESIONALES NO LICENCIADOS,Colombia,2015,UNIVERSIDAD CATOLICA LUIS AMIGO,VICTOR TERAN REALES,4
+00344,009,Curso de Corta Duración Dictados,Extensión extracurricular,Redes Academicas,Colombia,2015,UNIVERSIDAD CATOLICA LUIS AMIGO,HUBER YECID CASTRO ESCOBAR,4
+00345,009,Curso de Corta Duración Dictados,Extensión extracurricular,Fundamentos de Estadísticas,Colombia,2015,UNIVERSIDAD CATOLICA LUIS AMIGO,HUBER YECID CASTRO ESCOBAR,4
+00346,009,Curso de Corta Duración Dictados,Extensión extracurricular,COMPONENTE LAS TIC EN LA EDUCACION,Colombia,2014,,HUBER YECID CASTRO ESCOBAR,4
+00347,009,Curso de Corta Duración Dictados,Extensión extracurricular,Curso identidad Amigonina,Colombia,2014,,MERY RAQUEL CARDONA OVIEDO,4
+00348,009,Curso de Corta Duración Dictados,Extensión extracurricular,Programa de transformacion de la calidad educativa componente de formacion situada,Colombia,2014,Ministerio de Educación,MARIA CLAUDIA DIAZ SOTOMAYOR,4
+00349,009,Curso de Corta Duración Dictados,Perfeccionamiento,Taller para la elaboración del plan departamental de reducción de la oferta de sustancias Psicoactivas de Cordoba,Colombia,2013,Gobernación De Córdoba - Departamento Administrativo De Planeación,MARIA CLAUDIA DIAZ SOTOMAYOR,4
+00350,009,Curso de Corta Duración Dictados,Extensión extracurricular,TECNICAS BASICAS EN SOFTWARE APLICADO A ACTIVIDADES DE INVESTIGACIÓN Y PRODUCCIÓN CIENTÍFICA,Colombia,2012,UNIVERSIDAD CATOLICA LUIS AMIGO,VICTOR TERAN REALES,4
+00351,009,Curso de Corta Duración Dictados,Perfeccionamiento,Curso en tecnicas basicas en Software aplicado a actividades de investigaciòn y producciòn cientifica.,Colombia,2012,,GUSTAVO ANTONIO BRUNAL GONZALEZ,4
+00352,009,Curso de Corta Duración Dictados,Extensión extracurricular,IV FORO SOBRE DERECHOS HUMANOS,Colombia,2012,,MARIA CLAUDIA DIAZ SOTOMAYOR,4
+00353,009,Curso de Corta Duración Dictados,Extensión extracurricular,Bullying,Colombia,2012,UNIVERSIDAD CATOLICA LUIS AMIGO,MARIA CLAUDIA DIAZ SOTOMAYOR,4
+00354,009,Curso de Corta Duración Dictados,Perfeccionamiento,Ley de victimas,Colombia,2012,,GUSTAVO ANTONIO BRUNAL GONZALEZ,4
+00355,009,Curso de Corta Duración Dictados,Perfeccionamiento,Convenciòn nacional de Tratamiento y Desarrollo,Colombia,2011,,GUSTAVO ANTONIO BRUNAL GONZALEZ,4
+00356,009,Curso de Corta Duración Dictados,Extensión extracurricular,Uso pedagógico de medios audiovisuales y radio - Palmira,Colombia,2010,Ministerio De Educación Nacional - Mineducación,"GLENIS BIBIANA ALVAREZ QUIROZ, MARTHA CECILIA ROMERO MORENO",4
+00357,009,Curso de Corta Duración Dictados,Extensión extracurricular,Uso pedagógico de medios audiovisuales y radio - Cartago,Colombia,2010,Ministerio De Educación Nacional - Mineducación,"GLENIS BIBIANA ALVAREZ QUIROZ, MARTHA CECILIA ROMERO MORENO",4
+00358,009,Curso de Corta Duración Dictados,Extensión extracurricular,Uso pedagógico de medios audiovisuales y radio - Sincelejo,Colombia,2010,Ministerio De Educación Nacional - Mineducación,"GLENIS BIBIANA ALVAREZ QUIROZ, MARTHA CECILIA ROMERO MORENO",4
+00359,009,Curso de Corta Duración Dictados,Extensión extracurricular,Uso pedagógico de medios audiovisuales y radio - Popayan,Colombia,2010,Ministerio De Educación Nacional - Mineducación,"GLENIS BIBIANA ALVAREZ QUIROZ, MARTHA CECILIA ROMERO MORENO",4
+00360,009,Curso de Corta Duración Dictados,Perfeccionamiento,Empoderamiento Laboral,Colombia,2010,,GUSTAVO ANTONIO BRUNAL GONZALEZ,4
+00361,009,Curso de Corta Duración Dictados,Extensión extracurricular,Uso pedagógico de medios audiovisuales y radio - Uribia,Colombia,2010,Ministerio De Educación Nacional - Mineducación,"GLENIS BIBIANA ALVAREZ QUIROZ, MARTHA CECILIA ROMERO MORENO",4
+00362,009,Curso de Corta Duración Dictados,Extensión extracurricular,Uso pedagógico de medios audiovisuales y radio - Sahagún,Colombia,2010,Ministerio De Educación Nacional - Mineducación,"GLENIS BIBIANA ALVAREZ QUIROZ, MARTHA CECILIA ROMERO MORENO",4
+00363,009,Curso de Corta Duración Dictados,Extensión extracurricular,Uso pedagógico de medios audiovisuales y radio - Valledupar,Colombia,2010,Ministerio De Educación Nacional - Mineducación,"GLENIS BIBIANA ALVAREZ QUIROZ, MARTHA CECILIA ROMERO MORENO",4
+00364,009,Curso de Corta Duración Dictados,Extensión extracurricular,Uso pedagógico de medios audiovisuales y radio - Montería,Colombia,2010,Ministerio De Educación Nacional - Mineducación,"GLENIS BIBIANA ALVAREZ QUIROZ, MARTHA CECILIA ROMERO MORENO",4
+00365,009,Curso de Corta Duración Dictados,Extensión extracurricular,Uso pedagógico de medios audiovisuales y radio - Lorica,Colombia,2010,Ministerio De Educación Nacional - Mineducación,"GLENIS BIBIANA ALVAREZ QUIROZ, MARTHA CECILIA ROMERO MORENO",4
+00366,009,Curso de Corta Duración Dictados,Extensión extracurricular,Uso pedagógico de medios audiovisuales y radio - Canalete,Colombia,2010,Ministerio De Educación Nacional - Mineducación,"GLENIS BIBIANA ALVAREZ QUIROZ, MARTHA CECILIA ROMERO MORENO",4
+00367,009,Curso de Corta Duración Dictados,Extensión extracurricular,Uso pedagógico de medios audiovisuales y radio - Pueblo Nuevo,Colombia,2010,Ministerio De Educación Nacional - Mineducación,"GLENIS BIBIANA ALVAREZ QUIROZ, MARTHA CECILIA ROMERO MORENO",4
+00368,009,Curso de Corta Duración Dictados,Perfeccionamiento,DESARROLLO SOCIAL Y PERSPECTIVAS EDUCATIVAS DE LOS NIÑOS (AS) DEL DEPARTAMENTO DE CORDOBA.,Colombia,2009,,GUSTAVO ANTONIO BRUNAL GONZALEZ,4
+00369,009,Curso de Corta Duración Dictados,Perfeccionamiento,Seminario Psicologìa Jurìdica,Colombia,2009,,GUSTAVO ANTONIO BRUNAL GONZALEZ,4
+00370,009,Curso de Corta Duración Dictados,Extensión extracurricular,Seminario avances en Psicologìa Juridica y criminologìa,Colombia,2009,,GUSTAVO ANTONIO BRUNAL GONZALEZ,4
+00371,009,Curso de Corta Duración Dictados,Perfeccionamiento,FORMACIÓN DE ASESORADOS PROGRAMA ENTRE PARES.,Colombia,2009,,FRANCISCO WILLIAM MERCADO MERCADO,4
+00372,009,Curso de Corta Duración Dictados,Perfeccionamiento,FORMACIÓN Y CUALIFICACIÓN DOCENTE EN PLANEACIÓN Y EVALUACIÓN DEL APRENDIZAJE EN EL AULA.,Colombia,2008,,FRANCISCO WILLIAM MERCADO MERCADO,4
+00373,009,Curso de Corta Duración Dictados,Perfeccionamiento,GESTIÓN DE PROYECTOS AMBIENTALES. DIPLOMADO EN EL MARCO DEL PROYECTO CAEC.,Colombia,2008,Corporación Autónoma Regional de los Valles del Sinú y del San Jorge,FRANCISCO WILLIAM MERCADO MERCADO,4
+00374,009,Curso de Corta Duración Dictados,Perfeccionamiento,DISEÑO Y ELABORACIÓN DE TEXTOS PRETEXTOS. DIPLOMADO EN EL MARCO DEL PROYECTO CAEC.,Colombia,2007,Corporación Autónoma Regional de los Valles del Sinú y del San Jorge,FRANCISCO WILLIAM MERCADO MERCADO,4
+00375,009,Curso de Corta Duración Dictados,Perfeccionamiento,PEDAGOGÍA PARA LA CONSTRUCCIÓN DE CULTURA AMBIENTAL. DIPLOMADO EN EL MARCO DEL PROYECTO CAEC.,Colombia,2006,Corporación Autónoma Regional de los Valles del Sinú y del San Jorge,FRANCISCO WILLIAM MERCADO MERCADO,4
+00376,009,Curso de Corta Duración Dictados,Otro,Manipulaciòn de Alimentos.,Colombia,2006,,CLARA HELENA GENES BITAR,4
+00377,009,Curso de Corta Duración Dictados,Perfeccionamiento,PEDAGOGÍA Y EPISTEMOLOGÍA DE LA EDUCACIÓN EN EL DIPLOMADO PARA DOCENTES NO LICENCIADOS.,Colombia,2006,UNIVERSIDAD CATOLICA LUIS AMIGO,FRANCISCO WILLIAM MERCADO MERCADO,4
+00378,009,Curso de Corta Duración Dictados,Perfeccionamiento,SEMINARIO-TALLER,Colombia,2005,Gobernación De Córdoba,FRANCISCO WILLIAM MERCADO MERCADO,4
+00379,009,Curso de Corta Duración Dictados,Perfeccionamiento,SEMINARIO-TALLER,Colombia,2005,"Ministerio de Ciencia, Tecnología e Innovación.",FRANCISCO WILLIAM MERCADO MERCADO,4
+00380,009,Curso de Corta Duración Dictados,Extensión extracurricular,DIPLOMADO EN PERSPECTIVAS DE LA PEDAGOGIA SOCIAL EN EL CONTEXTO DE LAS TEORÍAS CRITICAS DE LA EDUCACIÓN,Colombia,2002,UNIVERSIDAD CATOLICA LUIS AMIGO,VICTOR TERAN REALES,4
+00381,010,Curso de Corta Duración Dictados,Otro,Trastornos de la infancia y la adolescencia desde una mirada neuropsicologica para el sistema de responsabilidad penal,Colombia,2019,,ROLAN CORREA LOPEZ,4
+00382,010,Curso de Corta Duración Dictados,Extensión extracurricular,Aspectos psicosociales de la migración,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,"BENILDA LAYNE BERNAL, PEDRO ALVAREZ MASSI",4
+00383,010,Curso de Corta Duración Dictados,Extensión extracurricular,Metodología de la Investigación Educativa,Colombia,2018,UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS,SANDRA LUZ CASTRO LESMES,4
+00384,010,Curso de Corta Duración Dictados,Extensión extracurricular,Diplomado Consejeros Terapéuticos Virtual 2018 Universidad Católica Luis Amigó,Colombia,2018,,YENNY MARCELA GONZALEZ TELLEZ,4
+00385,010,Curso de Corta Duración Dictados,Extensión extracurricular,Estrategias de afrontamiento del cyberbullying,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,"BENILDA LAYNE BERNAL, PEDRO ALVAREZ MASSI",4
+00386,010,Curso de Corta Duración Dictados,Extensión extracurricular,Diplomado Virtual en formación de consejeros terapéuticos para drogodependencias,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,VIVIANA CARMENZA AVILA NAVARRETE,4
+00387,010,Curso de Corta Duración Dictados,Extensión extracurricular,Seminario Internacional Atención psicosocial en desastres y postconflicto,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,"BENILDA LAYNE BERNAL, PEDRO ALVAREZ MASSI",4
+00388,010,Curso de Corta Duración Dictados,Perfeccionamiento,Interculturalidad y Educación para La Paz,Colombia,2016,UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS,SANDRA LUZ CASTRO LESMES,4
+00389,010,Curso de Corta Duración Dictados,Extensión extracurricular,DIPLOMADO EN FORMACIÓN DE CONSEJEROS TERAPÉUTICOS PARA DROGODEPENDENCIAS,Colombia,2015,,VIVIANA CARMENZA AVILA NAVARRETE,4
+00390,010,Curso de Corta Duración Dictados,Extensión extracurricular,DIPLOMADO EN DESARROLLO EVOLUTIVO Y ESPIRITUALIDAD,Colombia,2015,,VIVIANA CARMENZA AVILA NAVARRETE,4
+00391,010,Curso de Corta Duración Dictados,Extensión extracurricular,Módulo Intervención Terapéutica con poblaciones Especiales -Diplomado Consejeros Terapéuticos,Colombia,2014,,SANDRA LUZ CASTRO LESMES,4
+00392,010,Curso de Corta Duración Dictados,Extensión extracurricular,Diplomatura Formaciòn De Consejeros Terapèuticos En Drogodependencias,Colombia,2014,UNIVERSIDAD CATOLICA LUIS AMIGO,VIVIANA CARMENZA AVILA NAVARRETE,4
+00393,010,Curso de Corta Duración Dictados,Especialización,Seminario de Grado II,Colombia,2014,UNIVERSIDAD CATOLICA LUIS AMIGO,VIVIANA CARMENZA AVILA NAVARRETE,4
+00394,010,Curso de Corta Duración Dictados,Especialización,Seminario de Grado I,Colombia,2013,UNIVERSIDAD CATOLICA LUIS AMIGO,VIVIANA CARMENZA AVILA NAVARRETE,4
+00395,011,Curso de Corta Duración Dictados,Extensión extracurricular,PERSPECTIVA MULTIDIMENSIONAL EN PREVENCIÓN Y TRATAMIENTO DE ADICCIONES,Argentina,2023,Universidad Nacional de Córdoba,SANDRA MILENA RESTREPO ESCOBAR,4
+00396,011,Curso de Corta Duración Dictados,Extensión extracurricular,Seminario Onboarding,Colombia,2023,UNIVERSIDAD CATOLICA LUIS AMIGO,OLGA LUCILA GUARIN BECERRA,4
+00397,011,Curso de Corta Duración Dictados,Extensión extracurricular,Seminario de adicciones en escenarios laborales,Colombia,2022,UNIVERSIDAD CATOLICA LUIS AMIGO,OLGA LUCILA GUARIN BECERRA,4
+00398,011,Curso de Corta Duración Dictados,Extensión extracurricular,ACTUALIZACIÓN EN PREVENCIÓN Y TRATAMIENTO DE LAS ADICCIONES,Argentina,2021,Universidad Nacional de Córdoba,SANDRA MILENA RESTREPO ESCOBAR,4
+00399,011,Curso de Corta Duración Dictados,Extensión extracurricular,Foro Internacional Resultados de Aprendizaje y Calidad en la Educación Superior.,Colombia,2020,Ministerio De Educación Nacional - Mineducación,ALEXANDER RODRIGUEZ BUSTAMANTE,4
+00400,011,Curso de Corta Duración Dictados,Extensión extracurricular,"5to Encuentro Nacional y 4to internacional en Pedagogía, Investigación y Cultura",Colombia,2020,Universidad Mariana - Unimar,ALEXANDER RODRIGUEZ BUSTAMANTE,4
+00401,011,Curso de Corta Duración Dictados,Especialización,Prevención y tratamiento de las adicciones,Argentina,2020,Universidad Nacional de Córdoba,SANDRA MILENA RESTREPO ESCOBAR,4
+00402,011,Curso de Corta Duración Dictados,Extensión extracurricular,Curso Gestión de las Instituciones de Educación Superior,Colombia,2020,Asociación Colombiana De Universidades - Ascun,ALEXANDER RODRIGUEZ BUSTAMANTE,4
+00403,011,Curso de Corta Duración Dictados,Otro,Teoría de grupos,Colombia,2020,TECNOLOGICO DE ANTIOQUIA INSTITUCION UNIVERSITARIA,YUSTY CAROLINA RESTREPO SEGURA,4
+00404,011,Curso de Corta Duración Dictados,Perfeccionamiento,Seminario de linea II Maestria en Intervenciones Psicosociales,Colombia,2020,UNIVERSIDAD CATOLICA LUIS AMIGO,YUSTY CAROLINA RESTREPO SEGURA,4
+00405,011,Curso de Corta Duración Dictados,Perfeccionamiento,Seminario de linea I Maestría en educación,Colombia,2020,UNIVERSIDAD CATOLICA LUIS AMIGO,YUSTY CAROLINA RESTREPO SEGURA,4
+00406,011,Curso de Corta Duración Dictados,Perfeccionamiento,Seminario de línea I Maestría en Intervenciones Psicosociales,Colombia,2020,UNIVERSIDAD CATOLICA LUIS AMIGO,YUSTY CAROLINA RESTREPO SEGURA,4
+00407,011,Curso de Corta Duración Dictados,Extensión extracurricular,"Relación entre desarrollo, educación y aprendizaje I",Colombia,2020,UNIVERSIDAD DE ANTIOQUIA,YUSTY CAROLINA RESTREPO SEGURA,4
+00408,011,Curso de Corta Duración Dictados,Otro,Intervención de grupos,Colombia,2020,TECNOLOGICO DE ANTIOQUIA INSTITUCION UNIVERSITARIA,YUSTY CAROLINA RESTREPO SEGURA,4
+00409,011,Curso de Corta Duración Dictados,Otro,Práctica profesional I,Colombia,2020,TECNOLOGICO DE ANTIOQUIA INSTITUCION UNIVERSITARIA,YUSTY CAROLINA RESTREPO SEGURA,4
+00410,011,Curso de Corta Duración Dictados,Especialización,Curso formulación y evaluación de Proyectos,Colombia,2019,CORPORACIÓN UNIVERSITARIA REMINGTON,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00411,011,Curso de Corta Duración Dictados,Especialización,"curso Historia, geopolítica y Aspectos socioculturales de las drogas",Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00412,011,Curso de Corta Duración Dictados,Especialización,Neuropsicología de los procesos cognitivos,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,DUBIS MARCELA RINCON BARRETO,4
+00413,011,Curso de Corta Duración Dictados,Extensión extracurricular,diplomado virtual Diseño de rúbricas en ciencias sociales,Colombia,2018,UNIVERSIDAD COOPERATIVA DE COLOMBIA,LEIDY TATIANA CASTANEDA QUIRAMA,4
+00414,011,Curso de Corta Duración Dictados,Especialización,Curso Fundamentos para la dirección de proyectos,Colombia,2018,CORPORACIÓN UNIVERSITARIA REMINGTON,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00415,011,Curso de Corta Duración Dictados,Extensión extracurricular,I Congreso Nacional en Neuropsicopedagogía,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,DUBIS MARCELA RINCON BARRETO,4
+00416,011,Curso de Corta Duración Dictados,Especialización,"curso Historia, geopolítica y Aspectos socioculturales de las drogas",Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00417,011,Curso de Corta Duración Dictados,Extensión extracurricular,Psicopatología de los trastornos de ansiedad y depresión desde una mirada cognitivo conductual,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,LEIDY TATIANA CASTANEDA QUIRAMA,4
+00418,011,Curso de Corta Duración Dictados,Especialización,curso formulación de proyectos,Colombia,2018,CORPORACIÓN UNIVERSITARIA REMINGTON,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00419,011,Curso de Corta Duración Dictados,Extensión extracurricular,"curso Historia, geopolítica y Aspectos socioculturales de las drogas",Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00420,011,Curso de Corta Duración Dictados,Extensión extracurricular,Psicofarmacología para Psicólogos,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,SANDRA MILENA RESTREPO ESCOBAR,4
+00421,011,Curso de Corta Duración Dictados,Extensión extracurricular,Juventudes y Adicciones,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,SANDRA MILENA RESTREPO ESCOBAR,4
+00422,011,Curso de Corta Duración Dictados,Extensión extracurricular,Diplomado en Adicciones,Colombia,2015,,SANDRA MILENA RESTREPO ESCOBAR,4
+00423,011,Curso de Corta Duración Dictados,Extensión extracurricular,Diplomado en Adicciones,Colombia,2015,UNIVERSIDAD DE ANTIOQUIA,SANDRA MILENA RESTREPO ESCOBAR,4
+00424,011,Curso de Corta Duración Dictados,Extensión extracurricular,PSICOPATOLOGIA,Colombia,2014,UNIVERSIDAD CATOLICA LUIS AMIGO,NICOLAS IGNACIO URIBE ARAMBURO,4
+00425,011,Curso de Corta Duración Dictados,Otro,Adicciones en poblaciones Especiales,Colombia,2014,UNIVERSIDAD CATOLICA LUIS AMIGO,SANDRA MILENA RESTREPO ESCOBAR,4
+00426,011,Curso de Corta Duración Dictados,Extensión extracurricular,Diplomado en Adicciones,Colombia,2014,UNIVERSIDAD DE ANTIOQUIA,SANDRA MILENA RESTREPO ESCOBAR,4
+00427,011,Curso de Corta Duración Dictados,Extensión extracurricular,Investigacion III,Colombia,2014,UNIVERSIDAD DE SAN BUENAVENTURA - SEDE MEDELLÍN,NICOLAS IGNACIO URIBE ARAMBURO,4
+00428,011,Curso de Corta Duración Dictados,Extensión extracurricular,seminario,Colombia,2014,,NICOLAS IGNACIO URIBE ARAMBURO,4
+00429,011,Curso de Corta Duración Dictados,Extensión extracurricular,Seminario,Colombia,2014,,NICOLAS IGNACIO URIBE ARAMBURO,4
+00430,011,Curso de Corta Duración Dictados,Extensión extracurricular,Psicologia Clinica,Colombia,2014,,NICOLAS IGNACIO URIBE ARAMBURO,4
+00431,011,Curso de Corta Duración Dictados,Extensión extracurricular,"Trabajo de Grado II. Drogas, arte y locura.",Colombia,2014,,NICOLAS IGNACIO URIBE ARAMBURO,4
+00432,011,Curso de Corta Duración Dictados,Extensión extracurricular,Pruebas psicologicas en el escenario clinico,Colombia,2014,,NICOLAS IGNACIO URIBE ARAMBURO,4
+00433,011,Curso de Corta Duración Dictados,Extensión extracurricular,Psicologia comunitaria,Colombia,2014,,NICOLAS IGNACIO URIBE ARAMBURO,4
+00434,011,Curso de Corta Duración Dictados,Extensión extracurricular,Psicologia social I.,Colombia,2013,UNIVERSIDAD DE SAN BUENAVENTURA - SEDE MEDELLÍN,NICOLAS IGNACIO URIBE ARAMBURO,4
+00435,011,Curso de Corta Duración Dictados,Especialización,Investigación y trabajo de grado I,Colombia,2013,UNIVERSIDAD CATOLICA LUIS AMIGO,SANDRA MILENA RESTREPO ESCOBAR,4
+00436,011,Curso de Corta Duración Dictados,Extensión extracurricular,seminario,Colombia,2013,,NICOLAS IGNACIO URIBE ARAMBURO,4
+00437,011,Curso de Corta Duración Dictados,Extensión extracurricular,Desarrollo Humano,Colombia,2013,UNIVERSIDAD CATOLICA LUIS AMIGO,SANDRA MILENA RESTREPO ESCOBAR,4
+00438,011,Curso de Corta Duración Dictados,Extensión extracurricular,"Trabajo de Grado I. Drogas, arte y locura.",Colombia,2013,,NICOLAS IGNACIO URIBE ARAMBURO,4
+00439,011,Curso de Corta Duración Dictados,Especialización,Otras dependencias no químicas,Colombia,2013,UNIVERSIDAD CATOLICA LUIS AMIGO,SANDRA MILENA RESTREPO ESCOBAR,4
+00440,011,Curso de Corta Duración Dictados,Extensión extracurricular,Desarrollo Humano,Colombia,2013,UNIVERSIDAD CATOLICA LUIS AMIGO,SANDRA MILENA RESTREPO ESCOBAR,4
+00441,011,Curso de Corta Duración Dictados,Especialización,Otras Dependencias no químicas,Colombia,2012,UNIVERSIDAD CATOLICA LUIS AMIGO,SANDRA MILENA RESTREPO ESCOBAR,4
+00442,011,Curso de Corta Duración Dictados,Extensión extracurricular,Consumo de drogas y barras de futbol,Colombia,2012,UNIVERSIDAD CATOLICA LUIS AMIGO,NICOLAS IGNACIO URIBE ARAMBURO,4
+00443,011,Curso de Corta Duración Dictados,Extensión extracurricular,Trabajo de Grado III. Farmacodependencia y Psicologia Social. 2012.,Colombia,2012,UNIVERSIDAD CATOLICA LUIS AMIGO,NICOLAS IGNACIO URIBE ARAMBURO,4
+00444,011,Curso de Corta Duración Dictados,Perfeccionamiento,Taller de capacitación,Venezuela,2012,Universidad de los Andes Venezuela,GUILLERMO ALONSO CASTANO PEREZ,4
+00445,011,Curso de Corta Duración Dictados,Extensión extracurricular,Trabajo de grado I. Consumo de drogas y barras de futbol.,Colombia,2012,UNIVERSIDAD CATOLICA LUIS AMIGO,NICOLAS IGNACIO URIBE ARAMBURO,4
+00446,011,Curso de Corta Duración Dictados,Extensión extracurricular,Trabajo de Grado II. Farmacodepdencia y psicologia social.,Colombia,2012,UNIVERSIDAD CATOLICA LUIS AMIGO,NICOLAS IGNACIO URIBE ARAMBURO,4
+00447,011,Curso de Corta Duración Dictados,Extensión extracurricular,Diseño y Desarrollo de programas de Prevencional consumo/abuso de drogas en el ambito universitario,Colombia,2011,Alcaldia Municipal De Manizales,GUILLERMO ALONSO CASTANO PEREZ,4
+00448,011,Curso de Corta Duración Dictados,Perfeccionamiento,Entrenamiento en Universidades de Manizales para la elaboración de programas de prevención,Colombia,2010,,GUILLERMO ALONSO CASTANO PEREZ,4
+00449,011,Curso de Corta Duración Dictados,Perfeccionamiento,Diplomatura del Operadores Comunidad Terapéutica en las áreas desarrollo humano y trabajo grupal,Colombia,2008,UNIVERSIDAD CATOLICA LUIS AMIGO,MARIA CAROLINA MONTOYA MONTOYA,4
+00450,011,Curso de Corta Duración Dictados,Perfeccionamiento,Modelos de tratamiento en farmacodependencia,Colombia,2008,UNIVERSIDAD CATOLICA LUIS AMIGO,MARIA ADELAIDA STORTI CALDERON,4
+00451,011,Curso de Corta Duración Dictados,Extensión extracurricular,Diplomatura,Colombia,2007,Federación Internacional de Universidades Católicas del mundo,GUILLERMO ALONSO CASTANO PEREZ,4
+00452,011,Curso de Corta Duración Dictados,Perfeccionamiento,Seminario de crecimiento personal,Colombia,2007,UNIVERSIDAD CATOLICA LUIS AMIGO,MARIA CAROLINA MONTOYA MONTOYA,4
+00453,011,Curso de Corta Duración Dictados,Perfeccionamiento,Curso sobre construcción de módulos educativos,Honduras,2007,UNIVERSIDAD CATOLICA LUIS AMIGO,MARIA CAROLINA MONTOYA MONTOYA,4
+00454,011,Curso de Corta Duración Dictados,Perfeccionamiento,Elementos pedagógicos en el uso indebido de sustancias psicoactivas,Colombia,2007,UNIVERSIDAD CATOLICA LUIS AMIGO,MARIA ADELAIDA STORTI CALDERON,4
+00455,011,Curso de Corta Duración Dictados,Perfeccionamiento,Curso sobre estructura Curricular de programas de Prevención,República Dominicana,2006,UNIVERSIDAD CATOLICA LUIS AMIGO,MARIA CAROLINA MONTOYA MONTOYA,4
+00456,011,Curso de Corta Duración Dictados,Perfeccionamiento,Construcción de Módulos de Prevención integral para la Federación de Universidades Católicas FIUC,Colombia,2005,Federación de Universidades Católicas FIUC,MARIA CAROLINA MONTOYA MONTOYA,4
+00457,011,Curso de Corta Duración Dictados,Perfeccionamiento,Diplomatura en Rehabilitación Social2005,Colombia,2005,UNIVERSIDAD CATOLICA LUIS AMIGO,MARIA CAROLINA MONTOYA MONTOYA,4
+00458,011,Curso de Corta Duración Dictados,Perfeccionamiento,Diplomatura para líderes juveniles,Colombia,2004,Metro juventud. Alcaldía de Medellín,MARIA CAROLINA MONTOYA MONTOYA,4
+00459,011,Curso de Corta Duración Dictados,Perfeccionamiento,Diplomatura en Rehabilitación Social,Colombia,2003,UNIVERSIDAD CATOLICA LUIS AMIGO,MARIA CAROLINA MONTOYA MONTOYA,4
+00460,011,Curso de Corta Duración Dictados,Perfeccionamiento,Curso de Técnicas Pedagógicas Interactivas,Honduras,2002,UNIVERSIDAD CATOLICA LUIS AMIGO,MARIA CAROLINA MONTOYA MONTOYA,4
+00461,011,Curso de Corta Duración Dictados,Perfeccionamiento,Comunidades Terapéuticas,Colombia,2000,UNIVERSIDAD CATOLICA LUIS AMIGO,MARIA ADELAIDA STORTI CALDERON,4
+00462,012,Curso de Corta Duración Dictados,Extensión extracurricular,Periodismo y Medios Alternativos _ Curso,Colombia,2024,UNIVERSIDAD CATOLICA LUIS AMIGO,MARCOS VEGA SENA,4
+00463,012,Curso de Corta Duración Dictados,Otro,Periodismo y Medios Alternativos _ CUrso,Colombia,2024,UNIVERSIDAD CATOLICA LUIS AMIGO,MARCOS VEGA SENA,4
+00464,012,Curso de Corta Duración Dictados,Extensión extracurricular,Producción de Prensa,Colombia,2024,UNIVERSIDAD CATOLICA LUIS AMIGO,MARCOS VEGA SENA,4
+00465,012,Curso de Corta Duración Dictados,Especialización,Curso de Propaganda,Colombia,2023,UNIVERSIDAD CATOLICA LUIS AMIGO,JORGE ANDRES RICO ZAPATA,4
+00466,012,Curso de Corta Duración Dictados,Extensión extracurricular,Curso en Eventos y Relaciones Públicas,Colombia,2023,UNIVERSIDAD CATOLICA LUIS AMIGO,JORGE ANDRES RICO ZAPATA,4
+00467,012,Curso de Corta Duración Dictados,Extensión extracurricular,Ponencia La propaganda y la opinión pública en el escenario de la comunicación política - VIII Congreso Internacional de Comunicación Estratégica,Colombia,2022,UNIVERSIDAD CATOLICA LUIS AMIGO,JORGE ANDRES RICO ZAPATA,4
+00468,012,Curso de Corta Duración Dictados,Especialización,Conferencia la Necesidad de la comprensión y el análisis sociopolitico y geopolítico en la comunicación y publicidad contemporánea,Colombia,2022,UNIVERSIDAD CATOLICA LUIS AMIGO,JORGE ANDRES RICO ZAPATA,4
+00469,012,Curso de Corta Duración Dictados,Extensión extracurricular,"Propaganda, opinión pública y guerra híbrida - Ejército Nacional de Colombia",Colombia,2022,UNIVERSIDAD CATOLICA LUIS AMIGO,JORGE ANDRES RICO ZAPATA,4
+00470,012,Curso de Corta Duración Dictados,Extensión extracurricular,Ponencia en Panorama político para el escenario social colombiano,Colombia,2022,UNIVERSIDAD CATOLICA LUIS AMIGO,JORGE ANDRES RICO ZAPATA,4
+00471,012,Curso de Corta Duración Dictados,Especialización,Ponente Primer Foro Municipal,Colombia,2022,MUNICIPIO DE ENVIGADO,JORGE ANDRES RICO ZAPATA,4
+00472,012,Curso de Corta Duración Dictados,Extensión extracurricular,"Conferencia Comunicación, propaganda y opinión pública",Colombia,2022,UNIVERSIDAD CATOLICA LUIS AMIGO,JORGE ANDRES RICO ZAPATA,4
+00473,012,Curso de Corta Duración Dictados,Perfeccionamiento,Ciberadicciones y peligros tecnológicos,Guatemala,2020,Instituto E625,JHOEEN SNEYDER ROJAS DIAZ,4
+00474,012,Curso de Corta Duración Dictados,Extensión extracurricular,Marketing Científico,Colombia,2017,UNIVERSIDAD PONTIFICIA BOLIVARIANA,EDWIN ANDRES SEPULVEDA CARDONA,4
+00475,012,Curso de Corta Duración Dictados,Extensión extracurricular,MINISTROS EN LA CIBERCULTURA,Colombia,2017,ASOCIACIÓN DE IGLESIAS EVANGÉLICAS DEL CARIBE,JHOEEN SNEYDER ROJAS DIAZ,4
+00476,012,Curso de Corta Duración Dictados,Perfeccionamiento,MINISTERIOS DIGITALES. USO DE TIC EN LA IGLESIA,Colombia,2017,,JHOEEN SNEYDER ROJAS DIAZ,4
+00477,012,Curso de Corta Duración Dictados,Extensión extracurricular,Cumbre Nacional de Mercadeo y Publicidad - capacitador,Colombia,2016,,RAFAEL VARGAS CANO,4
+00478,012,Curso de Corta Duración Dictados,Extensión extracurricular,Diplomado Cátedra internacional de educación superior y mundo contemporáneo,Colombia,2013,RED DE INSTITUCIONES DE EDUCACION SUPERIOSR DEL CARIBE COLOMBIANO,GABRIEL JAIME LOTERO ECHEVERRI,4
+00479,013,Curso de Corta Duración Dictados,Extensión extracurricular,Epistemología de las ciencias sociales,Colombia,2025,UNIVERSIDAD CATOLICA LUIS AMIGO,JUAN SEBASTIAN HERNANDEZ VALENCIA,4
+00480,013,Curso de Corta Duración Dictados,Extensión extracurricular,Cátedra Interfacultativa,Colombia,2025,UNIVERSIDAD CATOLICA LUIS AMIGO,PALOMA MARIN ESCOBAR,4
+00481,013,Curso de Corta Duración Dictados,Extensión extracurricular,Eros y Amor en Platón,Colombia,2025,UNIVERSIDAD CATOLICA LUIS AMIGO,PALOMA MARIN ESCOBAR,4
+00482,013,Curso de Corta Duración Dictados,Extensión extracurricular,Generalidades del proceso de investigación y construcción de objetos de conocimiento,Colombia,2025,UNIVERSIDAD CATOLICA LUIS AMIGO,PALOMA MARIN ESCOBAR,4
+00483,013,Curso de Corta Duración Dictados,Extensión extracurricular,Hölderlin,Colombia,2025,UNIVERSIDAD CATOLICA LUIS AMIGO,PALOMA MARIN ESCOBAR,4
+00484,013,Curso de Corta Duración Dictados,Extensión extracurricular,"Curso libre, ""El intertestamento",Costa Rica,2024,Universidad Bíblica Latinoamericana,JUAN SEBASTIAN HERNANDEZ VALENCIA,4
+00485,013,Curso de Corta Duración Dictados,Extensión extracurricular,Crítica cultural,Colombia,2024,,PALOMA MARIN ESCOBAR,4
+00486,013,Curso de Corta Duración Dictados,Especialización,Formación Sociohumanísitca,Colombia,2023,UNIVERSIDAD CATOLICA LUIS AMIGO,PALOMA MARIN ESCOBAR,4
+00487,013,Curso de Corta Duración Dictados,Otro,Ética y Axiología,Colombia,2023,UNIVERSIDAD CATOLICA LUIS AMIGO,PALOMA MARIN ESCOBAR,4
+00488,013,Curso de Corta Duración Dictados,Extensión extracurricular,Paradigmas de la investigación,Colombia,2023,UNIVERSIDAD CATOLICA LUIS AMIGO,JUAN SEBASTIAN HERNANDEZ VALENCIA,4
+00489,013,Curso de Corta Duración Dictados,Extensión extracurricular,Electiva II,Colombia,2023,FUNDACION CATOLICA LUMEN GENTIUM,JUAN SEBASTIAN HERNANDEZ VALENCIA,4
+00490,013,Curso de Corta Duración Dictados,Extensión extracurricular,Diplomatura- Módulo Liderazgo en la Biblia,Colombia,2023,UNIVERSIDAD CATOLICA LUIS AMIGO,SONIA LUISA SISTIVA LOAIZA,4
+00491,013,Curso de Corta Duración Dictados,Extensión extracurricular,Griego Bíblico,Colombia,2023,UNIVERSIDAD CATOLICA LUIS AMIGO,SONIA LUISA SISTIVA LOAIZA,4
+00492,013,Curso de Corta Duración Dictados,Extensión extracurricular,Sacramentos de Iniciación Cristiana,Colombia,2023,UNIVERSIDAD CATOLICA LUIS AMIGO,SONIA LUISA SISTIVA LOAIZA,4
+00493,013,Curso de Corta Duración Dictados,Otro,Latín I,Colombia,2023,UNIVERSIDAD CATOLICA LUIS AMIGO,PALOMA MARIN ESCOBAR,4
+00494,013,Curso de Corta Duración Dictados,Otro,Metafísica y Ontología,Colombia,2023,UNIVERSIDAD CATOLICA LUIS AMIGO,PALOMA MARIN ESCOBAR,4
+00495,013,Curso de Corta Duración Dictados,Otro,Hermenéutica,Colombia,2023,UNIVERSIDAD CATOLICA LUIS AMIGO,PALOMA MARIN ESCOBAR,4
+00496,013,Curso de Corta Duración Dictados,Otro,Antropología y Cosmovisiones,Colombia,2023,UNIVERSIDAD CATOLICA LUIS AMIGO,PALOMA MARIN ESCOBAR,4
+00497,013,Curso de Corta Duración Dictados,Extensión extracurricular,Diplomado Psicosociobíblico para el discernimiento vocacional,Colombia,2022,UNIVERSIDAD CATOLICA LUIS AMIGO,SONIA LUISA SISTIVA LOAIZA,4
+00498,013,Curso de Corta Duración Dictados,Extensión extracurricular,Curso Hebreo Bíblico,Colombia,2022,UNIVERSIDAD CATOLICA LUIS AMIGO,SONIA LUISA SISTIVA LOAIZA,4
+00499,013,Curso de Corta Duración Dictados,Extensión extracurricular,Libros Históricos,Colombia,2022,UNIVERSIDAD CATOLICA LUIS AMIGO,SONIA LUISA SISTIVA LOAIZA,4
+00500,013,Curso de Corta Duración Dictados,Extensión extracurricular,Antropología Cristiana y Amigoniana,Colombia,2022,UNIVERSIDAD CATOLICA LUIS AMIGO,SONIA LUISA SISTIVA LOAIZA,4
+00501,013,Curso de Corta Duración Dictados,Extensión extracurricular,Misionología,Colombia,2022,UNIVERSIDAD CATOLICA LUIS AMIGO,SONIA LUISA SISTIVA LOAIZA,4
+00502,013,Curso de Corta Duración Dictados,Extensión extracurricular,Antropología y cosmovisiones,Colombia,2019,UNIVERSIDAD CATOLICA LUIS AMIGO,PALOMA MARIN ESCOBAR,4
+00503,013,Curso de Corta Duración Dictados,Otro,Cine y filosofía,Colombia,2019,UNIVERSIDAD CATOLICA LUIS AMIGO,PALOMA MARIN ESCOBAR,4
+00504,013,Curso de Corta Duración Dictados,Otro,Metafísica y ontología,Colombia,2019,UNIVERSIDAD CATOLICA LUIS AMIGO,PALOMA MARIN ESCOBAR,4
+00505,013,Curso de Corta Duración Dictados,Otro,Teoría del conocimiento,Colombia,2019,UNIVERSIDAD CATOLICA LUIS AMIGO,PALOMA MARIN ESCOBAR,4
+00506,013,Curso de Corta Duración Dictados,Extensión extracurricular,humanismo y cultura ciudadana,Colombia,2019,UNIVERSIDAD PONTIFICIA BOLIVARIANA,ANDRES ESCOBAR VASQUEZ,4
+00507,013,Curso de Corta Duración Dictados,Otro,Introducción a la filosofía,Colombia,2019,UNIVERSIDAD CATOLICA LUIS AMIGO,PALOMA MARIN ESCOBAR,4
+00508,013,Curso de Corta Duración Dictados,Extensión extracurricular,ética y axiología,Colombia,2019,UNIVERSIDAD CATOLICA LUIS AMIGO,ANDRES ESCOBAR VASQUEZ,4
+00509,013,Curso de Corta Duración Dictados,Otro,Latín I,Colombia,2019,,PALOMA MARIN ESCOBAR,4
+00510,013,Curso de Corta Duración Dictados,Otro,Introducción al pensamiento filosófico,Colombia,2019,UNIVERSIDAD CATOLICA LUIS AMIGO,PALOMA MARIN ESCOBAR,4
+00511,013,Curso de Corta Duración Dictados,Extensión extracurricular,antropología y cosmovisiones,Colombia,2019,UNIVERSIDAD CATOLICA LUIS AMIGO,ANDRES ESCOBAR VASQUEZ,4
+00512,013,Curso de Corta Duración Dictados,Extensión extracurricular,arte universal,Colombia,2019,UNIVERSIDAD CATOLICA LUIS AMIGO,ANDRES ESCOBAR VASQUEZ,4
+00513,013,Curso de Corta Duración Dictados,Extensión extracurricular,Mariología,Colombia,2018,Congregación de Religiosos Terciarios Capuchinos,JONNY ALEXANDER GARCIA ECHEVERRI,4
+00514,013,Curso de Corta Duración Dictados,Extensión extracurricular,Pasantía de investigación doctoral,Colombia,2018,UNIVERSIDAD NACIONAL DE COLOMBIA SEDE MEDELLÍN,LINA MARCELA DE LA MILAGROSA CADAVID RAMIREZ,4
+00515,013,Curso de Corta Duración Dictados,Extensión extracurricular,Seminario,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,JONNY ALEXANDER GARCIA ECHEVERRI,4
+00516,013,Curso de Corta Duración Dictados,Otro,Taller de escritura creativa,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00517,013,Curso de Corta Duración Dictados,Otro,Taller de escritura creativa,Colombia,2016,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00518,013,Curso de Corta Duración Dictados,Otro,Taller de escritura creativa,Colombia,2015,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00519,013,Curso de Corta Duración Dictados,Otro,El hombre y sus acciones,Colombia,2014,FUNDACIÓN UNIVERSITARIA CATÓLICA DEL NORTE,DAVID ESTEBAN ZULUAGA MESA,4
+00520,013,Curso de Corta Duración Dictados,Otro,Antropología filosófica,Colombia,2014,FUNDACIÓN UNIVERSITARIA CATÓLICA DEL NORTE,DAVID ESTEBAN ZULUAGA MESA,4
+00521,013,Curso de Corta Duración Dictados,Otro,Metodología de la investigación,Colombia,2012,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00522,013,Curso de Corta Duración Dictados,Otro,Ensayo filosófico,Colombia,2012,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00523,013,Curso de Corta Duración Dictados,Otro,Formación discursiva y argumentativa,Colombia,2012,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00524,013,Curso de Corta Duración Dictados,Especialización,"Diálogo, interpretación y comprensión",Colombia,2010,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00525,013,Curso de Corta Duración Dictados,Especialización,Hermenéutica literaria,Colombia,2010,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00526,013,Curso de Corta Duración Dictados,Otro,Epistemología de las matemáticas,Colombia,2009,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00527,013,Curso de Corta Duración Dictados,Otro,Lingüística,Colombia,2008,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00528,013,Curso de Corta Duración Dictados,Otro,Competencia lingüística,Colombia,2008,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00529,013,Curso de Corta Duración Dictados,Otro,Ética y procesos socio educativos,Colombia,2007,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00530,013,Curso de Corta Duración Dictados,Otro,Epistemología,Colombia,2007,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00531,013,Curso de Corta Duración Dictados,Otro,Teorías políticas,Colombia,2007,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00532,013,Curso de Corta Duración Dictados,Otro,Introducción a la filosofía,Colombia,2007,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00533,013,Curso de Corta Duración Dictados,Otro,Antropología cultural,Colombia,2007,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00534,013,Curso de Corta Duración Dictados,Otro,Pedagogía y comunicación,Colombia,2007,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00535,013,Curso de Corta Duración Dictados,Otro,Proyecto de investigación,Colombia,2007,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00536,013,Curso de Corta Duración Dictados,Otro,Fundamentación filosófica de la ética,Colombia,2007,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00537,013,Curso de Corta Duración Dictados,Otro,Teorías Políticas,Colombia,2007,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00538,013,Curso de Corta Duración Dictados,Otro,Antropología cultural,Colombia,2007,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00539,013,Curso de Corta Duración Dictados,Otro,Introducción a la filosofía,Colombia,2007,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00540,013,Curso de Corta Duración Dictados,Otro,Métodos y técnicas de investigación,Colombia,2007,UNIVERSIDAD CATOLICA LUIS AMIGO,DAVID ESTEBAN ZULUAGA MESA,4
+00541,013,Curso de Corta Duración Dictados,Especialización,Bietica 04,Colombia,2003,UNIVERSIDAD PONTIFICIA BOLIVARIANA,VICTOR RAUL JARAMILLO RESTREPO,4
+00542,013,Curso de Corta Duración Dictados,Especialización,Formacion Humana 04,Colombia,2003,UNIVERSIDAD PONTIFICIA BOLIVARIANA,VICTOR RAUL JARAMILLO RESTREPO,4
+00543,013,Curso de Corta Duración Dictados,Especialización,Curso de extensión sobre abordaje integral en dolor crónico y cuidado paliativo,Colombia,2002,,"VICTOR RAUL JARAMILLO RESTREPO, JOHN JAIRO VARGAS GOMEZ, TIBERIO ALVAREZ ECHEVERRI, ANA MILENA GAVIRIA GOMEZ, CONSUELO MESA VELEZ, MARIA CLARA VELEZ ANGEL",4
+00544,013,Curso de Corta Duración Dictados,Especialización,Curso de extensión en Dolor y Cuidado Paliativo con énfasis en familia,Colombia,2002,,"VICTOR RAUL JARAMILLO RESTREPO, JOHN JAIRO VARGAS GOMEZ, TIBERIO ALVAREZ ECHEVERRI, ALICIA KRIKORIAN DAVELOZA, MARIA CLARA VELEZ ANGEL",4
+00545,013,Curso de Corta Duración Dictados,Especialización,Bioetica 02,Colombia,2002,UNIVERSIDAD PONTIFICIA BOLIVARIANA,"VICTOR RAUL JARAMILLO RESTREPO, TIBERIO ALVAREZ",4
+00546,013,Curso de Corta Duración Dictados,Especialización,Bioetica 03,Colombia,2002,UNIVERSIDAD PONTIFICIA BOLIVARIANA,VICTOR RAUL JARAMILLO RESTREPO,4
+00547,013,Curso de Corta Duración Dictados,Especialización,Formacion Humana 03,Colombia,2002,UNIVERSIDAD PONTIFICIA BOLIVARIANA,"VICTOR RAUL JARAMILLO RESTREPO, JOHN JAIRO VARGAS GOMEZ",4
+00548,013,Curso de Corta Duración Dictados,Especialización,Formacion Humana 02,Colombia,2002,UNIVERSIDAD PONTIFICIA BOLIVARIANA,"VICTOR RAUL JARAMILLO RESTREPO, JOHN JAIRO VARGAS GOMEZ",4
+00549,014,Curso de Corta Duración Dictados,Extensión extracurricular,Gestión del riesgo en las organizaciones,Colombia,2021,UNIVERSIDAD CATOLICA LUIS AMIGO,OLGA PATRICIA VASQUEZ MONTOYA,4
+00550,014,Curso de Corta Duración Dictados,Extensión extracurricular,Educación Financiera Finanzas Personales,Colombia,2020,UNIVERSIDAD CATOLICA LUIS AMIGO,OLGA PATRICIA VASQUEZ MONTOYA,4
+00551,014,Curso de Corta Duración Dictados,Extensión extracurricular,curso formulación de proyectos,Colombia,2020,CORPORACIÓN UNIVERSITARIA REMINGTON,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00552,014,Curso de Corta Duración Dictados,Otro,Curso Preparación y formulación de Proyectos - Maestría,México,2020,Universidad Autónoma De Chiapas,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00553,014,Curso de Corta Duración Dictados,Especialización,Curso evaluación financiera de Proyectos,Colombia,2019,Fundación Universitaria CEIPA,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00554,014,Curso de Corta Duración Dictados,Especialización,Curso Modelación y evaluación Financiera,Colombia,2019,Fundación Universitaria CEIPA,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00555,014,Curso de Corta Duración Dictados,Otro,Curso finanzas - Maestria en Administración,Colombia,2018,UNIVERSIDAD CATOLICA LUIS AMIGO,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00556,014,Curso de Corta Duración Dictados,Extensión extracurricular,Cátedra Abierta Crowdfunding financiamiento de multitudes,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00557,014,Curso de Corta Duración Dictados,Otro,Curso finanzas - Maestria en Administración,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00558,014,Curso de Corta Duración Dictados,Extensión extracurricular,Diplomado NIIF,Colombia,2017,,MARLON DAVID GARCIA JIMENEZ,4
+00559,014,Curso de Corta Duración Dictados,Otro,Taller,Colombia,2017,Universidad La Gran Colombia - Sede Bogotá,LILIAM BETANCUR JARAMILLO,4
+00560,014,Curso de Corta Duración Dictados,Extensión extracurricular,Cátedra Abierta Mercados Privados,Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00561,014,Curso de Corta Duración Dictados,Extensión extracurricular,Taller,Colombia,2017,,LILIAM BETANCUR JARAMILLO,4
+00562,014,Curso de Corta Duración Dictados,Extensión extracurricular,"Catedra abierta Nacionalismo, Economia y Finanzas",Colombia,2017,UNIVERSIDAD CATOLICA LUIS AMIGO,MAURICIO ALEJANDRO BEDOYA JIMENEZ,4
+00563,014,Curso de Corta Duración Dictados,Extensión extracurricular,Taller,Perú,2014,UNIVERSIDAD CATOLICA LUIS AMIGO,LILIAM BETANCUR JARAMILLO,4
+00564,014,Curso de Corta Duración Dictados,Extensión extracurricular,Seminario de Normas Internacionales de Información Financiera,Colombia,2013,UNIVERSIDAD CATOLICA LUIS AMIGO,ELKIN HORACIO QUIROS LIZARAZO,4
