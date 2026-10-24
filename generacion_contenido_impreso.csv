@@ -1,0 +1,45 @@
+id,id_grupo,categoria,tipo_producto,titulo,ano,autores,tipologia
+00001,001,Generación de Contenido Impreso,Guía,Aplicación Triangulos oblicuangulos,2020-10-06,"INGRID DURLEY TORRES PARDO, FRANKLIN FERRARO GOMEZ",3
+00002,001,Generación de Contenido Impreso,Manual,Conceptos básicos sobre elaboración de mapas conceptuales en Cmaptools,2012-06-06,JUAN CARLOS MONSALVE GOMEZ,3
+00003,002,Generación de Contenido Impreso,Manual,Convocatoria para semilleros de investigación de la Facultad de Derecho y Ciencias Humanas de la FUNLAM,,JORGE EDUARDO VASQUEZ SANTAMARIA,3
+00004,002,Generación de Contenido Impreso,Manual,Formación y Funcionamiento de Semilleros de Investigación en la Facultad de Derecho y Ciencias Humanas de la FUNLAM,,JORGE EDUARDO VASQUEZ SANTAMARIA,3
+00005,002,Generación de Contenido Impreso,Boletín,Expedición pacífica,2023-10-02,PAOLA ANDREA CARMONA TORO,3
+00006,002,Generación de Contenido Impreso,Boletín,Estrategias de sobrevivencia de los jóvenes en condiciones de pobreza,2014-10-30,"SANTIAGO ALBERTO MORALES MESA, ALFREDO MANUEL GHISO COTOS, OLGA LUCIA ARBOLEDA ALVAREZ",3
+00007,003,Generación de Contenido Impreso,Manual,Teoría y Metodologìa de investigaciòn,,CARLOS ANDRES ARISTIZABAL BOTERO,3
+00008,003,Generación de Contenido Impreso,Metodología,Carta descritiva curso Finanzas MAADM03- Maestría en administración,2017-07-19,MAURICIO ALEJANDRO BEDOYA JIMENEZ,3
+00009,003,Generación de Contenido Impreso,Metodología,Carta descritiva curso Innovacion Social MAADME07- Maestría en administración,2017-07-19,MAURICIO ALEJANDRO BEDOYA JIMENEZ,3
+00010,004,Generación de Contenido Impreso,Boletín,Seguridad social latinoamericana: Protección financiera en salud ¿qué ha pasado en América Latina en medio de la pandemia de Covid 19?,2022-07-05,JUAN JOSE ESPINAL PIEDRAHITA,3
+00011,004,Generación de Contenido Impreso,Manual,Manual de Practicas del Programa de Negocios Internacionales,2017-02-01,ROSA JANNET RESTEPO RESTREPO,3
+00012,004,Generación de Contenido Impreso,Cartilla,Estrategias de sobrevivencia de los jovenes en condiciones de pobreza,2014-10-30,"OLGA LUCIA ARBOLEDA ALVAREZ, ALFREDO GHISO COTOS, SANTIAGO ALBERTO MORALES MESA",3
+00013,005,Generación de Contenido Impreso,,,,,3
+00014,006,Generación de Contenido Impreso,,,,,3
+00015,007,Generación de Contenido Impreso,Manual,Guía de estudio y trabajo del Seminario Antropología Social en la especialización: ANIMACION SOCIOCULTURAL Y PEDAGOGIA SOCIAL.,,LUZ MERY ARIAS MUNOZ,3
+00016,008,Generación de Contenido Impreso,Boletín,Boletín Colombiano de Psicología Ambiental,2025-05-15,KATY LUZ MILLAN OTERO,3
+00017,008,Generación de Contenido Impreso,Boletín,La mirada compleja de la inequidad de género: necesidad de la transición paradigmática,2022-09-08,NICOLASA MARIA DURAN PALACIO,3
+00018,008,Generación de Contenido Impreso,Boletín,La autoeficacia emocional y la empatía como categorías generativas del bienestar juvenil,2022-09-08,NICOLASA MARIA DURAN PALACIO,3
+00019,008,Generación de Contenido Impreso,Manual,Evaluación y Monitoreo de Proyectos Psicosociales,2014-12-19,JOHN JAIRO GARCIA PENA,3
+00020,008,Generación de Contenido Impreso,Manual,"Diseño, Formulación y Gestión de Proyectos Psicosociales .",2014-07-25,JOHN JAIRO GARCIA PENA,3
+00021,008,Generación de Contenido Impreso,Manual,Las Fabiolas: Propuesta de Modelo de Reparación Integral para mujeres y niñas víctimas de las violencias sexuales en el contexto del conflicto armado colombiano.,2013-12-06,JOHN JAIRO GARCIA PENA,3
+00022,008,Generación de Contenido Impreso,Cartilla,Documento Maestro del Programa de Psicología Presencial para Registro calificado ante el Ministerio de Educación Nacional.,2013-09-28,JOHN JAIRO GARCIA PENA,3
+00023,008,Generación de Contenido Impreso,Cartilla,Documento Maestro Programa Especialización en Gestión de Procesos Psicosociales para registro Calificado ante Ministerio de Educación Nacional.,2013-08-02,JOHN JAIRO GARCIA PENA,3
+00024,008,Generación de Contenido Impreso,Manual,Metodologías participativas de intervención psicosocial.,2008-11-29,JOHN JAIRO GARCIA PENA,3
+00025,009,Generación de Contenido Impreso,Cartilla,capitulo: fundamentos de la democracia escolar,2017-01-25,MARCOS AURELIO CORRALES SIBAJA,3
+00026,010,Generación de Contenido Impreso,Boletín,Aportes al estudio de la violencia filio-parental en Colombia.,2021-03-05,VIVIANA CARMENZA AVILA NAVARRETE,3
+00027,011,Generación de Contenido Impreso,Cartilla,LA ESCUELA UN ESPACIO DE HUMANIZACIÓN,,MARIA CAROLINA MONTOYA MONTOYA,3
+00028,011,Generación de Contenido Impreso,Manual,La pedagogía Amigoniana en el uso indebido de sustancias psicoactivas,,MARIA ADELAIDA STORTI CALDERON,3
+00029,011,Generación de Contenido Impreso,Manual,La ludopatía en el ámbito Universitario,,MARIA ADELAIDA STORTI CALDERON,3
+00030,011,Generación de Contenido Impreso,Manual,Construcción Curricular de la Propuesta Formación de Formadores en Prevención Integral,,MARIA CAROLINA MONTOYA MONTOYA,3
+00031,011,Generación de Contenido Impreso,Manual,Metodologías pedagógicas interactivas,,MARIA CAROLINA MONTOYA MONTOYA,3
+00032,011,Generación de Contenido Impreso,Manual,Construcción de Módulos de Prevención integral para la Federación de Universidades Católicas FIUC,,MARIA CAROLINA MONTOYA MONTOYA,3
+00033,011,Generación de Contenido Impreso,Manual,Componente formativo pedagógico en los programas de prevención integral.,,MARIA CAROLINA MONTOYA MONTOYA,3
+00034,011,Generación de Contenido Impreso,Manual,Sistema de Atención al habitante de Calle Adulto,2013-10-15,"SANDRA MILENA RESTREPO ESCOBAR, MARIA ADELAIDA STORTI CALDERON",3
+00035,011,Generación de Contenido Impreso,Manual,Sistema de Atención al habitante de Calle Adulto.,2013-10-15,"SANDRA MILENA RESTREPO ESCOBAR, MARIA ADELAIDA STORTI CALDERON",3
+00036,012,Generación de Contenido Impreso,Manual,Texto guía para el curso Publicidad Social.,,RAFAEL MAURICIO PARIS RESTREPO,3
+00037,012,Generación de Contenido Impreso,Manual,Carta descriptiva para el curso: Publicidad Social.,,RAFAEL MAURICIO PARIS RESTREPO,3
+00038,013,Generación de Contenido Impreso,,,,,3
+00039,014,Generación de Contenido Impreso,Boletín,Importancia de la educación contable ambiental,2022-11-11,CANDY LORENA CHAMORRO GONZALEZ,3
+00040,014,Generación de Contenido Impreso,Boletín,"Retos, obstáculos, tendencias y avances de las investigaciones de género en contabilidad.",2022-02-18,CANDY LORENA CHAMORRO GONZALEZ,3
+00041,014,Generación de Contenido Impreso,Boletín,Reflexiones encaminadas a las futuras tendencias de la contabilidad verde,2021-04-14,CANDY LORENA CHAMORRO GONZALEZ,3
+00042,014,Generación de Contenido Impreso,Boletín,Inequidad de género; en los rangos más altos de la profesión contable,2021-04-14,CANDY LORENA CHAMORRO GONZALEZ,3
+00043,014,Generación de Contenido Impreso,Metodología,Carta descriptiva curso teoria Financiera EF16 - Especialización en finanzas,2019-02-27,MAURICIO ALEJANDRO BEDOYA JIMENEZ,3
+00044,014,Generación de Contenido Impreso,Metodología,Carta descriptiva curso Innovación - MAADME06 Financiera,2017-07-19,MAURICIO ALEJANDRO BEDOYA JIMENEZ,3
