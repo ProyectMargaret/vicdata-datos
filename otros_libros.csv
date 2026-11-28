@@ -1,0 +1,46 @@
+id,id_grupo,categoria,tipo_producto,titulo,pais,ano,autores,tipologia
+00001,001,Otros Libros publicados,Libro pedagógico y/o de divulgación,Elementos básicos de estadística descriptiva para el análisis de datos,Colombia,2016,GABRIEL JAIME POSADA HERNANDEZ,1
+00002,001,Otros Libros publicados,Otro libro publicado,Línea De Investigación En Matemáticas Aplicadas,Colombia,2012,LUIS FERNANDO VARGAS CANO,1
+00003,001,Otros Libros publicados,Otro libro publicado,Línea De Investigación En Matemáticas Aplicadas,Colombia,2012,GABRIEL JAIME POSADA HERNANDEZ,1
+00004,001,Otros Libros publicados,Otro libro publicado,Línea De Investigación En Matemáticas Aplicadas,Colombia,2012,MAURICIO LOPEZ BONILLA,1
+00005,002,Otros Libros publicados,Otro libro publicado,EL CONCEPTO DE CONSTITUCION. UN RECORRIDO HISTÓRICO.,Colombia,2015,JESUS DAVID LONDONO BEDOYA,1
+00006,002,Otros Libros publicados,Otro libro publicado,EL PRECEDENTE ADMINISTRATIVO Y SU CONSOLIDACIÓN EN EL DERECHO COLOMBIANO.,Colombia,2015,JESUS DAVID LONDONO BEDOYA,1
+00007,003,Otros Libros publicados,,,,,,1
+00008,004,Otros Libros publicados,Libro pedagógico y/o de divulgación,Organizaciones de la Sociedad Civil en Caldas,Colombia,2019,"MONICA ANDREA BERNAL HERRERA, EDUARDO LINDARTE MIDDLETON, JAIME EDUARDO GALLEGO GONZALEZ, DORALICE ORTIZ ORTIZ, DIANA MARCELA GOMEZ SANCHEZ, LORENA AGUIRRE ALDANA",1
+00009,004,Otros Libros publicados,Otro libro publicado,Costeo de Operaciones Internacionales,Colombia,2019,ROSA JANNET RESTEPO RESTREPO,1
+00010,004,Otros Libros publicados,Otro libro publicado,Sistematización del fortalecimiento de organizaciones solidarias creadas en los espacios territoriales de capacitación y reincorporación por parte del SUEJE y la UAEOS,Colombia,2017,HERNANDO EMILIO ZABALA SALAZAR,1
+00011,004,Otros Libros publicados,Otro libro publicado,"Cooperativismo, Historia y Doctrina",Colombia,2016,HERNANDO EMILIO ZABALA SALAZAR,1
+00012,004,Otros Libros publicados,Otro libro publicado,Clic: Implicaciones de la Virtualidad Globalizada en el Sujeto,Colombia,2015,"LILIAN JOHANNA MARROQUIN NAVARRO, ALEXANDER RODRIGUEZ BUSTAMANTE, GLORIA MARIA LOPEZ ARBOLEDA",1
+00013,004,Otros Libros publicados,Libro pedagógico y/o de divulgación,"Participación Y Representación, Nuevos Paradigmas Para La Sociedad Civil",México,2013,HERNANDO EMILIO ZABALA SALAZAR,1
+00014,005,Otros Libros publicados,,,,,,1
+00015,006,Otros Libros publicados,Libro pedagógico y/o de divulgación,El cuento como estrategia pedagógica: una apuesta para pensar-se y narrar-se en el aula,Colombia,2016,JOSE FEDERICO AGUDELO TORRES,1
+00016,007,Otros Libros publicados,Libro pedagógico y/o de divulgación,Fundamentos tacticos - estrategicos del fútbol de salón,Colombia,2014,JOSE TOMAS CORTES DIAZ,1
+00017,007,Otros Libros publicados,Otro libro publicado,Libélula Celta,Colombia,2011,FREDY ALEXANDER ROMERO GUZMAN,1
+00018,007,Otros Libros publicados,Libro pedagógico y/o de divulgación,Convivencia Escolar. Manual De Referencia Bibliográfica,Colombia,2000,"LUZ MERY ARIAS MUNOZ, RED DE CONVIVENCIA ESCOLAR, CORPORACION REGION",1
+00019,007,Otros Libros publicados,Libro pedagógico y/o de divulgación,Convivencia Escolar. Manual De Referencia Bibliográfica,Colombia,2000,LUZ MERY ARIAS MUNOZ,1
+00020,008,Otros Libros publicados,Otro libro publicado,La Mediación Y La Evolución Histórica De La Idea De Conflicto,España,2010,FLORENTINO MORENO MARTIN,1
+00021,009,Otros Libros publicados,Otro libro publicado,"LECCIONES DE RÉGIMEN DISCIPLINARIO DE LOS SERVIDORES PÚBLICOS ""Serie de Conocimientos Prácticos""",Colombia,2018,CARLOS RODRIGUEZ SANTOS,1
+00022,009,Otros Libros publicados,Otro libro publicado,LECCIONES DE EL DEBIDO PROCESO O PROCESO DEBIDO FUNDAMENTAL,Colombia,2018,CARLOS RODRIGUEZ SANTOS,1
+00023,009,Otros Libros publicados,Otro libro publicado,"LECCIONES DE CONTRATACIÓN ESTATAL, Serie de conocimientos practicos",Colombia,2018,CARLOS RODRIGUEZ SANTOS,1
+00024,009,Otros Libros publicados,Otro libro publicado,LECCIONES DE RESPONSABILIDAD FISCAL Y JURISDICCION COACTIVA,Colombia,2018,CARLOS RODRIGUEZ SANTOS,1
+00025,009,Otros Libros publicados,Otro libro publicado,LECCIONES DE TECNICA DEL DERECHO. Sereie de conocimientos practicos,Colombia,2017,CARLOS RODRIGUEZ SANTOS,1
+00026,009,Otros Libros publicados,Libro pedagógico y/o de divulgación,LECCIONES DE LÓGICA FORMAL APLICABLE DEL DERECHO,Colombia,2017,CARLOS RODRIGUEZ SANTOS,1
+00027,009,Otros Libros publicados,Otro libro publicado,LECCIONES DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO COLOMBIANO,Colombia,2017,CARLOS RODRIGUEZ SANTOS,1
+00028,009,Otros Libros publicados,Otro libro publicado,LECCIONES DEL ACTO ADMINISTRATIVO Y EL DERECHO DE PETICIÓN. Serie de conocimientos prácticos,Colombia,2016,CARLOS RODRIGUEZ SANTOS,1
+00029,009,Otros Libros publicados,Otro libro publicado,LECCIONES DE TEORÍA DE LA CONSTITUCIÓN. Serie de conocimientos prácticos,Colombia,2016,CARLOS RODRIGUEZ SANTOS,1
+00030,009,Otros Libros publicados,Otro libro publicado,LECCIONES DE CONSTITUCIONALISMO EN COLOMBIA. Serie de conocimientos prácticos,Colombia,2016,CARLOS RODRIGUEZ SANTOS,1
+00031,009,Otros Libros publicados,Otro libro publicado,LECCIONES DE DERECHO PROCESAL ADMINISTRATIVO. Serie de conocimientos prácticos.,Colombia,2016,CARLOS RODRIGUEZ SANTOS,1
+00032,009,Otros Libros publicados,Otro libro publicado,LECCIONES DE ADMINISTRACIÓN PÚBLICA. Serie de conocimientos prácticos.,Colombia,2016,CARLOS RODRIGUEZ SANTOS,1
+00033,009,Otros Libros publicados,Otro libro publicado,Historia de Colombia,Colombia,2005,ALBERTO GOMEZ MARTINEZ,1
+00034,009,Otros Libros publicados,Otro libro publicado,Politicas de Juventud,Colombia,1994,LUCILA SOTTER MERCADO,1
+00035,009,Otros Libros publicados,Otro libro publicado,Epopeya de la Conformidad,Colombia,1977,JOAQUIN JOSE ROJANO DE LA HOZ,1
+00036,010,Otros Libros publicados,,,,,,1
+00037,011,Otros Libros publicados,,,,,,1
+00038,012,Otros Libros publicados,Otro libro publicado,"Medellín, Ciudad Fragmentada. Modernidad, Comunicación Y Cultura En La Contemporaneidad.",Colombia,2008,PAOLO ANTONIO VILLALBA STORTI,1
+00039,013,Otros Libros publicados,Otro libro publicado,La Ruptura Social Y Ontologica Con La Muerte,Alemania,2012,MILTON ANDRES ORTIZ ESCOBAR,1
+00040,013,Otros Libros publicados,Otro libro publicado,Bataille: Erotismo Y Filosofia,Alemania,2012,MILTON ANDRES ORTIZ ESCOBAR,1
+00041,013,Otros Libros publicados,Otro libro publicado,Sonata De Una Muerte,Colombia,2008,VICTOR RAUL JARAMILLO RESTREPO,1
+00042,013,Otros Libros publicados,Otro libro publicado,Filosofía Como Medicina: Una Mirada Hermenéutica,Colombia,2006,VICTOR RAUL JARAMILLO RESTREPO,1
+00043,013,Otros Libros publicados,Otro libro publicado,Filosofia Como Medicina Una Mirada Hermeneutica,Colombia,2005,VICTOR RAUL JARAMILLO RESTREPO,1
+00044,013,Otros Libros publicados,Otro libro publicado,La reunión del solitario,Colombia,2002,VICTOR RAUL JARAMILLO RESTREPO,1
+00045,014,Otros Libros publicados,Otro libro publicado,Impuesto a la renta desde lo práctico,Colombia,2016,CESAR AUGUSTO VALENCIA BAQUERO,1
